@@ -1,12 +1,16 @@
 # Kapitola VI — Opatření na podporu inovací (čl. 57–63)
 
-⟦INTRO⟧
+Kapitola VI nařízení (EU) 2024/1689 (AI Act) vytváří právní rámec pro to, aby inovace v oblasti umělé inteligence mohla probíhat v podmínkách právní jistoty a pod dohledem příslušných orgánů. Uznání, že přísná pravidla pro vysoce rizikové systémy AI mohou být pro menší subjekty vstupní bariérou, vedlo zákonodárce k zavedení dvou komplementárních nástrojů: regulatorního sandboxu pro AI (čl. 57–58) a testování v reálných podmínkách mimo sandbox (čl. 60). Oba nástroje sdílejí společný cíl — umožnit vývoj, testování a validaci inovativních systémů AI dříve, než jsou uvedeny na trh nebo do provozu, a zároveň zachovat soulad s požadavky nařízení a relevantního unijního i vnitrostátního práva.
+
+Regulatorní sandbox pro AI je kontrolované prostředí zřízené příslušným orgánem členského státu, v němž poskytovatelé nebo potenciální poskytovatelé mohou v omezeném čase a podle schváleného plánu vyvíjet, trénovat, testovat a validovat inovativní systémy AI. Sandbox nesnižuje ochranu základních práv, zdraví ani bezpečnosti, avšak umožňuje flexibilní výklad předpisů a dialog mezi regulátorem a inovátorem, čímž přispívá k tzv. regulatornímu učení (regulatory learning) zakotvenému v čl. 57 odst. 9. Zvláštní průřezový prvek představuje čl. 59, který za přísně vymezených podmínek a v souladu s čl. 6 a 89 nařízení (EU) 2016/679 (GDPR) umožňuje další zpracování osobních údajů původně sebraných za jiným účelem — jde o výjimku z obecného zákazu účelové neslučitelnosti a jeho zákonnost musí být vždy posouzena v každém konkrétním případě.
+
+Kapitola věnuje zvláštní pozornost malým a středním podnikům (MSP) a start-upům: čl. 58 zaručuje bezplatný přístup do sandboxu, čl. 62 ukládá členským státům a Úřadu pro AI přijmout konkrétní opatření na snížení administrativní a finanční zátěže a čl. 63 zavádí zjednodušené plnění systému řízení kvality pro mikropodniky. Napětí mezi cílem podpory inovací a ochranou práv subjektů údajů, jmenovitě v kontextu čl. 59, je klíčovým normativním rizikem celé kapitoly a je zmírněno soustavou kumulativních podmínek a mechanismů dohledu ze strany orgánů ochrany osobních údajů.
 
 ---
 
 ## Kapitola VI — Opatření na podporu inovací
 
-### Čl. 57 — ⟦NÁZEV 57⟧
+### Čl. 57 — Regulatorní sandboxy pro AI
 
 **Doslovné znění (EN) — Article 57 — AI regulatory sandboxes:**
 
@@ -58,11 +62,65 @@
 >
 > 17. The Commission shall develop a single and dedicated interface containing all relevant information related to AI regulatory sandboxes to allow stakeholders to interact with AI regulatory sandboxes and to raise enquiries with competent authorities, and to seek non-binding guidance on the conformity of innovative products, services, business models embedding AI technologies, in accordance with Article 62(1), point (c). The Commission shall proactively coordinate with national competent authorities, where relevant.
 
-⟦FILL 57⟧
+**Pracovní překlad (CZ):**
+
+> 1. Členské státy zajistí, aby jejich příslušné orgány zřídily nejméně jeden regulatorní sandbox pro AI na vnitrostátní úrovni, který bude funkční do 2. srpna 2026. Takový sandbox může být rovněž zřízen společně s příslušnými orgány jiných členských států. Komise může poskytovat technickou podporu, poradenství a nástroje pro zřízení a provoz regulatorních sandboxů pro AI.
+>
+> Povinnost vyplývající z prvního pododstavce může být splněna rovněž účastí na stávajícím sandboxu, pokud tato účast zajišťuje rovnocentnou míru vnitrostátního pokrytí pro zúčastněné členské státy.
+>
+> 2. Mohou být rovněž zřízeny další regulatorní sandboxy pro AI na regionální nebo místní úrovni nebo zřízené společně s příslušnými orgány jiných členských států.
+>
+> 3. Evropský inspektor ochrany údajů může rovněž zřídit regulatorní sandbox pro AI pro orgány, subjekty, úřady a agentury Unie a může vykonávat úlohy a pravomoci vnitrostátních příslušných orgánů v souladu s touto kapitolou.
+>
+> 4. Členské státy zajistí, aby příslušné orgány uvedené v odstavcích 1 a 2 přidělily dostatečné zdroje pro účinné a včasné plnění tohoto článku. V příslušných případech budou vnitrostátní příslušné orgány spolupracovat s jinými relevantními orgány a mohou umožnit zapojení dalších aktérů z ekosystému AI. Tímto článkem nejsou dotčeny jiné regulatorní sandboxy zřízené podle práva Unie nebo vnitrostátního práva. Členské státy zajistí přiměřenou úroveň spolupráce mezi orgány dohlížejícími na tyto jiné sandboxy a vnitrostátními příslušnými orgány.
+>
+> 5. Regulatorní sandboxy pro AI zřízené podle odstavce 1 poskytují kontrolované prostředí, které podporuje inovace a usnadňuje vývoj, trénování, testování a validaci inovativních systémů AI po omezenou dobu před jejich uvedením na trh nebo uvedením do provozu v souladu se specifickým plánem sandboxu dohodnutým mezi poskytovateli nebo potenciálními poskytovateli a příslušným orgánem. Tyto sandboxy mohou zahrnovat testování v reálných podmínkách v nich prováděné pod dohledem.
+>
+> 6. Příslušné orgány poskytují v regulatorním sandboxu pro AI, je-li to vhodné, pokyny, dohled a podporu za účelem identifikace rizik, zejména pro základní práva, zdraví a bezpečnost, testování, zmírňujících opatření a jejich účinnosti ve vztahu k povinnostem a požadavkům tohoto nařízení a případně dalšího práva Unie a vnitrostátního práva dohlíženého v rámci sandboxu.
+>
+> 7. Příslušné orgány poskytují poskytovatelům a potenciálním poskytovatelům účastnícím se regulatorního sandboxu pro AI pokyny k regulatorním očekáváním a způsobu splnění požadavků a povinností stanovených tímto nařízením.
+>
+> Na žádost poskytovatele nebo potenciálního poskytovatele systému AI vydá příslušný orgán písemné potvrzení o činnostech úspěšně provedených v sandboxu. Příslušný orgán rovněž vydá závěrečnou zprávu podrobně popisující činnosti provedené v sandboxu a jejich výsledky a získané poznatky. Poskytovatelé mohou tuto dokumentaci využít k prokázání svého souladu s tímto nařízením v rámci procesu posouzení shody nebo příslušných činností dozoru nad trhem. V tomto ohledu budou závěrečné zprávy a písemná potvrzení vydaná vnitrostátním příslušným orgánem orgány dozoru nad trhem a oznámenými subjekty zohledněna kladně, s cílem přiměřeně urychlit postupy posouzení shody.
+>
+> 8. S výhradou ustanovení o důvěrnosti v článku 78 a se souhlasem poskytovatele nebo potenciálního poskytovatele jsou Komise a Rada AI oprávněny přistupovat k závěrečným zprávám a přihlíží k nim, jak je to vhodné, při plnění svých úkolů podle tohoto nařízení. Pokud tak výslovně souhlasí jak poskytovatel nebo potenciální poskytovatel, tak vnitrostátní příslušný orgán, může být závěrečná zpráva zpřístupněna veřejnosti prostřednictvím jednotné informační platformy uvedené v tomto článku.
+>
+> 9. Cílem zřizování regulatorních sandboxů pro AI je přispívat k následujícím cílům:
+>
+> (a) zlepšení právní jistoty za účelem dosažení souladu s předpisy v rámci tohoto nařízení nebo případně jiného příslušného práva Unie a vnitrostátního práva;
+>
+> (b) podpora sdílení osvědčených postupů prostřednictvím spolupráce s orgány zapojenými do regulatorního sandboxu pro AI;
+>
+> (c) podpora inovací a konkurenceschopnosti a usnadnění rozvoje ekosystému AI;
+>
+> (d) přispění k regulatornímu učení založenému na důkazech;
+>
+> (e) usnadnění a urychlení přístupu na trh Unie pro systémy AI, zejména pokud jsou poskytovány malými a středními podniky (MSP) včetně start-upů.
+>
+> 10. Vnitrostátní příslušné orgány zajistí, aby v případě, kdy inovativní systémy AI zahrnují zpracování osobních údajů nebo jinak spadají pod dozorovou působnost jiných vnitrostátních orgánů nebo příslušných orgánů poskytujících nebo podporujících přístup k datům, byli vnitrostátní orgány pro ochranu údajů a tyto jiné vnitrostátní nebo příslušné orgány přidruženi k provozu regulatorního sandboxu pro AI a zapojeni do dohledu nad těmito aspekty v rozsahu svých příslušných úkolů a pravomocí.
+>
+> 11. Regulatorní sandboxy pro AI nesmějí narušovat pravomoci příslušných orgánů dohlíženích nad sandboxy k dozoru nebo nápravným opatřením, a to ani na regionální nebo místní úrovni. Jakákoli závažná rizika pro zdraví, bezpečnost a základní práva zjištěná během vývoje a testování takových systémů AI musí vést k přiměřenému zmírnění. Vnitrostátní příslušné orgány mají pravomoc dočasně nebo trvale pozastavit proces testování nebo účast v sandboxu, pokud účinné zmírnění není možné, a o takovém rozhodnutí informují Úřad pro AI. Vnitrostátní příslušné orgány vykonávají své dozorové pravomoci v mezích příslušných právních předpisů a využívají svého správního uvážení při provádění právních ustanovení vztahujících se ke konkrétnímu projektu regulatorního sandboxu pro AI s cílem podporovat inovace v oblasti AI v Unii.
+>
+> 12. Poskytovatelé a potenciální poskytovatelé účastnící se regulatorního sandboxu pro AI odpovídají podle příslušného práva Unie a vnitrostátního práva v oblasti odpovědnosti za škodu způsobenou třetím stranám v důsledku experimentování prováděného v sandboxu. Avšak za předpokladu, že potenciální poskytovatelé dodržují konkrétní plán a podmínky pro svou účast a řídí se v dobré víře pokyny vnitrostátního příslušného orgánu, nesmějí jim orgány za porušení tohoto nařízení uložit správní pokuty. Pokud jiné příslušné orgány odpovědné za jiné právo Unie a vnitrostátní právo byly aktivně zapojeny do dohledu nad systémem AI v sandboxu a poskytly pokyny pro dosažení souladu, nesmějí být v souvislosti s tímto právem uloženy správní pokuty.
+>
+> 13. Regulatorní sandboxy pro AI jsou navrženy a prováděny takovým způsobem, aby v příslušných případech usnadňovaly přeshraniční spolupráci mezi vnitrostátními příslušnými orgány.
+>
+> 14. Vnitrostátní příslušné orgány koordinují své činnosti a spolupracují v rámci Rady AI.
+>
+> 15. Vnitrostátní příslušné orgány informují Úřad pro AI a Radu AI o zřízení sandboxu a mohou od nich žádat podporu a pokyny. Úřad pro AI zveřejňuje seznam plánovaných a stávajících sandboxů a průběžně jej aktualizuje za účelem podpory větší interakce v regulatorních sandboxech pro AI a přeshraniční spolupráce.
+>
+> 16. Vnitrostátní příslušné orgány předkládají Úřadu pro AI a Radě AI výroční zprávy, a to od jednoho roku po zřízení regulatorního sandboxu pro AI a každoročně poté až do jeho ukončení, a závěrečnou zprávu. Tyto zprávy poskytují informace o pokroku a výsledcích provádění těchto sandboxů, včetně osvědčených postupů, incidentů, získaných zkušeností a doporučení ohledně jejich nastavení a případně ohledně uplatňování a možné revize tohoto nařízení, včetně jeho aktů v přenesené pravomoci a prováděcích aktů, a ohledně uplatňování jiného práva Unie dohlíženého příslušnými orgány v rámci sandboxu. Vnitrostátní příslušné orgány zpřístupní tyto výroční zprávy nebo jejich výtahy veřejnosti online. Komise přihlíží k výročním zprávám, je-li to vhodné, při plnění svých úkolů podle tohoto nařízení.
+>
+> 17. Komise vytvoří jednotné specializované rozhraní obsahující veškeré relevantní informace týkající se regulatorních sandboxů pro AI, aby umožnila zúčastněným stranám komunikovat s regulatorními sandboxy pro AI a předkládat dotazy příslušným orgánům a žádat o nezávazné pokyny ohledně shody inovativních produktů, služeb a obchodních modelů zahrnujících technologie AI v souladu s čl. 62 odst. 1 písm. c). Komise v příslušných případech aktivně koordinuje svou činnost s vnitrostátními příslušnými orgány.
+
+**Výklad:** Článek 57 je zakládajícím ustanovením celé kapitoly o podpoře inovací a zakotvuje instituci regulatorního sandboxu pro AI jako klíčový nástroj kontrolovaného regulatorního experimentování. Povinnost zřídit alespoň jeden sandbox na vnitrostátní úrovni do 2. srpna 2026 (odst. 1) je imperativní normou ukládanou členským státům a navazuje na terminologii bodů odůvodnění 138–143, které sandbox označují jako prostředek snížení regulatorní zátěže a podpory právní jistoty před vstupem na trh.
+
+Vymezení sandboxu v odst. 5 zdůrazňuje tři charakteristiky: (i) kontrolované prostředí, (ii) časové omezení a (iii) existenci schváleného plánu sandboxu. Plán sandboxu je právně závazným podkladem pro vznik podmíněné ochrany před správními pokutami podle odst. 12 — poskytovatel může být osvobozen od pokut, pokud jednal v dobré víře a v souladu s pokyny orgánu. Tato podmíněná imunita je výjimečná a nemá například v GDPR přímý ekvivalent; jejím účelem je snížit rizikovou averzi inovátorů vůči sandboxové účasti.
+
+Odstavec 10 zakotvuje povinnou asociaci orgánů ochrany osobních údajů (a jiných sektorových regulátorů) v případě, kdy sandbox zahrnuje zpracování osobních údajů. Tím je realizována koordinace s dozorovou strukturou kapitoly IX nařízení a s GDPR. Propojení s Radou AI (odst. 14) a Úřadem pro AI (odst. 15–16) zajišťuje unijní soudržnost a přehled nad existujícími sandboxy. Výroční a závěrečné zprávy podle odst. 16 plní funkci regulatorního učení — shromažďují zkušenosti z praxe a mohou ovlivnit budoucí revize nařízení. Závěrečné zprávy mají rovněž pozitivní procesní efekt při posouzení shody a dozoru nad trhem (odst. 7–8), což vytváří pobídku k aktivní účasti v sandboxu.
 
 ---
 
-### Čl. 58 — ⟦NÁZEV 58⟧
+### Čl. 58 — Podrobná pravidla pro regulatorní sandboxy pro AI a jejich fungování
 
 **Doslovné znění (EN) — Article 58 — Detailed arrangements for, and functioning of, AI regulatory sandboxes:**
 
@@ -100,11 +158,51 @@
 >
 > 4. Where national competent authorities consider authorising testing in real world conditions supervised within the framework of an AI regulatory sandbox to be established under this Article, they shall specifically agree the terms and conditions of such testing and, in particular, the appropriate safeguards with the participants, with a view to protecting fundamental rights, health and safety. Where appropriate, they shall cooperate with other national competent authorities with a view to ensuring consistent practices across the Union.
 
-⟦FILL 58⟧
+**Pracovní překlad (CZ):**
+
+> 1. Za účelem předcházení fragmentaci v rámci Unie přijme Komise prováděcí akty specifikující podrobná pravidla pro zřizování, rozvoj, provádění, provoz a dohled nad regulatorními sandboxy pro AI. Prováděcí akty budou zahrnovat společné zásady pro následující otázky:
+>
+> (a) kritéria způsobilosti a výběru pro účast v regulatorním sandboxu pro AI;
+>
+> (b) postupy pro podání žádosti, účast, sledování, vystoupení ze sandboxu a jeho ukončení, včetně plánu sandboxu a závěrečné zprávy;
+>
+> (c) podmínky použitelné na účastníky.
+>
+> Tyto prováděcí akty se přijímají v souladu s přezkumným postupem uvedeným v čl. 98 odst. 2.
+>
+> 2. Prováděcí akty uvedené v odstavci 1 zajistí:
+>
+> (a) aby regulatorní sandboxy pro AI byly otevřeny pro každého žadatele — poskytovatele nebo potenciálního poskytovatele systému AI — který splní kritéria způsobilosti a výběru, jež musí být transparentní a spravedlivá, a aby vnitrostátní příslušné orgány informovaly žadatele o svém rozhodnutí do tří měsíců od podání žádosti;
+>
+> (b) aby regulatorní sandboxy pro AI umožňovaly široký a rovný přístup a přizpůsobovaly se poptávce po účasti; poskytovatelé a potenciální poskytovatelé mohou také podávat žádosti ve spolupráci se zavádějícími subjekty a dalšími relevantními třetími stranami;
+>
+> (c) aby podrobná pravidla a podmínky týkající se regulatorních sandboxů pro AI v co největší míře podporovaly flexibilitu vnitrostátních příslušných orgánů při zřizování a provozu jejich regulatorních sandboxů pro AI;
+>
+> (d) aby přístup do regulatorních sandboxů pro AI byl pro MSP včetně start-upů bezplatný, aniž jsou dotčeny výjimečné náklady, které vnitrostátní příslušné orgány mohou vybírat přiměřeným a proporcionálním způsobem;
+>
+> (e) aby usnadňovaly poskytovatelům a potenciálním poskytovatelům prostřednictvím poznatků získaných z regulatorních sandboxů pro AI plnění povinností posouzení shody podle tohoto nařízení a dobrovolné uplatňování kodexů chování uvedených v článku 95;
+>
+> (f) aby regulatorní sandboxy pro AI usnadňovaly zapojení dalších relevantních aktérů v ekosystému AI, jako jsou oznámené subjekty a normalizační organizace, MSP včetně start-upů, podniky, inovátoři, testovací a experimentální zařízení, výzkumné a experimentální laboratoře a Evropská střediska pro digitální inovace, střediska excelence, jednotliví výzkumní pracovníci, s cílem umožnit a usnadnit spolupráci s veřejným a soukromým sektorem;
+>
+> (g) aby postupy, procesy a administrativní požadavky pro podání žádosti, výběr, účast a vystoupení z regulatorního sandboxu pro AI byly jednoduché, snadno srozumitelné a jasně sdělené s cílem usnadnit účast MSP včetně start-upů s omezenými právními a administrativními kapacitami, a aby byly v rámci Unie zefektivněny s cílem zamezit fragmentaci; a aby účast v regulatorním sandboxu pro AI zřízeném členským státem nebo Evropským inspektorem ochrany údajů byla vzájemně a jednotně uznávána a měla v celé Unii stejné právní účinky;
+>
+> (h) aby účast v regulatorním sandboxu pro AI byla omezena na dobu přiměřenou složitosti a rozsahu projektu, kterou může vnitrostátní příslušný orgán prodloužit;
+>
+> (i) aby regulatorní sandboxy pro AI usnadňovaly vývoj nástrojů a infrastruktury pro testování, srovnávací hodnocení, posuzování a vysvětlování dimenzí systémů AI relevantních pro regulatorní učení, jako jsou přesnost, spolehlivost a kybernetická bezpečnost, jakož i opatření ke zmírnění rizik pro základní práva a společnost jako celek.
+>
+> 3. Potenciální poskytovatelé v regulatorních sandboxech pro AI, zejména MSP a start-upy, budou v příslušných případech odkázáni na předdeploymentové služby, jako jsou pokyny k provádění tohoto nařízení, na další služby s přidanou hodnotou, jako je pomoc s normalizačními dokumenty a certifikací, testovací a experimentální zařízení, Evropská střediska pro digitální inovace a střediska excelence.
+>
+> 4. Pokud vnitrostátní příslušné orgány zvažují povolení testování v reálných podmínkách v rámci regulatorního sandboxu pro AI, který má být zřízen podle tohoto článku, sjednají s účastníky konkrétně podmínky takového testování, a zejména vhodné záruky s ohledem na ochranu základních práv, zdraví a bezpečnosti. V příslušných případech spolupracují s jinými vnitrostátními příslušnými orgány za účelem zajištění soudržných postupů v rámci Unie.
+
+**Výklad:** Článek 58 svěřuje Komisi normotvornou pravomoc k přijímání prováděcích aktů s cílem zabránit regulatorní fragmentaci, která by z rozdílných vnitrostátních pravidel sandboxů mohla vzniknout. Prováděcí akty jsou přijímány přezkumným postupem (examination procedure) podle čl. 98 odst. 2, jenž zahrnuje příslušný výbor Komise — standardní mechanismus pro provádění nařízení v rámci komitologie.
+
+Odstavec 2 obsahuje taxativní výčet zásad, které musí prováděcí akty respektovat. Zvláště významná jsou písmena (a) a (d): transparentní a spravedlivá kritéria výběru s tříměsíční lhůtou pro rozhodnutí zabraňují svévolnému odmítání přístupu, zatímco bezplatný přístup pro MSP a start-upy (s výjimkou výjimečných a proporcionálních nákladů) reflektuje politický zájem na snižování vstupní bariéry. Písm. (g) normuje požadavek na jednoduchost a vzájemné uznávání účasti — sandbox zřízený v jednom členském státě má mít stejné právní účinky v celé Unii, což má klíčový přeshraniční dosah.
+
+Odstavec 3 doplňuje hmotněprávní rámec o poradenský rozměr: potenciální poskytovatelé, zejména MSP a start-upy, mají být aktivně směřováni k podpůrným službám (Evropská střediska pro digitální inovace, certifikační pomoc atd.), čímž se sandbox stává vstupní branou do širšího podpůrného ekosystému EU. Odstavec 4 propojuje čl. 58 s čl. 60 tím, že ukládá sjednání konkrétních záruk před zahájením testování v reálných podmínkách v rámci sandboxu — testování v reálných podmínkách tedy může probíhat i uvnitř sandboxu, avšak s přísnějšími podmínkami, než platí pro „laboratorní" část sandboxové činnosti.
 
 ---
 
-### Čl. 59 — ⟦NÁZEV 59⟧
+### Čl. 59 — Další zpracování osobních údajů pro vývoj některých systémů AI ve veřejném zájmu v sandboxu
 
 **Doslovné znění (EN) — Article 59 — Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox:**
 
@@ -144,11 +242,55 @@
 >
 > 3. Paragraph 1 is without prejudice to Union or national law which excludes processing of personal data for other purposes than those explicitly mentioned in that law, as well as to Union or national law laying down the basis for the processing of personal data which is necessary for the purpose of developing, testing or training of innovative AI systems or any other legal basis, in compliance with Union law on the protection of personal data.
 
-⟦FILL 59⟧
+**Pracovní překlad (CZ):**
+
+> 1. V regulatorním sandboxu pro AI mohou být osobní údaje zákonně shromážděné za jiným účelem zpracovávány výhradně za účelem vývoje, trénování a testování určitých systémů AI v sandboxu, jsou-li splněny všechny tyto podmínky:
+>
+> (a) systémy AI musí být vyvíjeny za účelem ochrany podstatného veřejného zájmu orgánem veřejné moci nebo jinou fyzickou či právnickou osobou a v jedné nebo více z následujících oblastí:
+>
+> (i) veřejná bezpečnost a veřejné zdraví, včetně detekce, diagnostiky, prevence, kontroly a léčby nemocí a zlepšování zdravotnických systémů;
+>
+> (ii) vysoká úroveň ochrany a zlepšení kvality životního prostředí, ochrana biologické rozmanitosti, ochrana před znečištěním, opatření v rámci ekologické transformace, opatření ke zmírnění změny klimatu a přizpůsobení se jí;
+>
+> (iii) energetická udržitelnost;
+>
+> (iv) bezpečnost a odolnost dopravních systémů a mobility, kritická infrastruktura a sítě;
+>
+> (v) efektivita a kvalita veřejné správy a veřejných služeb;
+>
+> (b) zpracovávané údaje jsou nezbytné pro splnění jednoho nebo více požadavků uvedených v kapitole III oddílu 2, přičemž tyto požadavky nemohou být účinně splněny zpracováním anonymizovaných, syntetických nebo jiných neosobních údajů;
+>
+> (c) existují účinné mechanismy sledování za účelem zjištění, zda mohou v průběhu experimentování v sandboxu vzniknout vysoká rizika pro práva a svobody subjektů údajů, jak jsou uvedena v článku 35 nařízení (EU) 2016/679 a v článku 39 nařízení (EU) 2018/1725, jakož i mechanismy reakce pro rychlé zmírnění těchto rizik a v případě potřeby pro zastavení zpracování;
+>
+> (d) veškeré osobní údaje, které mají být zpracovávány v kontextu sandboxu, se nacházejí ve funkčně odděleném, izolovaném a chráněném prostředí pro zpracování údajů pod kontrolou potenciálního poskytovatele a přístup k těmto údajům mají pouze oprávněné osoby;
+>
+> (e) poskytovatelé mohou dále sdílet původně shromážděné údaje pouze v souladu s právem Unie v oblasti ochrany osobních údajů; veškeré osobní údaje vytvořené v sandboxu nesmějí být sdíleny mimo sandbox;
+>
+> (f) žádné zpracování osobních údajů v kontextu sandboxu nevede k opatřením ani rozhodnutím ovlivňujícím subjekty údajů ani neovlivňuje uplatňování jejich práv zakotvených v právu Unie v oblasti ochrany osobních údajů;
+>
+> (g) veškeré osobní údaje zpracovávané v kontextu sandboxu jsou chráněny přiměřenými technickými a organizačními opatřeními a jsou vymazány po skončení účasti v sandboxu nebo po uplynutí doby uchovávání osobních údajů;
+>
+> (h) záznamy o zpracování osobních údajů v kontextu sandboxu jsou uchovávány po dobu trvání účasti v sandboxu, pokud právo Unie nebo vnitrostátní právo nestanoví jinak;
+>
+> (i) úplný a podrobný popis procesu a odůvodnění trénování, testování a validace systému AI je uchováván společně s výsledky testování jako součást technické dokumentace uvedené v příloze IV;
+>
+> (j) krátké shrnutí projektu AI vyvíjeného v sandboxu, jeho cílů a očekávaných výsledků je zveřejněno na webových stránkách příslušných orgánů; tato povinnost se nevztahuje na citlivé provozní údaje vztahující se k činnostem orgánů činných v trestním řízení, pohraniční kontroly, imigračních nebo azylových orgánů.
+>
+> 2. Pro účely předcházení, vyšetřování, odhalování nebo stíhání trestných činů nebo výkonu trestů, včetně ochrany před hrozbami pro veřejnou bezpečnost a předcházení takovým hrozbám, pod kontrolou a odpovědností orgánů činných v trestním řízení se zpracování osobních údajů v regulatorních sandboxech pro AI zakládá na konkrétním právu Unie nebo vnitrostátním právu a podléhá stejným kumulativním podmínkám, jaké jsou uvedeny v odstavci 1.
+>
+> 3. Odstavec 1 se nedotýká práva Unie nebo vnitrostátního práva, které vylučuje zpracování osobních údajů pro jiné účely, než jsou výslovně uvedeny v tomto právu, ani práva Unie nebo vnitrostátního práva, které stanoví základ pro zpracování osobních údajů nezbytné pro účely vývoje, testování nebo trénování inovativních systémů AI nebo jiného právního základu v souladu s právem Unie v oblasti ochrany osobních údajů.
+
+**Výklad:** Článek 59 představuje nejsložitější průsečík AI Actu s právem ochrany osobních údajů v celé kapitole VI. Jeho podstatou je podmíněná odchylka od zásady omezení účelu zakotvené v čl. 5 odst. 1 písm. b) GDPR: osobní údaje zákonně shromážděné k jednomu účelu mohou být v sandboxu dále zpracovány k jinému účelu (vývoj, trénování a testování AI), jsou-li splněny všechny kumulativní podmínky odst. 1 písm. (a) až (j).
+
+Z hlediska systematiky GDPR jde o lex specialis vůči testu slučitelnosti účelů podle čl. 6 odst. 4 GDPR: zatímco GDPR umožňuje další zpracování po provedení testu slučitelnosti, AI Act v sandboxu tuto odchylku explicitně normuje — příslušný právní základ pak bude zpravidla čl. 6 odst. 1 písm. e) GDPR (splnění úkolu ve veřejném zájmu), neboť podmínka písm. (a) odst. 1 vyžaduje podstatný veřejný zájem. Bod odůvodnění 90 přiznává, že cílem je umožnit využití existujících reálných datových sad, jejichž syntetická náhrada by mohla být pro vývoj systémů AI nedostatečná.
+
+Podmínky odst. 1 jsou záměrně přísné a kumulativní. Zvláštní pozornost si zaslouží: funkčně oddělené datové prostředí (písm. d) — jde o technický bezpečnostní požadavek zamezující úniku nebo neoprávněnému sdílení; zákaz ovlivnění práv subjektů údajů (písm. f) — zpracování v sandboxu nesmí vyvolat právní nebo faktické účinky vůči konkrétním osobám; a povinnost výmazu po skončení účasti (písm. g). Požadavek zveřejnění shrnutí projektu (písm. j) s výjimkou pro citlivé operační údaje orgánů veřejné moci vytváří nástroj veřejné transparentnosti a demokratické kontroly.
+
+Odstavec 2 reflektuje zvláštní povahu zpracování pro trestněprávní účely, jež podléhá směrnici (EU) 2016/680 namísto GDPR, a stanoví, že i pro tuto oblast platí kumulativní podmínky odst. 1, avšak musí existovat konkrétní unijní nebo vnitrostátní právní základ. Orgány pro ochranu osobních údajů musí být do provozu sandboxu zahrnuty dle čl. 57 odst. 10, a tedy plní klíčovou roli při posuzování souladu postupů zpracování s podmínkami čl. 59.
 
 ---
 
-### Čl. 60 — ⟦NÁZEV 60⟧
+### Čl. 60 — Testování vysoce rizikových systémů AI v reálných podmínkách
 
 **Doslovné znění (EN) — Article 60 — Testing of high-risk AI systems in real world conditions outside AI regulatory sandboxes:**
 
@@ -196,11 +338,65 @@
 >
 > 9. The provider or prospective provider shall be liable under applicable Union and national liability law for any damage caused in the course of their testing in real world conditions.
 
-⟦FILL 60⟧
+**Pracovní překlad (CZ):**
+
+> 1. Testování vysoce rizikových systémů AI v reálných podmínkách mimo regulatorní sandboxy pro AI může být prováděno poskytovateli nebo potenciálními poskytovateli vysoce rizikových systémů AI uvedených v příloze III v souladu s tímto článkem a plánem testování v reálných podmínkách uvedeným v tomto článku, aniž jsou dotčeny zákazy stanovené v článku 5.
+>
+> Komise prostřednictvím prováděcích aktů upřesní podrobné prvky plánu testování v reálných podmínkách. Tyto prováděcí akty se přijímají v souladu s přezkumným postupem uvedeným v čl. 98 odst. 2.
+>
+> Tímto odstavcem není dotčeno právo Unie nebo vnitrostátní právo týkající se testování v reálných podmínkách vysoce rizikových systémů AI vztahujících se k produktům, na něž se vztahují harmonizační právní předpisy Unie uvedené v příloze I.
+>
+> 2. Poskytovatelé nebo potenciální poskytovatelé mohou provádět testování vysoce rizikových systémů AI uvedených v příloze III v reálných podmínkách kdykoli před uvedením systému AI na trh nebo do provozu, a to samostatně nebo ve spolupráci s jedním nebo více zavádějícími subjekty nebo potenciálními zavádějícími subjekty.
+>
+> 3. Testování vysoce rizikových systémů AI v reálných podmínkách podle tohoto článku není dotčeno žádným etickým přezkumem vyžadovaným právem Unie nebo vnitrostátním právem.
+>
+> 4. Poskytovatelé nebo potenciální poskytovatelé mohou provádět testování v reálných podmínkách pouze tehdy, jsou-li splněny všechny následující podmínky:
+>
+> (a) poskytovatel nebo potenciální poskytovatel sestavil plán testování v reálných podmínkách a předložil jej orgánu dozoru nad trhem v členském státě, v němž má být testování v reálných podmínkách prováděno;
+>
+> (b) orgán dozoru nad trhem v členském státě, v němž má být testování v reálných podmínkách prováděno, schválil testování v reálných podmínkách a plán testování v reálných podmínkách; pokud orgán dozoru nad trhem neposkytl odpověď do 30 dnů, má se za to, že testování v reálných podmínkách a plán testování v reálných podmínkách byly schváleny; pokud vnitrostátní právo nestanoví mlčky uděleného souhlasu, testování v reálných podmínkách zůstane předmětem povolení;
+>
+> (c) poskytovatel nebo potenciální poskytovatel, s výjimkou poskytovatelů nebo potenciálních poskytovatelů vysoce rizikových systémů AI uvedených v bodech 1, 6 a 7 přílohy III v oblastech prosazování práva, migrace, azylu a řízení na hranicích, a vysoce rizikových systémů AI uvedených v bodu 2 přílohy III, zaregistroval testování v reálných podmínkách v souladu s čl. 71 odst. 4 s unijním jedinečným identifikačním číslem platným v celé Unii a s informacemi uvedenými v příloze IX; poskytovatel nebo potenciální poskytovatel vysoce rizikových systémů AI uvedených v bodech 1, 6 a 7 přílohy III v oblastech prosazování práva, migrace, azylu a řízení na hranicích zaregistroval testování v reálných podmínkách v bezpečné neveřejné části databáze EU podle čl. 49 odst. 4 písm. d) s unijním jedinečným identifikačním číslem platným v celé Unii a s informacemi v ní uvedenými; poskytovatel nebo potenciální poskytovatel vysoce rizikových systémů AI uvedených v bodu 2 přílohy III zaregistroval testování v reálných podmínkách v souladu s čl. 49 odst. 5;
+>
+> (d) poskytovatel nebo potenciální poskytovatel provádějící testování v reálných podmínkách je usazen v Unii nebo jmenoval právního zástupce usazeného v Unii;
+>
+> (e) údaje shromážděné a zpracované za účelem testování v reálných podmínkách mohou být předávány do třetích zemí pouze za předpokladu, že jsou provedeny vhodné a použitelné záruky podle práva Unie;
+>
+> (f) testování v reálných podmínkách netrvá déle, než je nezbytné pro dosažení jeho cílů, a v žádném případě ne déle než šest měsíců, přičemž tato doba může být prodloužena o dalších šest měsíců na základě předchozího oznámení poskytovatelem nebo potenciálním poskytovatelem orgánu dozoru nad trhem spolu s vysvětlením potřeby tohoto prodloužení;
+>
+> (g) subjekty testování v reálných podmínkách, které jsou osobami patřícími ke zranitelným skupinám z důvodu věku nebo zdravotního postižení, jsou přiměřeně chráněny;
+>
+> (h) pokud poskytovatel nebo potenciální poskytovatel organizuje testování v reálných podmínkách ve spolupráci s jedním nebo více zavádějícími subjekty nebo potenciálními zavádějícími subjekty, jsou tito informováni o všech aspektech testování, které jsou relevantní pro jejich rozhodnutí o účasti, a jsou jim poskytnuty příslušné pokyny k použití systému AI uvedené v článku 13; poskytovatel nebo potenciální poskytovatel a zavádějící subjekt nebo potenciální zavádějící subjekt uzavřou dohodu specifikující jejich role a odpovědnosti s ohledem na zajištění souladu s ustanoveními pro testování v reálných podmínkách podle tohoto nařízení a dalšího příslušného práva Unie a vnitrostátního práva;
+>
+> (i) subjekty testování v reálných podmínkách udělily informovaný souhlas v souladu s článkem 61, nebo v případě prosazování práva, pokud by získání informovaného souhlasu bránilo testování systému AI, samotné testování a jeho výsledek v reálných podmínkách nesmí mít žádný negativní vliv na subjekty a jejich osobní údaje musí být po provedení testu vymazány;
+>
+> (j) testování v reálných podmínkách je účinně dohlíženo poskytovatelem nebo potenciálním poskytovatelem, jakož i zavádějícími subjekty nebo potenciálními zavádějícími subjekty prostřednictvím osob, které jsou dostatečně kvalifikovány v příslušné oblasti a mají nezbytné kapacity, školení a pravomoci k plnění svých úkolů;
+>
+> (k) předpovědi, doporučení nebo rozhodnutí systému AI mohou být účinně zrušeny a ignorovány.
+>
+> 5. Každý subjekt testování v reálných podmínkách nebo jeho zákonný zástupce může bez jakéhokoli újmy a bez nutnosti uvádět důvody kdykoli odstoupit od testování odvoláním svého informovaného souhlasu a může požádat o okamžité a trvalé vymazání svých osobních údajů. Odvoláním informovaného souhlasu nejsou dotčeny již provedené činnosti.
+>
+> 6. V souladu s článkem 75 udělí členské státy svým orgánům dozoru nad trhem pravomoci požadovat od poskytovatelů a potenciálních poskytovatelů informace, provádět neohlášené vzdálené nebo fyzické inspekce a provádět kontroly průběhu testování v reálných podmínkách a příslušných vysoce rizikových systémů AI. Orgány dozoru nad trhem využívají tyto pravomoci k zajištění bezpečného vývoje testování v reálných podmínkách.
+>
+> 7. Jakýkoli závažný incident zjištěný v průběhu testování v reálných podmínkách musí být nahlášen vnitrostátnímu orgánu dozoru nad trhem v souladu s článkem 73. Poskytovatel nebo potenciální poskytovatel přijme okamžitá zmírňující opatření, nebo pokud to není možné, pozastaví testování v reálných podmínkách do doby, než takové zmírnění nastane, nebo testování jinak ukončí. Poskytovatel nebo potenciální poskytovatel zavede postup pro okamžité stažení systému AI po takovém ukončení testování v reálných podmínkách.
+>
+> 8. Poskytovatelé nebo potenciální poskytovatelé oznámí vnitrostátnímu orgánu dozoru nad trhem v členském státě, v němž má být testování v reálných podmínkách prováděno, pozastavení nebo ukončení testování v reálných podmínkách a jeho konečné výsledky.
+>
+> 9. Poskytovatel nebo potenciální poskytovatel odpovídá podle příslušného práva Unie a vnitrostátního práva v oblasti odpovědnosti za škodu způsobenou v průběhu testování v reálných podmínkách.
+
+**Výklad:** Článek 60 upravuje testování v reálných podmínkách (testing in real world conditions) jako autonomní nástroj odlišný od sandboxu: probíhá mimo sandbox, může jej provádět kdokoli z okruhu poskytovatelů nebo potenciálních poskytovatelů vysoce rizikových systémů AI z přílohy III a podléhá jinému schvalovacímu mechanismu — schválení orgánem dozoru nad trhem (market surveillance authority) namísto příslušným orgánem sandboxu.
+
+Klíčovým procesním prvkem je plán testování v reálných podmínkách (real-world testing plan), jehož podrobné prvky Komise upřesní prováděcím aktem. Mlčky udělený souhlas orgánu dozoru nad trhem po 30 dnech (odst. 4 písm. b) je kompromisem mezi efektivitou procesu a právní jistotou žadatele; vnitrostátní právo však může tuto fikci souhlasu vyloučit.
+
+Registrace testování v EU databázi (odst. 4 písm. c) odkazuje na přílohu IX a čl. 71 odst. 4 — jde o formální propojení s unijním databázovým systémem pro vysoce rizikové AI systémy. Pro citlivé oblasti (prosazování práva, migrace, azyl, pohraničí) platí přísnější režim registrace v bezpečné neveřejné části databáze, čímž je zachována operační citlivost těchto oblastí.
+
+Šestiměsíční lhůta s možností prodloužení (odst. 4 písm. f) je věcně obdobná délce klinických hodnocení léčivých přípravků a odráží princip, že testování na reálných osobách musí být časově ohraničeno. Ochrana zranitelných skupin (písm. g) a informovaný souhlas (písm. i) jsou zárukami navazujícími na čl. 61. Výjimka z požadavku informovaného souhlasu pro prosazování práva je úzká a podmíněná nulovým negativním dopadem na testované osoby — reflektuje tak logiku testování systémů, kde informovanost subjektů by mohla zkreslit výsledek (např. testování systémů detekce podvodů).
+
+Odpovědnostní doložka odst. 9 je paralelní k čl. 57 odst. 12, avšak na rozdíl od sandboxu neobsahuje podmíněnou ochranu před správními pokutami — mimo sandbox se tedy poskytovatel vystavuje plnému regulatornímu i občanskoprávnímu riziku.
 
 ---
 
-### Čl. 61 — ⟦NÁZEV 61⟧
+### Čl. 61 — Informovaný souhlas s účastí na testování v reálných podmínkách mimo regulatorní sandboxy pro AI
 
 **Doslovné znění (EN) — Article 61 — Informed consent to participate in testing in real world conditions outside AI regulatory sandboxes:**
 
@@ -218,11 +414,31 @@
 >
 > 2. The informed consent shall be dated and documented and a copy shall be given to the subjects of testing or their legal representative.
 
-⟦FILL 61⟧
+**Pracovní překlad (CZ):**
+
+> 1. Pro účely testování v reálných podmínkách podle článku 60 musí být od subjektů testování získán svobodně udělený informovaný souhlas před jejich účastí na takovém testování a poté, co byli řádně informováni stručnými, jasnými, relevantními a srozumitelnými informacemi týkajícími se:
+>
+> (a) povahy a cílů testování v reálných podmínkách a možných nepříjemností, které mohou být spojeny s jejich účastí;
+>
+> (b) podmínek, za nichž má být testování v reálných podmínkách prováděno, včetně očekávané délky účasti subjektu nebo subjektů;
+>
+> (c) jejich práv a záruk ohledně jejich účasti, zejména jejich práva odmítnout účast a práva kdykoli odstoupit od testování v reálných podmínkách bez jakékoliv újmy a bez nutnosti uvádět důvody;
+>
+> (d) opatření pro vyžádání zrušení nebo ignorování předpovědí, doporučení nebo rozhodnutí systému AI;
+>
+> (e) unijního jedinečného identifikačního čísla testování v reálných podmínkách platného v celé Unii v souladu s čl. 60 odst. 4 písm. c) a kontaktních údajů poskytovatele nebo jeho právního zástupce, od nichž lze získat další informace.
+>
+> 2. Informovaný souhlas musí být opatřen datem a zdokumentován a kopie musí být předána subjektům testování nebo jejich zákonnému zástupci.
+
+**Výklad:** Článek 61 zakotvuje procesní a obsahové požadavky na informovaný souhlas pro testování v reálných podmínkách. Jde o samostatné ustanovení inspirované analogickými instrumenty z práva klinických hodnocení (nařízení (EU) č. 536/2014 o klinickém hodnocení humánních léčivých přípravků) a z etiky výzkumu. Přenos tohoto konceptu do regulace AI odráží skutečnost, že testování vysoce rizikových systémů AI v reálném prostředí — na skutečných osobách — nese rizika srovnatelná s klinickým výzkumem.
+
+Výčet informací, které musí být subjektu sděleny, je taxativní a koresponduje s požadavky na srozumitelnost a přístupnost: informace musí být stručné, jasné, relevantní a srozumitelné. Tím se implementuje obecný princip čl. 12 a násl. GDPR ohledně informačních povinností — ačkoli AI Act není v tomto ohledu lex specialis vůči GDPR, oba instrumenty se vzájemně doplňují.
+
+Právo kdykoli a bez odůvodnění odvolat souhlas (odst. 1 písm. c), propojené s čl. 60 odst. 5, je analogií práva odvolat souhlas dle čl. 7 odst. 3 GDPR — odvolání souhlasu nesmí být spojeno s jakoukoli újmou pro subjekt. Požadavek datování a dokumentování souhlasu (odst. 2) je dokladovou zárukou: bez písemného záznamu nelze prokázat zákonnost testování. Povinnost předat kopii subjektu nebo jeho zákonným zástupcům je zárukou autonomie subjektu. Odkaz na unijní jedinečné identifikační číslo (odst. 1 písm. e) propojuje souhlas s registrací testování v databázi EU, čímž je zajištěna sledovatelnost a dohled orgánů dozoru nad trhem.
 
 ---
 
-### Čl. 62 — ⟦NÁZEV 62⟧
+### Čl. 62 — Opatření pro poskytovatele a zavádějící subjekty, zejména MSP včetně start-upů
 
 **Doslovné znění (EN) — Article 62 — Measures for providers and deployers, in particular SMEs, including start-ups:**
 
@@ -248,11 +464,39 @@
 >
 > (d) evaluate and promote the convergence of best practices in public procurement procedures in relation to AI systems.
 
-⟦FILL 62⟧
+**Pracovní překlad (CZ):**
+
+> 1. Členské státy přijmou následující opatření:
+>
+> (a) poskytovat MSP včetně start-upů, které mají registrované sídlo nebo pobočku v Unii, přednostní přístup do regulatorních sandboxů pro AI, pokud splňují podmínky způsobilosti a výběrová kritéria; přednostní přístup nesmí bránit jiným MSP včetně start-upů, na něž se tento odstavec nevztahuje, v přístupu do regulatorního sandboxu pro AI za předpokladu, že rovněž splňují podmínky způsobilosti a výběrová kritéria;
+>
+> (b) organizovat specifické osvětové a vzdělávací aktivity ohledně uplatňování tohoto nařízení přizpůsobené potřebám MSP včetně start-upů, zavádějících subjektů a případně místních orgánů veřejné moci;
+>
+> (c) využívat stávající specializované komunikační kanály a v příslušných případech zavádět nové pro komunikaci s MSP včetně start-upů, zavádějícími subjekty, dalšími inovátory a případně místními orgány veřejné moci, s cílem poskytovat poradenství a odpovídat na dotazy ohledně provádění tohoto nařízení, a to i ohledně účasti v regulatorních sandboxech pro AI;
+>
+> (d) usnadňovat účast MSP a dalších relevantních zúčastněných stran v procesu vývoje norem.
+>
+> 2. Specifické zájmy a potřeby poskytovatelů z řad MSP včetně start-upů musí být zohledněny při stanovení poplatků za posouzení shody podle článku 43, přičemž tyto poplatky budou proporcionálně sníženy v závislosti na jejich velikosti, podílu na trhu a dalších relevantních ukazatelích.
+>
+> 3. Úřad pro AI přijme následující opatření:
+>
+> (a) poskytovat standardizované šablony pro oblasti, na něž se vztahuje toto nařízení, jak je upřesněno Radou AI v její žádosti;
+>
+> (b) vytvořit a udržovat jednotnou informační platformu poskytující snadno použitelné informace týkající se tohoto nařízení pro všechny provozovatele v rámci Unie;
+>
+> (c) organizovat vhodné komunikační kampaně za účelem zvyšování povědomí o povinnostech vyplývajících z tohoto nařízení;
+>
+> (d) hodnotit a podporovat sbližování osvědčených postupů v postupech veřejného zadávání zakázek v oblasti systémů AI.
+
+**Výklad:** Článek 62 je ústředním opatřením horizontální politiky MSP v AI Actu a transformuje obecné deklarace o podpoře inovací do konkrétních povinností a závazků jak vůči členským státům (odst. 1), tak vůči Úřadu pro AI (odst. 3). Inspiraci je možno spatřovat v přístupu legislativy EU k finančním službám a regulaci farmaceutik, kde pro MSP a akademické instituce existují obdobné snižující mechanismy.
+
+Přednostní přístup MSP a start-upů do sandboxu (odst. 1 písm. a) je přitom podmíněný — nevylučuje ostatní žadatele, kteří rovněž splňují kritéria způsobilosti. Jde tedy o pozitivní diskriminaci v rámci limitů rovného přístupu zaručeného čl. 58 odst. 2 písm. (a). Snížení poplatků za posouzení shody (odst. 2) je přímou finanční pobídkou: pro MSP mohou být standardní poplatky oznámených subjektů prohibitivní, a bez tohoto mechanismu by povinné posouzení shody pro vysoce rizikové systémy AI bylo faktickým zákazem pro malé subjekty.
+
+Opatření Úřadu pro AI (odst. 3) vytvářejí centralizovanou informační infrastrukturu: jednotná informační platforma (písm. b) je výslovně propojena s odkazem v čl. 57 odst. 17 (single dedicated interface for sandboxes) a komunikační kampaně (písm. c) mají funkci regulatorního osvěty. Podpora konvergence osvědčených postupů ve veřejném zadávání (písm. d) má strategický dosah: veřejné orgány jsou v mnoha sektorech největšími odběrateli AI systémů a unifikace jejich postupů může nepřímo standardizovat celý trh.
 
 ---
 
-### Čl. 63 — ⟦NÁZEV 63⟧
+### Čl. 63 — Odchylky pro konkrétní subjekty
 
 **Doslovné znění (EN) — Article 63 — Derogations for specific operators:**
 
@@ -260,6 +504,16 @@
 >
 > 2. Paragraph 1 of this Article shall not be interpreted as exempting those operators from fulfilling any other requirements or obligations laid down in this Regulation, including those established in Articles 9, 10, 11, 12, 13, 14, 15, 72 and 73.
 
-⟦FILL 63⟧
+**Pracovní překlad (CZ):**
+
+> 1. Mikropodniky ve smyslu doporučení 2003/361/ES mohou plnit určité prvky systému řízení kvality vyžadovaného článkem 17 tohoto nařízení zjednodušeným způsobem za předpokladu, že nemají partnerské podniky ani propojené podniky ve smyslu tohoto doporučení. Za tímto účelem Komise vypracuje pokyny k prvkům systému řízení kvality, které mohou být plněny zjednodušeným způsobem s přihlédnutím k potřebám mikropodniků, aniž by tím byla dotčena úroveň ochrany nebo potřeba dodržování požadavků na vysoce rizikové systémy AI.
+>
+> 2. Odstavec 1 tohoto článku nelze vykládat jako osvobození těchto provozovatelů od splnění jakýchkoli jiných požadavků nebo povinností stanovených tímto nařízením, včetně těch stanovených v článcích 9, 10, 11, 12, 13, 14, 15, 72 a 73.
+
+**Výklad:** Článek 63 zavádí cílenou odchylku ve prospěch mikropodniků — tedy podniků do 10 zaměstnanců a ročního obratu nebo bilanční sumy do 2 mil. EUR podle doporučení Komise 2003/361/ES. Podmínkou odchylky je absence partnerských nebo propojených podniků ve smyslu téhož doporučení, čímž zákonodárce brání zneužití statusu mikropodniku prostřednictvím uměle fragmentovaných skupin.
+
+Odchylka se vztahuje výhradně na systém řízení kvality (quality management system, QMS) podle čl. 17, nikoli na celý režim vysoce rizikových AI systémů. Rozsah zjednodušení bude stanoven pokyny Komise — jde tedy o výslovné delegování konkretizace na Komisi, aniž by byl použit formální prováděcí akt. Tím se zachovává flexibilita, avšak za cenu menší právní předvídatelnosti; mikropodniky musejí sledovat vydávání těchto pokynů.
+
+Odstavec 2 je klíčovou zábranou rozšiřujícího výkladu: taxativní výčet článků, z nichž nelze odchýlit ani pro mikropodniky, zahrnuje správu rizik (čl. 9), požadavky na data (čl. 10), technickou dokumentaci (čl. 11), zaznamenávání (čl. 12), transparentnost (čl. 13), lidský dohled (čl. 14), přesnost a kybernetickou bezpečnost (čl. 15) a povinnosti hlášení závažných incidentů a poruch (čl. 72–73). Tím je potvrzeno, že odchylka je úzká a nemá vliv na žádný z věcných bezpečnostních požadavků; mikropodniky v oblasti vysoce rizikových AI systémů jsou regulovány téměř identicky jako velké podniky, pouze s administrativně jednodušším QMS.
 
 ---
