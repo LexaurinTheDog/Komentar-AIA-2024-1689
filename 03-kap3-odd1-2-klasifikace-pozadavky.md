@@ -1,6 +1,10 @@
 # Kapitola III, oddíly 1–2 — Klasifikace vysoce rizikových systémů a požadavky na ně (čl. 6–15)
 
-⟦INTRO⟧
+Kapitola III nařízení (EU) 2024/1689 tvoří normativní jádro celého AI aktu: nejprve vymezuje, které systémy AI jsou „vysoce rizikové" (oddíl 1, čl. 6–7), a poté stanoví sadu povinných technických a procesních požadavků, které musí každý takový systém splňovat (oddíl 2, čl. 8–15). Klasifikace spočívá na dvou kumulativních pilířích. Prvním je zařazení do harmonizačního rámce EU podle přílohy I (bezpečnostní komponenty výrobků podléhajících posuzování shody třetí stranou). Druhým je výslovné uvedení v příloze III, která taxativně vypočítává osm oblastí zvýšeného rizika — od biometrické identifikace a kritické infrastruktury přes vzdělávání a zaměstnanost až po migraci, správu hranic a výkon spravedlnosti. Zákonodárce tak preferuje přístup regulace založené na použití (*use-case based approach*) před regulací technologie jako takové.
+
+Požadavky oddílu 2 (čl. 8–15) představují základní sadu povinností, jejichž splnění je předpokladem pro postup k posuzování shody upraveném v oddílech 4 a 5 a pro umístění systému na trh. Jedná se o horizontální požadavky platné pro všechny kategorie vysoce rizikových systémů AI bez ohledu na odvětví; specifické povinnosti jednotlivých aktérů (poskytovatelů, zavádějících subjektů, dovozců, distributorů) jsou pak rozvedeny v oddíle 3 (čl. 16–29). Systém řízení rizik (čl. 9), správa dat (čl. 10), technická dokumentace (čl. 11), vedení záznamů (čl. 12), transparentnost vůči zavádějícím subjektům (čl. 13), lidský dohled (čl. 14) a přesnost, robustnost a kybernetická bezpečnost (čl. 15) tvoří dohromady regulatorní minimum, bez jehož naplnění není možné vystavit EU prohlášení o shodě ani připojit označení CE.
+
+Věcná provázanost oddílu 2 s dalšími částmi nařízení je zásadní: požadavky na data (čl. 10) doplňují pravidla ochrany osobních údajů plynoucí z GDPR (nařízení (EU) 2016/679), zejména zásady minimalizace a přesnosti; technická dokumentace (čl. 11) musí obsahovat náležitosti přílohy IV a je klíčovým podkladem pro notifikované orgány; lidský dohled (čl. 14) se prolíná se zákazem nepřijatelného rizika (čl. 5) a se zárukami pro systémy všeobecného použití (čl. 51–55). Posuzování shody pro systémy přílohy III probíhá zásadně jako interní kontrola (modul A), nestanoví-li příloha I přísné harmonizační právo vyžadující třetí stranu.
 
 ---
 
@@ -8,7 +12,7 @@
 
 **Oddíl 1 — Klasifikace systémů AI jako vysoce rizikových**
 
-### Čl. 6 — ⟦NÁZEV 6⟧
+### Čl. 6 — Pravidla klasifikace vysoce rizikových systémů AI
 
 **Doslovné znění (EN) — Article 6 — Classification rules for high-risk AI systems:**
 
@@ -44,11 +48,49 @@
 >
 > 8. Any amendment to the conditions laid down in paragraph 3, second subparagraph, adopted in accordance with paragraphs 6 and 7 of this Article shall not decrease the overall level of protection of health, safety and fundamental rights provided for by this Regulation and shall ensure consistency with the delegated acts adopted pursuant to Article 7(1), and take account of market and technological developments.
 
-⟦FILL 6⟧
+**Pracovní překlad (CZ):**
+
+> 1. Bez ohledu na to, zda je systém AI uveden na trh nebo uveden do provozu nezávisle na výrobcích uvedených v písmenech a) a b), považuje se takový systém AI za vysoce rizikový, jsou-li splněny obě tyto podmínky:
+>
+> (a) systém AI je určen k použití jako bezpečnostní komponenta výrobku nebo je sám výrobkem, na který se vztahuje harmonizační právní předpis Unie uvedený v příloze I;
+>
+> (b) výrobek, jehož bezpečnostní komponentou podle písmene a) je systém AI, nebo systém AI sám jako výrobek podléhá podle harmonizačního právního předpisu Unie uvedeného v příloze I posuzování shody třetí stranou s ohledem na uvedení tohoto výrobku na trh nebo jeho uvedení do provozu.
+>
+> 2. Kromě vysoce rizikových systémů AI uvedených v odstavci 1 se za vysoce rizikové považují systémy AI uvedené v příloze III.
+>
+> 3. Odchylně od odstavce 2 se systém AI uvedený v příloze III nepovažuje za vysoce rizikový, pokud nepředstavuje značné riziko újmy na zdraví, bezpečnosti nebo základních právech fyzických osob, a to ani tím, že by podstatně ovlivňoval výsledek rozhodování.
+>
+> První pododstavec se použije, je-li splněna některá z těchto podmínek:
+>
+> (a) systém AI je určen k provádění úzce vymezené procesní úlohy;
+>
+> (b) systém AI je určen ke zlepšení výsledku dříve dokončené lidské činnosti;
+>
+> (c) systém AI je určen k zjišťování vzorců rozhodování nebo odchylek od dřívějších vzorců rozhodování a není určen k nahrazení ani ovlivnění dříve dokončeného lidského posouzení bez přiměřeného lidského přezkumu; nebo
+>
+> (d) systém AI je určen k provádění přípravných úloh pro posouzení relevantní pro účely případů použití uvedených v příloze III.
+>
+> Bez ohledu na první pododstavec se systém AI uvedený v příloze III považuje vždy za vysoce rizikový, provádí-li profilování fyzických osob.
+>
+> 4. Poskytovatel, který se domnívá, že systém AI uvedený v příloze III není vysoce rizikový, zdokumentuje toto posouzení před tím, než je daný systém uveden na trh nebo do provozu. Tento poskytovatel podléhá registrační povinnosti stanovené v čl. 49 odst. 2. Na žádost příslušných vnitrostátních orgánů poskytovatel dokumentaci posouzení předloží.
+>
+> 5. Komise po konzultaci s Evropskou radou pro umělou inteligenci (dále jen „rada") a nejpozději do 2. února 2026 vydá pokyny specifikující praktické provádění tohoto článku v souladu s článkem 96 spolu s vyčerpávajícím seznamem praktických příkladů případů použití systémů AI, které jsou vysoce rizikové, a případů použití, které vysoce rizikové nejsou.
+>
+> 6. Komisi je svěřena pravomoc přijímat akty v přenesené pravomoci v souladu s článkem 97 za účelem změny odstavce 3 druhého pododstavce tohoto článku přidáním nových podmínek k podmínkám v něm stanoveným nebo jejich změnou, existují-li konkrétní a spolehlivé důkazy o existenci systémů AI, které spadají do oblasti působnosti přílohy III, avšak nepředstavují značné riziko újmy na zdraví, bezpečnosti nebo základních právech fyzických osob.
+>
+> 7. Komise přijme akty v přenesené pravomoci v souladu s článkem 97 za účelem změny odstavce 3 druhého pododstavce tohoto článku vypuštěním některé z podmínek v něm stanovených, existují-li konkrétní a spolehlivé důkazy, že je to nezbytné pro zachování úrovně ochrany zdraví, bezpečnosti a základních práv stanovené tímto nařízením.
+>
+> 8. Každá změna podmínek stanovených v odstavci 3 druhém pododstavci přijatá v souladu s odstavci 6 a 7 tohoto článku nesmí snížit celkovou úroveň ochrany zdraví, bezpečnosti a základních práv stanovenou tímto nařízením a musí zajišťovat soulad s akty v přenesené pravomoci přijatými podle čl. 7 odst. 1 a přihlížet k vývoji trhu a technologickému rozvoji.
+
+**Výklad:** Článek 6 zavádí dvojstupňový klasifikační mechanismus, který je klíčovým vstupním bodem celého regulačního rámce AI aktu. Podstatou je rozlišení dvou okruhů vysoce rizikových systémů: systémů integrovaných do výrobků podléhajících stávajícímu unijnímu harmonizačnímu právu (odst. 1, příloha I — zahrnuje například strojní zařízení, zdravotnické prostředky, výtahy, hračky či vozidla) a systémů samotných spadajících do oblastí vyjmenovaných v příloze III (odst. 2).
+
+Odstavec 3 přináší zásadní novum oproti původnímu návrhu Komise: zákonodárce zakotvil výjimku z klasifikace, podle níž systémy přílohy III nemusejí být považovány za vysoce rizikové, pokud nepředstavují značné riziko. Podmínky výjimky (úzce vymezená procesní úloha, zlepšení dříve dokončené lidské činnosti, detekce vzorců bez nahrazení lidského posouzení, přípravná úloha) musejí být splněny restriktivně — zákonodárce výslovně vylučuje aplikaci výjimky na systémy provádějící profilování fyzických osob, neboť profilování představuje inherentně závažný zásah do základních práv (srov. recitál 55 a 56). Dokumentační povinnost poskytovatele při uplatnění výjimky (odst. 4) zajišťuje dohledatelnost a zpětnou kontrolu příslušnými orgány.
+
+Odkaz na registrační povinnost (čl. 49 odst. 2) tvoří důležitou pojistku: poskytovatel se nemůže jednoduše vyhnout povinnostem tím, že si interně kvalifikuje systém jako nevysoce rizikový, aniž by tato kvalifikace byla přístupná veřejnému dozoru. Zmocnění Komise přijímat akty v přenesené pravomoci (odst. 6 a 7) umožňuje dynamickou adaptaci přílohy III na technologický vývoj, avšak s imperativní klauzulí, že nelze snižovat celkovou úroveň ochrany — tento princip non-regression je výslovně zakotven v odst. 8. Pokyny podle odst. 5 budou mít zásadní praktický význam pro poskytovatele zejména v hraničních případech.
 
 ---
 
-### Čl. 7 — ⟦NÁZEV 7⟧
+### Čl. 7 — Změny přílohy III
 
 **Doslovné znění (EN) — Article 7 — Amendments to Annex III:**
 
@@ -96,13 +138,59 @@
 >
 > Requirements for high-risk AI systems
 
-⟦FILL 7⟧
+**Pracovní překlad (CZ):**
+
+> 1. Komisi je svěřena pravomoc přijímat akty v přenesené pravomoci v souladu s článkem 97 za účelem změny přílohy III přidáním nebo změnou případů použití vysoce rizikových systémů AI, jsou-li splněny obě tyto podmínky:
+>
+> (a) systémy AI jsou určeny k použití v některé z oblastí uvedených v příloze III;
+>
+> (b) systémy AI představují riziko újmy na zdraví a bezpečnosti nebo nepříznivého dopadu na základní práva a toto riziko je rovnocenné nebo větší než riziko újmy nebo nepříznivého dopadu, které představují vysoce rizikové systémy AI již uvedené v příloze III.
+>
+> 2. Při posuzování podmínky podle odstavce 1 písm. b) přihlédne Komise k těmto kritériím:
+>
+> (a) určenému účelu systému AI;
+>
+> (b) rozsahu, v jakém byl systém AI použit nebo v jakém je pravděpodobné, že bude použit;
+>
+> (c) povaze a množství dat zpracovaných a použitých systémem AI, zejména zda jsou zpracovávány zvláštní kategorie osobních údajů;
+>
+> (d) rozsahu, v jakém systém AI jedná autonomně, a možnosti, aby člověk zvrátil rozhodnutí nebo doporučení, která mohou vést k potenciální újmě;
+>
+> (e) rozsahu, v jakém použití systému AI již způsobilo újmu na zdraví a bezpečnosti, mělo nepříznivý dopad na základní práva nebo vyvolalo závažné obavy ohledně pravděpodobnosti takové újmy nebo nepříznivého dopadu, jak dokládají například zprávy nebo zdokumentovaná tvrzení předložená příslušným vnitrostátním orgánům nebo jiné zprávy, je-li to vhodné;
+>
+> (f) potenciálním rozsahem takové újmy nebo takového nepříznivého dopadu, zejména z hlediska jeho intenzity a schopnosti postihovat více osob nebo nepřiměřeně postihovat určitou skupinu osob;
+>
+> (g) rozsahu, v jakém jsou osoby, které mohou utrpět újmu nebo být nepříznivě dotčeny, závislé na výsledku, který systém AI produkuje, zejména proto, že z praktických nebo právních důvodů není rozumně možné tomuto výsledku se vyhnout;
+>
+> (h) rozsahu, v jakém existuje nerovnováha sil nebo jsou osoby, které mohou utrpět újmu nebo být nepříznivě dotčeny, v postavení zranitelné vůči zavádějícímu subjektu systému AI, zejména z důvodu svého postavení, pravomocí, znalostí, hospodářských nebo sociálních poměrů nebo věku;
+>
+> (i) rozsahu, v jakém je výsledek zahrnující systém AI snadno opravitelný nebo zvrátitelný, s přihlédnutím k technickým řešením dostupným pro jeho opravu nebo zvrácení, přičemž výsledky mající nepříznivý dopad na zdraví, bezpečnost nebo základní práva se nepovažují za snadno opravitelné nebo zvrátitelné;
+>
+> (j) rozsahu a pravděpodobnosti přínosu nasazení systému AI pro jednotlivce, skupiny nebo společnost jako celek, včetně možného zlepšení bezpečnosti výrobků;
+>
+> (k) rozsahu, v jakém stávající právo Unie stanoví:
+>
+> (i) účinné prostředky nápravy ve vztahu k rizikům, která systém AI představuje, s výjimkou nároků na náhradu škody;
+>
+> (ii) účinná opatření k předcházení těmto rizikům nebo jejich podstatnému omezení.
+>
+> 3. Komisi je svěřena pravomoc přijímat akty v přenesené pravomoci v souladu s článkem 97 za účelem změny seznamu v příloze III odstraněním vysoce rizikových systémů AI, jsou-li splněny obě tyto podmínky:
+>
+> (a) dotčený vysoce rizikový systém AI již nepředstavuje žádné značné riziko pro základní práva, zdraví nebo bezpečnost, s přihlédnutím ke kritériím uvedeným v odstavci 2;
+>
+> (b) vypuštění nesnižuje celkovou úroveň ochrany zdraví, bezpečnosti a základních práv podle práva Unie.
+
+**Výklad:** Článek 7 zavádí mechanismus dynamické aktualizace přílohy III prostřednictvím aktů v přenesené pravomoci přijímaných Komisí. Tím zákonodárce reaguje na rychlý technologický rozvoj v oblasti AI: statická příloha by v krátkém čase zastarala a přestala pokrývat nově vznikající případy použití s potenciálně závažnými dopady.
+
+Kritéria odstavce 2 tvoří věcně bohatý katalog faktorů, který Komise musí vzít v úvahu při posuzování ekvivalence rizika. Zvláštní pozornost si zasluhuje kritérium pod písmenem (g) — závislost dotčených osob na výsledku systému AI — které odráží strukturální nerovnost mezi poskytovatelem či zavádějícím subjektem a osobami, o nichž systém rozhoduje. Kritérium pod písmenem (h) pak explicitně zohledňuje mocenskou asymetrii a zranitelnost, přičemž mezi relevantní faktory zranitelnosti jsou výslovně zařazeny hospodářské a sociální poměry a věk — terminologie blízká judikatuře Evropského soudu pro lidská práva a pohledu Agentury EU pro základní práva.
+
+Kritérium pod písmenem (j) zakotvuje test proporcionality v přístupu k regulaci: přínosy nasazení systému AI musejí být brány v úvahu jako protipól k rizikům. Jde o projev přístupu tzv. „rizikově-přínosové analýzy" (*risk-benefit analysis*), který je běžný v sektorovém právu (zdravotnické prostředky, léčiva) a který zákonodárce přejímá do horizontálního rámce AI. Procesní klauzule o nemožnosti snižovat celkovou úroveň ochrany (odst. 3 písm. b) zaručuje, že vypuštění z přílohy III nebude politicky motivovaným oslabením regulace. Zmocnění k přidání i k odebrání oblastí z přílohy III vytváří symetrický, obousměrný regulatorní nástroj schopný reagovat jak na nová rizika, tak na případy, kdy riziko pominulo nebo bylo dostatečně ošetřeno jiným právním předpisem Unie.
 
 ---
 
 **Oddíl 2 — Požadavky na vysoce rizikové systémy AI**
 
-### Čl. 8 — ⟦NÁZEV 8⟧
+### Čl. 8 — Shoda s požadavky
 
 **Doslovné znění (EN) — Article 8 — Compliance with the requirements:**
 
@@ -110,11 +198,19 @@
 >
 > 2. Where a product contains an AI system, to which the requirements of this Regulation as well as requirements of the Union harmonisation legislation listed in Section A of Annex I apply, providers shall be responsible for ensuring that their product is fully compliant with all applicable requirements under applicable Union harmonisation legislation. In ensuring the compliance of high-risk AI systems referred to in paragraph 1 with the requirements set out in this Section, and in order to ensure consistency, avoid duplication and minimise additional burdens, providers shall have a choice of integrating, as appropriate, the necessary testing and reporting processes, information and documentation they provide with regard to their product into documentation and procedures that already exist and are required under the Union harmonisation legislation listed in Section A of Annex I.
 
-⟦FILL 8⟧
+**Pracovní překlad (CZ):**
+
+> 1. Vysoce rizikové systémy AI musejí splňovat požadavky stanovené v tomto oddílu, přičemž se přihlíží k jejich určenému účelu, jakož i k obecně uznávanému stavu techniky v oblasti AI a technologií souvisejících s AI. Při zajišťování souladu s těmito požadavky se přihlíží k systému řízení rizik uvedenému v článku 9.
+>
+> 2. Obsahuje-li výrobek systém AI, na nějž se vztahují jak požadavky tohoto nařízení, tak požadavky harmonizačního právního předpisu Unie uvedeného v části A přílohy I, jsou poskytovatelé odpovědni za zajištění plného souladu jejich výrobku se všemi platnými požadavky podle příslušného harmonizačního právního předpisu Unie. Při zajišťování souladu vysoce rizikových systémů AI uvedených v odstavci 1 s požadavky stanovenými v tomto oddílu, a s cílem zajistit soulad, zamezit zdvojování a minimalizovat dodatečné zátěže, mají poskytovatelé možnost integrovat, je-li to vhodné, nezbytné postupy testování a podávání zpráv, informace a dokumentaci, které poskytují ve vztahu ke svému výrobku, do dokumentace a postupů, které již existují a jsou vyžadovány podle harmonizačního právního předpisu Unie uvedeného v části A přílohy I.
+
+**Výklad:** Článek 8 plní funkci horizontálního vstupního bodu do oddílu 2: stanoví, že vysoce rizikové systémy AI musejí splňovat celou sadu požadavků čl. 9–15, a jako interpretační vodítko pro posuzování souladu odkazuje na systém řízení rizik (čl. 9). Odkaz na „obecně uznávaný stav techniky" (*state of the art*) má normativní charakter — povinnosti nařízení nejsou statické, nýbrž se vyvíjejí spolu s technologickými možnostmi a průmyslovými standardy.
+
+Odstavec 2 řeší klíčový průsečík AI aktu s odvětvovým harmonizačním právem Unie (příloha I, část A — zahrnuje nařízení o strojních zařízeních, zdravotnických prostředcích, rádiových zařízeních apod.). Zákonodárce se vyhnul duplicitnímu administrativnímu zatížení: poskytovatel smí dokumentaci a postupy testování konsolidovat, tj. splnit požadavky AI aktu i sektorového předpisu jednou dokumentační sadou. Toto pravidlo tzv. „jediného vstupu" (*single set of documentation*) je obdobné přístupu zvolenému v nařízení o zdravotnických prostředcích (EU) 2017/745. Důsledkem je, že soulad s odvětvovým právem nenahrazuje soulad s AI aktem — poskytovatel musí splnit oba soubory požadavků, avšak procesně je může sloučit. Odpovědnost poskytovatele za celkový soulad výrobku (odst. 2 věta první) zůstává nedělitelná.
 
 ---
 
-### Čl. 9 — ⟦NÁZEV 9⟧
+### Čl. 9 — Systém řízení rizik
 
 **Doslovné znění (EN) — Article 9 — Risk management system:**
 
@@ -156,11 +252,55 @@
 >
 > 10. For providers of high-risk AI systems that are subject to requirements regarding internal risk management processes under other relevant provisions of Union law, the aspects provided in paragraphs 1 to 9 may be part of, or combined with, the risk management procedures established pursuant to that law.
 
-⟦FILL 9⟧
+**Pracovní překlad (CZ):**
+
+> 1. Ve vztahu k vysoce rizikovým systémům AI musí být zaveden, implementován, zdokumentován a udržován systém řízení rizik.
+>
+> 2. Systém řízení rizik se chápe jako nepřetržitý iterativní proces, který je plánován a prováděn po celou dobu životního cyklu vysoce rizikového systému AI, a který vyžaduje pravidelný systematický přezkum a aktualizaci. Zahrnuje tyto kroky:
+>
+> (a) identifikaci a analýzu známých a přiměřeně předvídatelných rizik, která může vysoce rizikový systém AI způsobit pro zdraví, bezpečnost nebo základní práva, je-li vysoce rizikový systém AI používán v souladu s jeho určeným účelem;
+>
+> (b) odhadování a vyhodnocování rizik, která mohou vzniknout, je-li vysoce rizikový systém AI používán v souladu s jeho určeným účelem a za podmínek přiměřeně předvídatelného zneužití;
+>
+> (c) vyhodnocení dalších rizik, která mohou vzniknout na základě analýzy dat shromážděných ze systému postmarketingového monitorování uvedeného v článku 72;
+>
+> (d) přijetí vhodných a cílených opatření pro řízení rizik určených k řešení rizik identifikovaných podle písmene a).
+>
+> 3. Rizika uvedená v tomto článku se týkají pouze těch rizik, která lze přiměřeně zmírnit nebo eliminovat prostřednictvím vývoje nebo návrhu vysoce rizikového systému AI nebo poskytnutím odpovídajících technických informací.
+>
+> 4. Opatření pro řízení rizik uvedená v odstavci 2 písm. d) náležitě zohledňují účinky a možné interakce vyplývající z kombinovaného použití požadavků stanovených v tomto oddílu s cílem účinněji minimalizovat rizika a přitom dosáhnout přiměřené rovnováhy při provádění opatření k naplnění těchto požadavků.
+>
+> 5. Opatření pro řízení rizik uvedená v odstavci 2 písm. d) musejí být taková, aby bylo zbývající riziko spojené s každým nebezpečím, jakož i celkové zbývající riziko vysoce rizikových systémů AI posouzeno jako přijatelné.
+>
+> Při určování nejvhodnějších opatření pro řízení rizik musí být zajištěno:
+>
+> (a) eliminace nebo snížení rizik identifikovaných a vyhodnocených podle odstavce 2 v co největší technicky proveditelné míře prostřednictvím odpovídajícího návrhu a vývoje vysoce rizikového systému AI;
+>
+> (b) tam kde je to vhodné, provádění odpovídajících zmírňujících a kontrolních opatření k řešení rizik, která nelze eliminovat;
+>
+> (c) poskytnutí informací požadovaných podle článku 13 a tam, kde je to vhodné, školení zavádějícím subjektům.
+>
+> S cílem eliminovat nebo snížit rizika spojená s použitím vysoce rizikového systému AI se náležitě přihlíží k odborným znalostem, zkušenostem, vzdělání, školení, která lze od zavádějícího subjektu očekávat, a k předpokládanému kontextu, v němž má být systém použit.
+>
+> 6. Vysoce rizikové systémy AI musejí být testovány za účelem identifikace nejvhodnějších a nejcílenějších opatření pro řízení rizik. Testování musí zajistit, aby vysoce rizikové systémy AI fungovaly konzistentně v souladu s jejich určeným účelem a aby splňovaly požadavky stanovené v tomto oddílu.
+>
+> 7. Postupy testování mohou zahrnovat testování v reálných podmínkách v souladu s článkem 60.
+>
+> 8. Testování vysoce rizikových systémů AI se provádí, je-li to vhodné, kdykoli v průběhu vývojového procesu a v každém případě před jejich uvedením na trh nebo do provozu. Testování se provádí na základě předem definovaných metrik a pravděpodobnostních prahových hodnot, které jsou vhodné pro určený účel vysoce rizikového systému AI.
+>
+> 9. Při zavádění systému řízení rizik stanoveného v odstavcích 1 až 7 poskytovatelé zohlední, zda s ohledem na jeho určený účel může mít vysoce rizikový systém AI nepříznivý dopad na osoby mladší 18 let a případně na jiné zranitelné skupiny.
+>
+> 10. Pro poskytovatele vysoce rizikových systémů AI, kteří podléhají požadavkům týkajícím se interních procesů řízení rizik podle jiných relevantních ustanovení práva Unie, mohou být aspekty stanovené v odstavcích 1 až 9 součástí nebo kombinovány s postupy řízení rizik zavedenými podle daného práva.
+
+**Výklad:** Článek 9 představuje normativní páteř celého oddílu 2: systém řízení rizik není jednorozměrnou statickou procedurou, nýbrž kontinuálním iterativním procesem procházejícím celým životním cyklem systému AI — od počátečního návrhu přes testování a uvedení na trh až po postmarketingový monitoring. Tím zákonodárce přejímá přístup dobře zavedený v sektorovém právu (zdravotnické prostředky dle nařízení EU 2017/745, léčiva dle nařízení EU 726/2004), ale rozšiřuje ho na celou horizontální kategorii vysoce rizikových systémů AI.
+
+Čtyřkrokový postup v odst. 2 (identifikace — odhadování a vyhodnocování — postmarketingová analýza — přijetí opatření) odpovídá normám řízení rizik, jako je ISO 31000 a ISO/IEC 23894 (rizika AI), aniž by na ně výslovně odkazoval; harmonizované normy vydané evropskými normalizačními orgány (CEN/CENELEC) na základě čl. 40 AI aktu přinesou konkrétní výkladová vodítka. Klíčové je, že opatření pro řízení rizik musejí adresovat nejen normální použití, ale i přiměřeně předvídatelné zneužití (odst. 2 písm. b) — norma je tak přísná i pro scénáře, které poskytovatel neschválil, avšak které jsou rozumně předvídatelné.
+
+Odstavec 5 zavádí test přijatelnosti zbývajícího rizika (*acceptable residual risk*): ani po přijetí všech technicky proveditelných opatření nesmí zbývající riziko přesáhnout přijatelnou míru. Hierarchie opatření (eliminace — zmírnění — informování) sleduje logiku přístupu bezpečnosti při návrhu (*safety by design*), zákonodárce tak upřednostňuje prevenci v návrhu před kompenzatorními informačními povinnostmi. Odstavec 9 výslovně vyžaduje zohlednění dopadu na osoby mladší 18 let a jiné zranitelné skupiny — odkaz na zranitelnost je explicitní bridge k základněprávnímu rámci, zejména čl. 24 Listiny základních práv EU (práva dítěte). Odstavec 10 pak usnadňuje koordinaci s odvětvovými rámci řízení rizik (DORA, Solventnost II apod.), aniž by umožňoval jejich záměnu za specifické požadavky AI aktu.
 
 ---
 
-### Čl. 10 — ⟦NÁZEV 10⟧
+### Čl. 10 — Data a jejich správa
 
 **Doslovné znění (EN) — Article 10 — Data and data governance:**
 
@@ -204,11 +344,59 @@
 >
 > 6. For the development of high-risk AI systems not using techniques involving the training of AI models, paragraphs 2 to 5 apply only to the testing data sets.
 
-⟦FILL 10⟧
+**Pracovní překlad (CZ):**
+
+> 1. Vysoce rizikové systémy AI, které využívají techniky zahrnující trénování modelů AI s daty, musejí být vyvíjeny na základě trénovacích, validačních a testovacích datových souborů, jež splňují kritéria kvality uvedená v odstavcích 2 až 5, kdykoli jsou tyto datové soubory použity.
+>
+> 2. Trénovací, validační a testovací datové soubory musejí podléhat postupům správy a řízení dat, které jsou vhodné pro určený účel vysoce rizikového systému AI. Tyto postupy se týkají zejména:
+>
+> (a) příslušných voleb při návrhu;
+>
+> (b) procesů sběru dat a původu dat a v případě osobních údajů původního účelu sběru dat;
+>
+> (c) příslušných operací přípravy dat, jako je anotace, označování, čištění, aktualizace, obohacování a agregace;
+>
+> (d) formulace předpokladů, zejména s ohledem na informace, které mají data měřit a reprezentovat;
+>
+> (e) posouzení dostupnosti, množství a vhodnosti potřebných datových souborů;
+>
+> (f) zkoumání z hlediska možných zkreslení, která mohou ovlivnit zdraví a bezpečnost osob, mít negativní dopad na základní práva nebo vést k diskriminaci zakázané podle práva Unie, zejména tehdy, když výstupy dat ovlivňují vstupy pro budoucí operace;
+>
+> (g) přiměřených opatření k zjišťování, předcházení a zmírňování možných zkreslení identifikovaných podle písmene f);
+>
+> (h) identifikace relevantních nedostatků nebo mezer v datech bránících souladu s tímto nařízením a způsobu, jak lze tyto nedostatky a mezery řešit.
+>
+> 3. Trénovací, validační a testovací datové soubory musejí být relevantní, dostatečně reprezentativní a v co největší míře prosté chyb a úplné z hlediska určeného účelu. Musejí mít odpovídající statistické vlastnosti, včetně, je-li to relevantní, vlastností vztahujících se k osobám nebo skupinám osob, ve vztahu k nimž má být vysoce rizikový systém AI používán. Tyto vlastnosti datových souborů mohou být splněny na úrovni jednotlivých datových souborů nebo na úrovni jejich kombinace.
+>
+> 4. Datové soubory musejí v míře požadované určeným účelem zohledňovat charakteristiky nebo prvky specifické pro konkrétní zeměpisné, kontextuální, behaviorální nebo funkční prostředí, v němž má být vysoce rizikový systém AI používán.
+>
+> 5. V míře, v jaké je to nezbytně nutné pro účely zajištění zjišťování a nápravy zkreslení ve vztahu k vysoce rizikovým systémům AI v souladu s odstavcem 2 písm. f) a g) tohoto článku, mohou poskytovatelé těchto systémů výjimečně zpracovávat zvláštní kategorie osobních údajů, za předpokladu přiměřených záruk pro základní práva a svobody fyzických osob. Kromě ustanovení nařízení (EU) 2016/679 a (EU) 2018/1725 a směrnice (EU) 2016/680 musejí být pro toto zpracování splněny všechny tyto podmínky:
+>
+> (a) zjišťování a nápravy zkreslení nelze účinně dosáhnout zpracováním jiných dat, včetně syntetických nebo anonymizovaných dat;
+>
+> (b) zvláštní kategorie osobních údajů podléhají technickým omezením opakovaného použití osobních údajů a nejmodernějším bezpečnostním a soukromí chránícím opatřením, včetně pseudonymizace;
+>
+> (c) zvláštní kategorie osobních údajů podléhají opatřením zajišťujícím, že zpracovávané osobní údaje jsou zabezpečeny, chráněny a podléhají vhodným zárukám, včetně přísné kontroly a dokumentace přístupu, a to za účelem zamezení zneužití a zajištění přístupu k těmto osobním údajům pouze oprávněným osobám s odpovídajícími povinnostmi mlčenlivosti;
+>
+> (d) zvláštní kategorie osobních údajů nesmějí být předávány, přenášeny ani jinak zpřístupňovány jiným stranám;
+>
+> (e) zvláštní kategorie osobních údajů musejí být vymazány, jakmile bylo zkreslení napraveno nebo jakmile osobní údaje dosáhly konce doby uchovávání, podle toho, co nastane dříve;
+>
+> (f) záznamy o činnostech zpracování podle nařízení (EU) 2016/679 a (EU) 2018/1725 a směrnice (EU) 2016/680 obsahují důvody, proč bylo zpracování zvláštních kategorií osobních údajů nezbytně nutné pro zjišťování a nápravu zkreslení a proč tento cíl nebylo možné dosáhnout zpracováním jiných dat.
+>
+> 6. Pro vývoj vysoce rizikových systémů AI, které nevyužívají techniky zahrnující trénování modelů AI, se odstavce 2 až 5 vztahují pouze na testovací datové soubory.
+
+**Výklad:** Článek 10 je jedním z nejsignifikantnějších ustanovení AI aktu z perspektivy průsečíku AI regulace a ochrany osobních údajů. Zakotvuje závazné požadavky na správu dat (*data governance*) pro vysoce rizikové systémy AI trénované na datech, čímž reaguje na empiricky doloženou skutečnost, že kvalita, reprezentativnost a vyváženost trénovacích dat zásadně ovlivňují výstupy a potenciální diskriminační efekty systémů AI.
+
+Požadavek relevance, reprezentativnosti a pokud možno bezchybnosti datových souborů (odst. 3) je záměrně formulován jako nejlepší úsilí (*best effort*), neboť zákonodárce si uvědomuje, že absolutní podmínka by byla nesplnitelná. Zvláštní důraz na statistické vlastnosti dat ve vztahu k osobám nebo skupinám osob adresuje problém algoritmické zaujatosti (*algorithmic bias*): datové soubory, které jsou sice početně velké, ale demograficky nevyvážené, mohou vést k systematickému znevýhodňování určitých skupin.
+
+Odstavec 2 písm. f) a g) explicitně zavazuje poskytovatele k analýze a zmírňování zkreslení v datech, a to ještě před uvedením systému na trh — preventivní přístup, nikoli následná náprava. Toto ustanovení vytváří přímou normativní vazbu na antidiskriminační právo Unie (směrnice 2000/43/ES o rasové rovnosti, směrnice 2000/78/ES o rovném zacházení v zaměstnání aj.) a na GDPR: zásada přesnosti dle čl. 5 odst. 1 písm. d) GDPR se promítá do požadavku na bezchybnost a úplnost dat, zásada minimalizace dle čl. 5 odst. 1 písm. c) pak limituje rozsah dat použitých pro trénování.
+
+Odstavec 5 zavádí zvláštní výjimkový režim pro zpracování zvláštních kategorií osobních údajů za účelem zjišťování a nápravy zkreslení (*bias detection and correction*). Výjimka je přísně podmíněna: musí jít o zpracování nezbytně nutné, musejí být splněny kumulativně všechny podmínky pod písmeny a)–f) a musejí být respektovány záruky plynoucí z GDPR, nařízení (EU) 2018/1725 (pro instituce EU) a směrnice (EU) 2016/680 (pro zpracování v trestněprávní oblasti). Ustanovení tak konstituuje sui generis právní základ pro zpracování citlivých dat, který doplňuje obecné základy GDPR, avšak je věcně limitován na specifický účel detekce a nápravy zkreslení. Podmínka pod písmenem (e) — výmaz po dosažení účelu — odráží zásadu omezení uložení dle čl. 5 odst. 1 písm. e) GDPR. Odstavec 6 omezuje rozsah povinností na testovací datové soubory pro systémy nepoužívající trénování modelů, čímž respektuje odlišnou technickou povahu pravidlových nebo expertem navrhovaných systémů AI.
 
 ---
 
-### Čl. 11 — ⟦NÁZEV 11⟧
+### Čl. 11 — Technická dokumentace
 
 **Doslovné znění (EN) — Article 11 — Technical documentation:**
 
@@ -220,11 +408,25 @@
 >
 > 3. The Commission is empowered to adopt delegated acts in accordance with Article 97 in order to amend Annex IV, where necessary, to ensure that, in light of technical progress, the technical documentation provides all the information necessary to assess the compliance of the system with the requirements set out in this Section.
 
-⟦FILL 11⟧
+**Pracovní překlad (CZ):**
+
+> 1. Technická dokumentace vysoce rizikového systému AI musí být vypracována před tím, než je tento systém uveden na trh nebo do provozu, a musí být průběžně aktualizována.
+>
+> Technická dokumentace musí být vypracována tak, aby prokazovala, že vysoce rizikový systém AI splňuje požadavky stanovené v tomto oddílu, a aby příslušným vnitrostátním orgánům a oznámeným subjektům poskytovala potřebné informace v jasné a úplné formě pro posouzení souladu systému AI s těmito požadavky. Musí obsahovat přinejmenším prvky stanovené v příloze IV. Malé a střední podniky, včetně začínajících podniků, mohou poskytnout prvky technické dokumentace stanovené v příloze IV ve zjednodušené podobě. Za tímto účelem Komise stanoví zjednodušený formulář technické dokumentace zaměřený na potřeby malých a mikropodniků. Pokud se malý nebo střední podnik, včetně začínajícího podniku, rozhodne poskytnout informace požadované v příloze IV ve zjednodušené podobě, použije formulář uvedený v tomto odstavci. Oznámené subjekty přijmou tento formulář pro účely posuzování shody.
+>
+> 2. Je-li vysoce rizikový systém AI související s výrobkem, na který se vztahuje harmonizační právní předpis Unie uvedený v části A přílohy I, uveden na trh nebo do provozu, vypracuje se jeden soubor technické dokumentace obsahující veškeré informace stanovené v odstavci 1, jakož i informace požadované podle těchto právních aktů.
+>
+> 3. Komisi je svěřena pravomoc přijímat akty v přenesené pravomoci v souladu s článkem 97 za účelem změny přílohy IV, je-li to nezbytné s ohledem na technický pokrok, aby technická dokumentace obsahovala veškeré informace nezbytné pro posouzení souladu systému s požadavky stanovenými v tomto oddílu.
+
+**Výklad:** Článek 11 zakotvuje povinnost vypracovat a udržovat technickou dokumentaci jako klíčový doklad pro posuzování shody vysoce rizikových systémů AI. Technická dokumentace (jejíž minimální obsah je podrobně specifikován v příloze IV nařízení) plní dvojí funkci: jednak prokazuje poskytovateli samému a vnitřně, že systém splňuje požadavky oddílu 2, jednak umožňuje příslušným vnitrostátním orgánům a oznámeným subjektům (notified bodies) nezávisle ověřit soulad systému s nařízením.
+
+Povinnost průběžné aktualizace dokumentace je zásadní: statická dokumentace pořízená pouze při uvedení na trh by nepostačovala, neboť vysoce rizikové systémy AI se mohou v průběhu svého životního cyklu podstatně měnit (nové verze, aktualizace modelů, změny dat). Pokud změna překračuje práh „podstatné modifikace" ve smyslu čl. 83, může vyvolat novou povinnost posuzování shody.
+
+Zvláštní pozornost si zaslouží výjimka pro malé a střední podniky (MSP) a začínající podniky: zákonodárce výslovně zohlednil nepoměrnou administrativní zátěž, kterou by plná technická dokumentace pro tyto subjekty představovala, a pověřil Komisi vypracovat zjednodušený formulář. Oznámené subjekty jsou povinny tento formulář přijmout, čímž je zajištěna procesní rovnost. Toto řešení odráží zásadu proporcionality regulace a snahy o podporu inovativních malých a středních podniků v oblasti AI, která prostupuje celým AI aktem (srov. recitál 149). Konsolidace dokumentace pro výrobky podléhající harmonizačnímu právu (odst. 2) odráží stejnou logiku jako čl. 8 odst. 2 — omezení duplicitní administrativní zátěže.
 
 ---
 
-### Čl. 12 — ⟦NÁZEV 12⟧
+### Čl. 12 — Vedení záznamů
 
 **Doslovné znění (EN) — Article 12 — Record-keeping:**
 
@@ -248,11 +450,37 @@
 >
 > (d) the identification of the natural persons involved in the verification of the results, as referred to in Article 14(5).
 
-⟦FILL 12⟧
+**Pracovní překlad (CZ):**
+
+> 1. Vysoce rizikové systémy AI musejí technicky umožňovat automatické zaznamenávání událostí (protokoly) po dobu životnosti systému.
+>
+> 2. S cílem zajistit odpovídající úroveň sledovatelnosti fungování vysoce rizikového systému AI ve vztahu k jeho určenému účelu musejí možnosti vedení protokolů umožňovat zaznamenávání událostí relevantních pro:
+>
+> (a) identifikaci situací, které mohou vést k tomu, že vysoce rizikový systém AI bude představovat riziko ve smyslu čl. 79 odst. 1 nebo k podstatné modifikaci;
+>
+> (b) usnadnění postmarketingového monitorování uvedeného v článku 72; a
+>
+> (c) monitorování provozu vysoce rizikových systémů AI uvedených v čl. 26 odst. 5.
+>
+> 3. Pro vysoce rizikové systémy AI uvedené v bodě 1 písm. a) přílohy III musejí možnosti vedení protokolů poskytovat přinejmenším:
+>
+> (a) záznamy o době každého použití systému (datum a čas zahájení a datum a čas ukončení každého použití);
+>
+> (b) referenční databázi, vůči níž byly vstupní data systémem zkontrolovány;
+>
+> (c) vstupní data, pro která vyhledávání vedlo ke shodě;
+>
+> (d) identifikaci fyzických osob zapojených do ověřování výsledků, jak je uvedeno v čl. 14 odst. 5.
+
+**Výklad:** Článek 12 zakotvuje požadavek na automatické vedení protokolů (logů) jako technický základ pro dohled, sledovatelnost a zpětné přezkoumání fungování vysoce rizikových systémů AI. Povinnost vést záznamy je dvojího druhu: obecná pro všechny vysoce rizikové systémy AI (odst. 1–2) a rozšířená, s konkrétními minimálními obsahovými náležitostmi, pro systémy biometrické identifikace (odst. 3, příloha III bod 1 písm. a).
+
+Účelem obecných protokolů je zajistit sledovatelnost relevantní pro tři okruhy: identifikaci rizikových situací a podstatných modifikací (vazba na čl. 79 o dohledu nad trhem), postmarketingové monitorování (čl. 72) a plnění povinností zavádějících subjektů (čl. 26 odst. 5). Záznamy tak propojují preventivní (ex ante) požadavky oddílu 2 s reaktivními (ex post) nástroji dohledu. Vedení protokolů je rovněž předpokladem pro účinné šetření incidentů a pro výkon práv fyzických osob, jichž se rozhodnutí systémů AI týkají.
+
+Zpřísněné požadavky pro biometrické systémy (odst. 3) odráží zvláštní rizikovost tohoto use-case: záznamy o době použití, referenční databázi, vstupních datech vedoucích ke shodě a o totožnosti osob provádějících ověření (povinnost „double check" dle čl. 14 odst. 5) umožňují zpětně rekonstruovat každé konkrétní rozhodnutí o biometrické identifikaci. Tím je zajištěna auditovatelnost jako prvek právního státu v oblasti rozhodování s využitím AI, a to zejména v kontextech donucovacích orgánů nebo hraničního řízení, kde jsou dopady na jednotlivce nejzávažnější. Z pohledu ochrany osobních údajů je třeba záznamy v protokolech považovat za osobní údaje a aplikovat na jejich zpracování příslušná pravidla GDPR nebo směrnice (EU) 2016/680 (zpracování pro účely prevence trestné činnosti).
 
 ---
 
-### Čl. 13 — ⟦NÁZEV 13⟧
+### Čl. 13 — Transparentnost a poskytování informací zavádějícím subjektům
 
 **Doslovné znění (EN) — Article 13 — Transparency and provision of information to deployers:**
 
@@ -288,11 +516,49 @@
 >
 > (f) where relevant, a description of the mechanisms included within the high-risk AI system that allows deployers to properly collect, store and interpret the logs in accordance with Article 12.
 
-⟦FILL 13⟧
+**Pracovní překlad (CZ):**
+
+> 1. Vysoce rizikové systémy AI musejí být navrženy a vyvinuty tak, aby jejich provoz byl dostatečně transparentní, aby zavádějící subjekty mohly interpretovat výstup systému a vhodně ho používat. Musí být zajištěn odpovídající druh a stupeň transparentnosti s ohledem na dosažení souladu s příslušnými povinnostmi poskytovatele a zavádějícího subjektu stanovenými v oddíle 3.
+>
+> 2. Vysoce rizikové systémy AI musejí být doprovázeny návodem k použití v odpovídajícím digitálním formátu nebo jinak, který obsahuje stručné, úplné, správné a jasné informace, jež jsou relevantní, přístupné a srozumitelné pro zavádějící subjekty.
+>
+> 3. Návod k použití musí obsahovat přinejmenším tyto informace:
+>
+> (a) totožnost a kontaktní údaje poskytovatele a případně jeho oprávněného zástupce;
+>
+> (b) charakteristiky, schopnosti a omezení výkonu vysoce rizikového systému AI, včetně:
+>
+> (i) jeho určeného účelu;
+>
+> (ii) úrovně přesnosti, včetně jejích metrik, robustnosti a kybernetické bezpečnosti uvedených v článku 15, vůči nimž byl vysoce rizikový systém AI testován a validován a které lze očekávat, a veškerých známých a předvídatelných okolností, které mohou mít dopad na tuto očekávanou úroveň přesnosti, robustnosti a kybernetické bezpečnosti;
+>
+> (iii) jakékoli známé nebo předvídatelné okolnosti související s použitím vysoce rizikového systému AI v souladu s jeho určeným účelem nebo za podmínek přiměřeně předvídatelného zneužití, které mohou vést k rizikům pro zdraví a bezpečnost nebo základní práva uvedeným v čl. 9 odst. 2;
+>
+> (iv) je-li to vhodné, technické schopnosti a charakteristiky vysoce rizikového systému AI poskytovat informace relevantní pro vysvětlení jeho výstupu;
+>
+> (v) je-li to vhodné, jeho výkonnost ve vztahu ke konkrétním osobám nebo skupinám osob, pro něž má být systém používán;
+>
+> (vi) je-li to vhodné, specifikace pro vstupní data nebo jiné relevantní informace, pokud jde o trénovací, validační a testovací datové soubory použité s přihlédnutím k určenému účelu vysoce rizikového systému AI;
+>
+> (vii) je-li to vhodné, informace umožňující zavádějícím subjektům interpretovat výstup vysoce rizikového systému AI a vhodně ho používat;
+>
+> (c) změny vysoce rizikového systému AI a jeho výkonu, které byly poskytovatelem předem určeny v okamžiku počátečního posuzování shody, pokud existují;
+>
+> (d) opatření pro lidský dohled uvedená v článku 14, včetně technických opatření zavedených k usnadnění interpretace výstupů vysoce rizikových systémů AI ze strany zavádějících subjektů;
+>
+> (e) výpočetní a hardwarové prostředky, které jsou potřebné, očekávaná životnost vysoce rizikového systému AI a veškerá nezbytná opatření pro údržbu a péči, včetně jejich četnosti, k zajištění řádného fungování tohoto systému AI, mimo jiné pokud jde o aktualizace softwaru;
+>
+> (f) je-li to relevantní, popis mechanismů zahrnutých v rámci vysoce rizikového systému AI, které umožňují zavádějícím subjektům správně shromažďovat, ukládat a interpretovat protokoly v souladu s článkem 12.
+
+**Výklad:** Článek 13 konkretizuje obecnou zásadu transparentnosti pro vztah mezi poskytovatelem a zavádějícím subjektem. Zatímco obecná transparentnost vůči fyzickým osobám dotčeným systémem AI je upravena v čl. 50 a v příslušných základněprávních nástrojích, čl. 13 se zaměřuje na transparentnost ve svislé linii dodavatelského řetězce — informace, které musí poskytovatel předat zavádějícímu subjektu (operátorovi) systému.
+
+Jádro povinnosti tvoří návod k použití (odst. 3), jehož povinný obsah je rozsáhlý a pokrývá technické parametry (přesnost, robustnost, kybernetická bezpečnost), věcné limitace (podmínky, za nichž systém nemusí fungovat spolehlivě), základněprávní aspekty (předvídatelné okolnosti vedoucí k rizikům pro základní práva), opatření pro lidský dohled a instrukce pro nakládání s protokoly. Informace o výkonnosti ve vztahu ke konkrétním demografickým skupinám (odst. 3 písm. b bod v) jsou klíčové pro prevenci diskriminace — zavádějící subjekt musí vědět, pro jaké populace byl systém validován a pro jaké nikoli.
+
+Požadavek na informace o vysvětlitelnosti výstupu (odst. 3 písm. b bod iv a vii) je normativní odpovědí zákonodárce na technickou výzvu tzv. „černé skříňky" (*black box*): i když zákon nepožaduje plnou vysvětlitelnost modelů, vyžaduje, aby poskytovatel komunikoval, do jaké míry je systém schopen poskytnout vysvětlení svých výstupů a jak takové vysvětlení interpretovat. To je v souladu s právem na vysvětlení v kontextu automatizovaného rozhodování dle čl. 22 GDPR, avšak čl. 13 AI aktu jde dál: relace transparentnosti je povinná i tam, kde nedochází k plně automatizovanému rozhodování ve smyslu GDPR. Navod k použití musí splňovat formální požadavky (stručnost, úplnost, správnost, jasnost, přístupnost a srozumitelnost pro zavádějící subjekty), jež jsou analogické požadavkům kladeným na informace dle čl. 12 GDPR, avšak jsou adresovány profesionálnímu uživateli (zavádějícímu subjektu), nikoli konečnému spotřebiteli.
 
 ---
 
-### Čl. 14 — ⟦NÁZEV 14⟧
+### Čl. 14 — Lidský dohled
 
 **Doslovné znění (EN) — Article 14 — Human oversight:**
 
@@ -322,11 +588,45 @@
 >
 > The requirement for a separate verification by at least two natural persons shall not apply to high-risk AI systems used for the purposes of law enforcement, migration, border control or asylum, where Union or national law considers the application of this requirement to be disproportionate.
 
-⟦FILL 14⟧
+**Pracovní překlad (CZ):**
+
+> 1. Vysoce rizikové systémy AI musejí být navrženy a vyvinuty tak, včetně s odpovídajícími nástroji pro rozhraní člověk-stroj, aby mohly být v době, kdy jsou v provozu, účinně dohlíženy fyzickými osobami.
+>
+> 2. Lidský dohled musí mít za cíl předcházet rizikům pro zdraví, bezpečnost nebo základní práva, která mohou vzniknout, je-li vysoce rizikový systém AI používán v souladu s jeho určeným účelem nebo za podmínek přiměřeně předvídatelného zneužití, nebo tato rizika minimalizovat, zejména tam, kde tato rizika přetrvávají i po uplatnění jiných požadavků stanovených v tomto oddílu.
+>
+> 3. Opatření pro dohled musejí být přiměřená rizikům, úrovni autonomie a kontextu použití vysoce rizikového systému AI a musejí být zajištěna prostřednictvím jednoho nebo obou těchto typů opatření:
+>
+> (a) opatření identifikovaná a zabudovaná, je-li to technicky proveditelné, do vysoce rizikového systému AI poskytovatelem před jeho uvedením na trh nebo do provozu;
+>
+> (b) opatření identifikovaná poskytovatelem před uvedením vysoce rizikového systému AI na trh nebo do provozu a vhodná k implementaci ze strany zavádějícího subjektu.
+>
+> 4. Pro účely implementace odstavců 1, 2 a 3 musí být vysoce rizikový systém AI předán zavádějícímu subjektu takovým způsobem, aby fyzické osoby, jimž je přidělen lidský dohled, byly schopny, je-li to vhodné a přiměřené:
+>
+> (a) náležitě porozumět relevantním schopnostem a omezením vysoce rizikového systému AI a být schopny jeho provoz náležitě monitorovat, mimo jiné za účelem zjišťování a řešení anomálií, poruch a neočekávaného výkonu;
+>
+> (b) být si vědomy možné tendence automaticky spoléhat nebo nadměrně spoléhat na výstup produkovaný vysoce rizikovým systémem AI (automatizační zkreslení), a to zejména u vysoce rizikových systémů AI používaných k poskytování informací nebo doporučení pro rozhodnutí, která mají přijímat fyzické osoby;
+>
+> (c) správně interpretovat výstup vysoce rizikového systému AI, přičemž zohlední například dostupné nástroje a metody interpretace;
+>
+> (d) rozhodnout se v každé konkrétní situaci nepoužít vysoce rizikový systém AI nebo jinak ignorovat, přepsat nebo zvrátit výstup vysoce rizikového systému AI;
+>
+> (e) zasáhnout do provozu vysoce rizikového systému AI nebo systém přerušit prostřednictvím tlačítka „stop" nebo podobného postupu, který umožní systému přejít do bezpečného stavu.
+>
+> 5. Pro vysoce rizikové systémy AI uvedené v bodě 1 písm. a) přílohy III musejí být opatření uvedená v odstavci 3 tohoto článku taková, aby bylo zaručeno, že navíc žádná akce ani rozhodnutí nebudou ze strany zavádějícího subjektu přijaty na základě identifikace vyplývající ze systému, pokud tato identifikace nebyla samostatně ověřena a potvrzena alespoň dvěma fyzickými osobami s nezbytnou odbornou způsobilostí, školením a pravomocí.
+>
+> Požadavek na samostatné ověření alespoň dvěma fyzickými osobami se nevztahuje na vysoce rizikové systémy AI používané pro účely vymáhání práva, migrace, správy hranic nebo azylu, pokud právo Unie nebo vnitrostátní právo považuje uplatnění tohoto požadavku za nepřiměřené.
+
+**Výklad:** Článek 14 zakotvuje požadavek lidského dohledu (*human oversight*) jako jeden z klíčových konstruktivních prvků bezpečnosti vysoce rizikových systémů AI. Lidský dohled zde není chápán jako jednorázový kontrolní mechanismus, ale jako trvalý procesní požadavek integrovaný do návrhu systému i do podmínek jeho provozu.
+
+Normativní jádro tvoří odstavec 4, který stanoví pět konkrétních schopností, jež musejí být osobám vykonávajícím lidský dohled zajištěny: porozumění schopnostem a limitacím systému, povědomí o riziku automatizačního zkreslení (*automation bias*), schopnost správně interpretovat výstup, právo odmítnout nebo přepsat výstup a právo systém zastavit. Výslovné zakotvení práva přepsat nebo ignorovat výstup systému AI (písm. d) je normativním vyjádřením zásady, že stroj nesmí nahradit lidský úsudek při přijímání konečných rozhodnutí s dopadem na práva a zájmy fyzických osob — principu, který je z hlediska základních práv vyjádřen v čl. 22 GDPR a v obecné doktríně procesní spravedlnosti.
+
+Výslovná zmínka o automatizačním zkreslení (písm. b) je pozoruhodnou normativní novinkou: zákonodárce výslovně pojmenovává psychologický fenomén nadměrného spoléhání na výstupy automatizovaných systémů a ukládá, aby osoby vykonávající dohled na toto riziko byly aktivně upozorňovány. Jde o most mezi kognitivní vědou a právem, který odráží empirická zjištění z oblastí jako soudní rozhodování s asistencí AI nebo algoritmické systémy pro udělování úvěrů.
+
+Zpřísněný požadavek čtyř očí — resp. požadavek ověření alespoň dvěma osobami — pro systémy biometrické identifikace (odst. 5) je jednou z nejpřísnějších procedurálních záruk celého nařízení a odráží zvláštní závažnost chyb v biometrické identifikaci (záměna totožnosti). Výjimka pro donucovací orgány v situacích, kdy by požadavek byl nepřiměřený, je protiváhou a musí být vykládána restriktivně: musí být zakotvena v právu Unie nebo vnitrostátním právu, nikoli ponechána na uvážení zavádějícího subjektu ad hoc. Opatření pro lidský dohled musejí být přiměřená (odst. 3) — mají reagovat na konkrétní úroveň autonomie systému a kontext jeho použití, nikoli být uniformní pro všechny typy vysoce rizikových systémů AI.
 
 ---
 
-### Čl. 15 — ⟦NÁZEV 15⟧
+### Čl. 15 — Přesnost, robustnost a kybernetická bezpečnost
 
 **Doslovné znění (EN) — Article 15 — Accuracy, robustness and cybersecurity:**
 
@@ -352,6 +652,32 @@
 >
 > Obligations of providers and deployers of high-risk AI systems and other parties
 
-⟦FILL 15⟧
+**Pracovní překlad (CZ):**
+
+> 1. Vysoce rizikové systémy AI musejí být navrženy a vyvinuty tak, aby dosahovaly odpovídající úrovně přesnosti, robustnosti a kybernetické bezpečnosti a aby v těchto ohledech konzistentně fungovaly po celou dobu svého životního cyklu.
+>
+> 2. Za účelem řešení technických aspektů měření odpovídající úrovně přesnosti a robustnosti stanovené v odstavci 1 a jakýchkoli jiných relevantních ukazatelů výkonu, Komise ve spolupráci s relevantními zúčastněnými stranami a organizacemi, jako jsou metrologické orgány a orgány pro benchmarking, bude případně podporovat rozvoj referenčních hodnot a metodologií měření.
+>
+> 3. Úrovně přesnosti a relevantní metriky přesnosti vysoce rizikových systémů AI musejí být deklarovány v přiloženém návodu k použití.
+>
+> 4. Vysoce rizikové systémy AI musejí být co nejvíce odolné vůči chybám, poruchám nebo nekonzistencím, ke kterým může dojít v systému nebo v prostředí, v němž systém funguje, zejména v důsledku jejich interakce s fyzickými osobami nebo jinými systémy. V tomto ohledu musejí být přijata technická a organizační opatření.
+>
+> Robustnosti vysoce rizikových systémů AI může být dosaženo prostřednictvím řešení technické redundance, která mohou zahrnovat záložní nebo nouzové plány.
+>
+> Vysoce rizikové systémy AI, které se nadále učí po svém uvedení na trh nebo do provozu, musejí být vyvinuty tak, aby v co největší míře eliminovaly nebo redukovaly riziko, že by případně zaujatá výstupy ovlivňovaly vstupy pro budoucí operace (zpětné vazby), a aby bylo zajištěno, že tyto zpětné vazby jsou náležitě řešeny odpovídajícími zmírňujícími opatřeními.
+>
+> 5. Vysoce rizikové systémy AI musejí být odolné vůči pokusům neoprávněných třetích stran o změnu jejich použití, výstupů nebo výkonu prostřednictvím zneužití zranitelností systému.
+>
+> Technická řešení zaměřená na zajištění kybernetické bezpečnosti vysoce rizikových systémů AI musejí být přiměřená relevantním okolnostem a rizikům.
+>
+> Technická řešení pro řešení zranitelností specifických pro AI musejí zahrnovat, je-li to vhodné, opatření k předcházení útokům pokoušejícím se manipulovat s trénovacím datovým souborem (otrava dat), nebo předtrénovanými komponentami používanými při trénování (otrava modelu), vstupům navrženým tak, aby způsobily chybu modelu AI (nepřátelské příklady nebo vyhýbání se modelu), útokům na důvěrnost nebo chybám modelu, reagování na ně, jejich odhalování, řešení a kontrolu.
+
+**Výklad:** Článek 15 uzavírá sadu povinných technických požadavků na vysoce rizikové systémy AI a věnuje se třem vzájemně provázaným vlastnostem: přesnosti, robustnosti a kybernetické bezpečnosti. Jejich společným jmenovatelem je odolnost a spolehlivost systému v reálných podmínkách nasazení po celou dobu jeho životního cyklu.
+
+Přesnost (*accuracy*) je v kontextu AI chápána šíře než v metrologii: zahrnuje konzistenci výstupů ve vztahu k určenému účelu a musí být transparentně deklarována v návodu k použití (odst. 3). Zákonodárce ponechal stanovení konkrétních metrik na harmonizovaných normách a na pokynech Komise vydávaných ve spolupráci s metrologickými orgány (odst. 2) — tato volba odráží technologickou heterogenitu systémů AI, pro něž není možné stanovit jednotný numerický práh přesnosti.
+
+Robustnost (odst. 4) řeší zejména dva problémy: odolnost vůči chybám a poruchám za provozu (hardwarové a softwarové selhání, anomální vstupy) a problém zpětnovazebních smyček u systémů schopných se nadále učit po uvedení na trh. Požadavek na aktivní řízení zpětnovazebních smyček (*feedback loops*) je podstatný: bez něj by systém mohl systematicky zesilovat a upevňovat svá vlastní zkreslení, neboť zaujatý výstup by se bez korekce stával vstupem budoucího trénování.
+
+Kybernetická bezpečnost (odst. 5) představuje průsečík AI aktu s nařízením DORA (EU) 2022/2554 a směrnicí NIS2 (EU) 2022/2555: zákonodárce výslovně jmenuje AI-specifické kybernetické hrozby — otravu trénovacích dat (*data poisoning*), otravu modelu (*model poisoning*), nepřátelské příklady (*adversarial examples*) a útoky na důvěrnost modelu. Tato taxonomie hrozeb dosud absentovala v obecném kybernetickém právu, což odůvodňuje zahrnutí specifických opatření přímo do AI aktu. Technická řešení musejí být přiměřená konkrétním okolnostem a rizikům — zákonodárce explicitně odmítá přístup „jedna velikost pro všechny", který by byl technologicky nevhodný. Kombinace těchto tří vlastností — přesnosti, robustnosti a odolnosti vůči kybernetickým hrozbám — v průběhu celého životního cyklu systému (odst. 1) je normativní odpovědí na dynamickou povahu AI systémů, jež se liší od tradičního softwaru svou schopností měnit chování v závislosti na datech a prostředí.
 
 ---

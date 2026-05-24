@@ -1,6 +1,10 @@
 # Kapitola III, oddíl 3 — Povinnosti poskytovatelů, zavádějících subjektů a dalších stran (čl. 16–27)
 
-⟦INTRO⟧
+Oddíl 3 kapitoly III tvoří normativní základ pro rozdělení povinností v rámci celého hodnotového řetězce vysoce rizikových systémů AI. Na rozdíl od oddílu 2, který stanoví věcné technické požadavky na tyto systémy (čl. 8–15), oddíl 3 určuje, kdo a jakým způsobem odpovídá za jejich splnění. Primárním adresátem je poskytovatel (provider) — subjekt, který vysoce rizikový systém AI vyvíjí nebo jej nechává vyvinout a uvádí na trh nebo do provozu pod vlastním jménem či obchodní značkou. Vedle poskytovatele nařízení ukládá povinnosti také zavádějícím subjektům (deployers), dovozcům, distributorům a zplnomocněným zástupcům, přičemž každý z těchto aktérů nese odpovědnost odpovídající jeho skutečné roli a míře kontroly nad systémem.
+
+Klíčovým konstrukčním principem oddílu 3 je pružné přiřazování statusu poskytovatele v hodnotovém řetězci (čl. 25). Pokud distributor, dovozce, zavádějící subjekt nebo jiná třetí strana umístí na systém vlastní jméno nebo značku, provede podstatnou modifikaci nebo změní zamýšlený účel tak, že systém nově spadá pod kategorii vysoce rizikových, přejímá plné povinnosti poskytovatele. Tím nařízení zabraňuje obcházení povinností prostřednictvím formálního přesunu rolí a zajišťuje, že regulatorní odpovědnost sleduje faktickou kontrolu nad systémem.
+
+Závěr oddílu (čl. 27) zavádí specifický nástroj pro veřejnoprávní zavádějící subjekty a soukromé subjekty zajišťující veřejné služby: posouzení dopadů na základní práva (fundamental rights impact assessment, FRIA). Toto posouzení doplňuje — a v řadě případů se koordinuje s — posouzením vlivu na ochranu osobních údajů (DPIA) podle čl. 35 nařízení (EU) 2016/679 (GDPR), na nějž výslovně odkazuje čl. 26 odst. 9. Vztah obou nástrojů je přitom komplementární, nikoliv subsidiární: tam, kde systém zpracovává osobní údaje, se FRIA provádí jako doplnění DPIA, přičemž obě hodnocení lze integrovat do jediného procesu.
 
 ---
 
@@ -8,7 +12,7 @@
 
 **Oddíl 3 — Povinnosti poskytovatelů a zavádějících subjektů vysoce rizikových systémů AI a dalších stran**
 
-### Čl. 16 — ⟦NÁZEV 16⟧
+### Čl. 16 — Povinnosti poskytovatelů vysoce rizikových systémů AI
 
 **Doslovné znění (EN) — Article 16 — Obligations of providers of high-risk AI systems:**
 
@@ -38,11 +42,43 @@
 >
 > (l) ensure that the high-risk AI system complies with accessibility requirements in accordance with Directives (EU) 2016/2102 and (EU) 2019/882.
 
-⟦FILL 16⟧
+**Pracovní překlad (CZ):**
+
+> Poskytovatelé vysoce rizikových systémů AI jsou povinni:
+>
+> (a) zajistit, aby jejich vysoce rizikové systémy AI splňovaly požadavky stanovené v oddílu 2;
+>
+> (b) uvést na vysoce rizikovém systému AI nebo, není-li to možné, na jeho obalu či v jeho průvodní dokumentaci, podle okolností, své jméno, zapsané obchodní jméno nebo zapsanou obchodní značku a adresu, na níž je možné je kontaktovat;
+>
+> (c) mít zavedený systém řízení kvality, který splňuje požadavky článku 17;
+>
+> (d) uchovávat dokumentaci uvedenou v článku 18;
+>
+> (e) jsou-li protokoly pod jejich kontrolou, uchovávat protokoly automaticky generované jejich vysoce rizikovými systémy AI, jak je uvedeno v článku 19;
+>
+> (f) zajistit, aby vysoce rizikový systém AI před uvedením na trh nebo uvedením do provozu prošel příslušným postupem posouzení shody podle článku 43;
+>
+> (g) vypracovat EU prohlášení o shodě v souladu s článkem 47;
+>
+> (h) umístit označení CE na vysoce rizikový systém AI nebo, není-li to možné, na jeho obal či v jeho průvodní dokumentaci, čímž se vyjádří shoda s tímto nařízením, v souladu s článkem 48;
+>
+> (i) splnit registrační povinnosti uvedené v čl. 49 odst. 1;
+>
+> (j) přijmout nezbytná nápravná opatření a poskytnout informace, jak vyžaduje článek 20;
+>
+> (k) na odůvodněnou žádost příslušného vnitrostátního orgánu prokázat shodu vysoce rizikového systému AI s požadavky stanovenými v oddílu 2;
+>
+> (l) zajistit, aby vysoce rizikový systém AI splňoval požadavky na přístupnost v souladu se směrnicemi (EU) 2016/2102 a (EU) 2019/882.
+
+**Výklad:** Článek 16 funguje jako souhrnný katalog povinností poskytovatele a slouží jako centrální rozcestník pro celý oddíl 3. Každá z dvanácti povinností odkazuje na konkrétní ustanovení nařízení nebo přímo ukládá povinnost sledovatelnou z tohoto článku. Povinnost dle písm. (a) je rámcová — zajistit plný soulad s věcnými požadavky oddílu 2 (čl. 8–15) — a jako taková představuje generální klauzuli odpovědnosti poskytovatele. Zbývající písmena (b) až (l) ji konkretizují a doplňují.
+
+Zvláštní pozornost si zasluhuje povinnost pod písm. (f) a (g): poskytovatel musí před uvedením systému na trh nebo do provozu dokončit posouzení shody (čl. 43) a na jeho základě vydat EU prohlášení o shodě (čl. 47). Až poté může být na systém umístěno označení CE (písm. (h)), které je viditelným dokladem shody. Tento sled kroků je normativně závazný a jeho nedodržení zakládá nesoulad s nařízením bez ohledu na faktickou technickou kvalitu systému.
+
+Povinnost pod písm. (b) sleduje požadavek identifikovatelnosti výrobku a koresponduje s obdobnými povinnostmi ve spotřebitelském právu a v právu výrobků. Registrace dle písm. (i) odkazuje na databázi EU provozovanou AI Office (čl. 71), čímž se zajišťuje veřejná transparentnost nabídky vysoce rizikových systémů AI. Povinnost přístupnosti dle písm. (l) byla přidána v průběhu legislativního procesu a odráží průřezový charakter požadavků na přístupnost v unijním právu; vztahuje se zejména na systémy interagující s fyzickými osobami.
 
 ---
 
-### Čl. 17 — ⟦NÁZEV 17⟧
+### Čl. 17 — Systém řízení kvality
 
 **Doslovné znění (EN) — Article 17 — Quality management system:**
 
@@ -80,11 +116,51 @@
 >
 > 4. For providers that are financial institutions subject to requirements regarding their internal governance, arrangements or processes under Union financial services law, the obligation to put in place a quality management system, with the exception of paragraph 1, points (g), (h) and (i) of this Article, shall be deemed to be fulfilled by complying with the rules on internal governance arrangements or processes pursuant to the relevant Union financial services law. To that end, any harmonised standards referred to in Article 40 shall be taken into account.
 
-⟦FILL 17⟧
+**Pracovní překlad (CZ):**
+
+> 1. Poskytovatelé vysoce rizikových systémů AI zavedou systém řízení kvality, který zajišťuje soulad s tímto nařízením. Tento systém musí být zdokumentován systematickým a přehledným způsobem v podobě písemných zásad, postupů a pokynů a musí zahrnovat alespoň tyto aspekty:
+>
+> (a) strategii pro dodržování předpisů, včetně souladu s postupy posouzení shody a postupy pro řízení změn vysoce rizikového systému AI;
+>
+> (b) techniky, postupy a systematická opatření, která se mají používat pro návrh, ověřování návrhu a kontrolu návrhu vysoce rizikového systému AI;
+>
+> (c) techniky, postupy a systematická opatření, která se mají používat pro vývoj, kontrolu kvality a zabezpečení kvality vysoce rizikového systému AI;
+>
+> (d) postupy přezkoumávání, testování a validace, jež se mají provádět před zahájením vývoje vysoce rizikového systému AI, v jeho průběhu a po jeho skončení, a četnost jejich provádění;
+>
+> (e) technické specifikace, včetně norem, které se mají používat, a — v případech, kdy příslušné harmonizované normy nejsou plně použity nebo nepokrývají všechny příslušné požadavky stanovené v oddílu 2 — prostředky, jež se mají použít k zajištění souladu vysoce rizikového systému AI s těmito požadavky;
+>
+> (f) systémy a postupy správy dat, včetně získávání dat, shromažďování dat, analýzy dat, označování dat, ukládání dat, filtrování dat, dolování dat, agregace dat, uchovávání dat a jakékoli jiné operace s daty prováděné před uvedením vysoce rizikových systémů AI na trh nebo jejich uvedením do provozu a pro tyto účely;
+>
+> (g) systém řízení rizik uvedený v článku 9;
+>
+> (h) zřízení, zavedení a udržování systému monitorování po uvedení na trh v souladu s článkem 72;
+>
+> (i) postupy související s oznamováním závažných incidentů v souladu s článkem 73;
+>
+> (j) způsob komunikace s vnitrostátními příslušnými orgány, jinými příslušnými orgány, včetně orgánů poskytujících nebo podporujících přístup k datům, oznámenými subjekty, jinými subjekty v hodnotovém řetězci, zákazníky nebo jinými zainteresovanými stranami;
+>
+> (k) systémy a postupy pro vedení záznamů veškeré příslušné dokumentace a informací;
+>
+> (l) správa zdrojů, včetně opatření týkajících se bezpečnosti dodávek;
+>
+> (m) rámec odpovědnosti stanovující odpovědnosti vedení a ostatních zaměstnanců za všechny aspekty uvedené v tomto odstavci.
+>
+> 2. Provádění aspektů uvedených v odstavci 1 musí být přiměřené velikosti organizace poskytovatele. Poskytovatelé musí v každém případě dodržovat míru přísnosti a úroveň ochrany nezbytnou k zajištění souladu jejich vysoce rizikových systémů AI s tímto nařízením.
+>
+> 3. Poskytovatelé vysoce rizikových systémů AI, na které se vztahují povinnosti týkající se systémů řízení kvality nebo rovnocenné funkce podle příslušného odvětvového práva Unie, mohou aspekty uvedené v odstavci 1 začlenit jako součást systémů řízení kvality podle daného práva.
+>
+> 4. V případě poskytovatelů, kteří jsou finančními institucemi podléhajícími požadavkům týkajícím se jejich interních řídicích mechanismů, ujednání nebo procesů podle finančního práva Unie pro oblast finančních služeb, se povinnost zavést systém řízení kvality — s výjimkou odst. 1 písm. (g), (h) a (i) tohoto článku — považuje za splněnou, pokud jsou dodržována pravidla pro interní řídicí mechanismy nebo procesy podle příslušného finančního práva Unie pro oblast finančních služeb. Za tímto účelem se přihlédne k jakýmkoli harmonizovaným normám uvedeným v článku 40.
+
+**Výklad:** Systém řízení kvality (quality management system, QMS) je organizačním nástrojem, prostřednictvím nějž poskytovatel institucionalizuje soulad s věcnými požadavky oddílu 2. Pojetí vychází z osvědčených průmyslových standardů (srov. normy řady ISO 9001 a ISO/IEC 42001 pro systémy řízení AI), avšak nařízení jej přizpůsobuje specifickým rysům vysoce rizikových systémů AI — zejména požadavkem na explicitní zahrnutí řízení rizik (písm. (g) odkazující na čl. 9), post-market monitoringu (písm. (h) odkazující na čl. 72) a hlášení incidentů (písm. (i) odkazující na čl. 73).
+
+Zvláštní pozornost si zaslouží požadavek na správu dat pod písm. (f). Ten de facto integruje datový cyklus do QMS a vyžaduje, aby poskytovatel zdokumentoval, jak s daty nakládá od jejich získání až po jejich použití při trénování a nasazení systému. Tím se QMS stává průsečíkem technického, datového a právního řízení.
+
+Zásada proporcionality zakotvená v odst. 2 má zásadní praktický dosah pro menší poskytovatele: startupy nebo výzkumné instituce nemusí uplatňovat stejnou míru formalizace jako velcí průmysloví hráči, přičemž ale musí vždy dosáhnout téže úrovně ochrany. Výjimka pro finanční instituce dle odst. 4 je příkladem princip sektorové koordinace, který prostupuje celým nařízením: tam, kde odvětvové právo Unie již zakotvuje rovnocenné mechanismy, nevyžaduje AI Act duplicitní splnění, avšak tří klíčové oblasti (řízení rizik, post-market monitoring a hlášení incidentů) musí být zajištěny vždy.
 
 ---
 
-### Čl. 18 — ⟦NÁZEV 18⟧
+### Čl. 18 — Uchovávání dokumentace
 
 **Doslovné znění (EN) — Article 18 — Documentation keeping:**
 
@@ -104,11 +180,33 @@
 >
 > 3. Providers that are financial institutions subject to requirements regarding their internal governance, arrangements or processes under Union financial services law shall maintain the technical documentation as part of the documentation kept under the relevant Union financial services law.
 
-⟦FILL 18⟧
+**Pracovní překlad (CZ):**
+
+> 1. Poskytovatel musí po dobu deseti let od okamžiku, kdy byl vysoce rizikový systém AI uveden na trh nebo do provozu, uchovávat k dispozici vnitrostátním příslušným orgánům:
+>
+> (a) technickou dokumentaci uvedenou v článku 11;
+>
+> (b) dokumentaci týkající se systému řízení kvality uvedeného v článku 17;
+>
+> (c) dokumentaci týkající se změn schválených oznámenými subjekty, je-li to relevantní;
+>
+> (d) rozhodnutí a jiné dokumenty vydané oznámenými subjekty, je-li to relevantní;
+>
+> (e) EU prohlášení o shodě uvedené v článku 47.
+>
+> 2. Každý členský stát stanoví podmínky, za nichž dokumentace uvedená v odstavci 1 zůstává k dispozici vnitrostátním příslušným orgánům po dobu stanovenou v daném odstavci pro případy, kdy se poskytovatel nebo jeho zplnomocněný zástupce usazený na území tohoto členského státu stane insolventním nebo ukončí svou činnost před uplynutím této doby.
+>
+> 3. Poskytovatelé, kteří jsou finančními institucemi podléhajícími požadavkům týkajícím se jejich interních řídicích mechanismů, ujednání nebo procesů podle finančního práva Unie pro oblast finančních služeb, vedou technickou dokumentaci jako součást dokumentace uchovávané podle příslušného finančního práva Unie pro oblast finančních služeb.
+
+**Výklad:** Článek 18 ukládá poskytovateli povinnost uchovávat klíčovou dokumentaci o vysoce rizikovém systému AI po dobu deseti let od uvedení na trh nebo do provozu. Tato archivační lhůta je výrazně delší než lhůty typické v obecném obchodním právu a odráží záměr zákonodárce zajistit auditovatelnost systémů i s časovým odstupem — zejména s ohledem na potenciální dlouhodobé dopady vysoce rizikových systémů AI na osoby, kterých se jejich výstupy týkají.
+
+Rozsah povinně uchovávané dokumentace koresponduje s dokumentačními požadavky stanovenými v oddílu 2: technická dokumentace (čl. 11 a příloha IV) a dokumentace QMS (čl. 17) tvoří základ; k tomu přistupují certifikáty a rozhodnutí oznámených subjektů, kde je jejich zapojení vyžadováno (čl. 43 a 44). EU prohlášení o shodě (čl. 47) dokládá výsledek posouzení shody. Společně tvoří tyto dokumenty „regulatorní stopu" systému.
+
+Odstavec 2 zavazuje členské státy, aby na vnitrostátní úrovni upravily, jak bude dokumentace přístupná dozorovým orgánům v případě úpadku nebo ukončení činnosti poskytovatele — tj. v situacích, kdy by mohlo dojít ke ztrátě dokumentace. Jde o pragmatické ustanovení, jež ponechává členským státům prostor pro přizpůsobení jejich insolvenčním a obchodním právem, avšak vyžaduje, aby přístupnost dokumentace byla zaručena. Výjimka pro finanční instituce v odst. 3 opět sleduje logiku sektorové koordinace analogicky k čl. 17 odst. 4.
 
 ---
 
-### Čl. 19 — ⟦NÁZEV 19⟧
+### Čl. 19 — Automaticky generované protokoly
 
 **Doslovné znění (EN) — Article 19 — Automatically generated logs:**
 
@@ -116,11 +214,21 @@
 >
 > 2. Providers that are financial institutions subject to requirements regarding their internal governance, arrangements or processes under Union financial services law shall maintain the logs automatically generated by their high-risk AI systems as part of the documentation kept under the relevant financial services law.
 
-⟦FILL 19⟧
+**Pracovní překlad (CZ):**
+
+> 1. Poskytovatelé vysoce rizikových systémů AI uchovávají protokoly uvedené v čl. 12 odst. 1, automaticky generované jejich vysoce rizikovými systémy AI, v rozsahu, v němž jsou tyto protokoly pod jejich kontrolou. Aniž je dotčeno použitelné právo Unie nebo vnitrostátní právo, uchovávají se protokoly po dobu přiměřenou zamýšlenému účelu vysoce rizikového systému AI, nejméně však šest měsíců, není-li v použitelném právu Unie nebo vnitrostátním právu, zejména v právu Unie o ochraně osobních údajů, stanoveno jinak.
+>
+> 2. Poskytovatelé, kteří jsou finančními institucemi podléhajícími požadavkům týkajícím se jejich interních řídicích mechanismů, ujednání nebo procesů podle finančního práva Unie pro oblast finančních služeb, vedou protokoly automaticky generované jejich vysoce rizikovými systémy AI jako součást dokumentace uchovávané podle příslušného finančního práva pro oblast finančních služeb.
+
+**Výklad:** Článek 19 konkretizuje povinnost uchovávat protokoly, která je jako technický požadavek zakotvena v čl. 12 odst. 1. Zatímco čl. 12 ukládá, aby byl systém technicky schopen protokoly generovat a uchovávat, čl. 19 ukládá poskytovateli organizačně-právní povinnost tyto protokoly fakticky archivovat — a to v rozsahu, v němž jsou pod jeho kontrolou.
+
+Podmínka „pod jejich kontrolou" je prakticky významná: pokud je systém provozován v cloudovém prostředí třetí strany a poskytovatel nemá technický přístup k protokolům, povinnost se na část mimo jeho kontrolu nevztahuje. Avšak pokud si poskytovatel smluvně nebo technicky mohl přístup k protokolům zajistit a neučinil tak, může být tato skutečnost hodnocena jako obcházení povinnosti. Minimální šestiměsíční lhůta uchovávání je spodní hranicí — u systémů, jejichž zamýšlený účel implikuje delší hodnotící horizont (např. systémy v oblasti zdravotnictví nebo soudnictví), musí být lhůta prodloužena.
+
+Výjimka pro finanční instituce dle odst. 2 sleduje stejnou logiku jako u čl. 17 a 18: protokoly se stanou součástí dokumentace vedené podle odvětvových pravidel (např. pravidla MiFID II nebo Basel III/CRR), čímž se eliminuje duplicitní archivace. Souběh s povinnostmi podle práva ochrany osobních údajů je výslovně zmíněn: pokud protokoly obsahují osobní údaje, musí se doba uchovávání řídit i zásadou omezení uložení dle čl. 5 odst. 1 písm. (e) GDPR, přičemž kratší lhůta vyplývající z práva ochrany osobních údajů může zkrátit šestiměsíční minimum.
 
 ---
 
-### Čl. 20 — ⟦NÁZEV 20⟧
+### Čl. 20 — Nápravná opatření a povinnost informovat
 
 **Doslovné znění (EN) — Article 20 — Corrective actions and duty of information:**
 
@@ -128,11 +236,19 @@
 >
 > 2. Where the high-risk AI system presents a risk within the meaning of Article 79(1) and the provider becomes aware of that risk, it shall immediately investigate the causes, in collaboration with the reporting deployer, where applicable, and inform the market surveillance authorities competent for the high-risk AI system concerned and, where applicable, the notified body that issued a certificate for that high-risk AI system in accordance with Article 44, in particular, of the nature of the non-compliance and of any relevant corrective action taken.
 
-⟦FILL 20⟧
+**Pracovní překlad (CZ):**
+
+> 1. Poskytovatelé vysoce rizikových systémů AI, kteří se domnívají nebo mají důvod se domnívat, že vysoce rizikový systém AI, který uvedli na trh nebo do provozu, není v souladu s tímto nařízením, neprodleně přijmou nezbytná nápravná opatření k dosažení souladu tohoto systému, k jeho stažení z trhu, deaktivaci nebo odvolání, podle okolností. Informují o tom distributory dotčeného vysoce rizikového systému AI a případně zavádějící subjekty, zplnomocněného zástupce a dovozce.
+>
+> 2. Pokud vysoce rizikový systém AI představuje riziko ve smyslu čl. 79 odst. 1 a poskytovatel se o tomto riziku dozví, neprodleně zahájí šetření příčin, a to ve spolupráci s oznamujícím zavádějícím subjektem, je-li to relevantní, a informuje orgány dozoru nad trhem příslušné pro daný vysoce rizikový systém AI, a případně oznámený subjekt, který vydal certifikát pro daný vysoce rizikový systém AI v souladu s článkem 44, zejména o povaze nesouladu a o příslušných nápravných opatřeních, jež byla přijata.
+
+**Výklad:** Článek 20 zavádí dvoustupňový mechanismus reakce poskytovatele na zjištěný nesoulad. První stupeň (odst. 1) nastupuje tehdy, kdy poskytovatel zjistí nebo má důvod se domnívat, že jím uvedený systém není v souladu s nařízením. Formulace „má důvod se domnívat" zakládá objektivní standard: nevyžaduje jistotu, ale ani pouhé podezření — jde o situaci, kdy dostupné informace rozumně nasvědčují nesouladu. Reakce poskytovatele musí být neprodlená a může mít různou intenzitu: dosažení souladu (technická oprava), stažení z trhu, deaktivace nebo odvolání (recall). Poskytovatel má povinnost informovat všechny relevantní aktéry v hodnotovém řetězci — distributory, zavádějící subjekty, zplnomocněného zástupce a dovozce.
+
+Druhý stupeň (odst. 2) nastupuje tehdy, kdy systém nepředstavuje pouhý nesoulad, ale aktivní riziko ve smyslu čl. 79 odst. 1, tj. riziko pro zdraví, bezpečnost nebo základní práva. Zde je poskytovatel povinen neprodleně zahájit šetření příčin a informovat orgány dozoru nad trhem a případně oznámený subjekt. Spolupráce s oznamujícím zavádějícím subjektem při šetření je procesní novinkou — reflektuje skutečnost, že zavádějící subjekty jsou nejblíže provoznímu kontextu, v němž se riziko projevilo, a mohou poskytnout nezbytné faktické podklady pro diagnózu příčin.
 
 ---
 
-### Čl. 21 — ⟦NÁZEV 21⟧
+### Čl. 21 — Spolupráce s příslušnými orgány
 
 **Doslovné znění (EN) — Article 21 — Cooperation with competent authorities:**
 
@@ -142,11 +258,23 @@
 >
 > 3. Any information obtained by a competent authority pursuant to this Article shall be treated in accordance with the confidentiality obligations set out in Article 78.
 
-⟦FILL 21⟧
+**Pracovní překlad (CZ):**
+
+> 1. Poskytovatelé vysoce rizikových systémů AI na odůvodněnou žádost příslušného orgánu poskytnou tomuto orgánu veškeré informace a dokumentaci nezbytnou k prokázání shody vysoce rizikového systému AI s požadavky stanovenými v oddílu 2, a to v jazyce, který je pro daný orgán snadno srozumitelný, v jednom z úředních jazyků orgánů Unie, jak jej určil dotčený členský stát.
+>
+> 2. Na odůvodněnou žádost příslušného orgánu poskytnou poskytovatelé rovněž žádajícímu příslušnému orgánu přístup k automaticky generovaným protokolům vysoce rizikového systému AI uvedeným v čl. 12 odst. 1, v rozsahu, v němž jsou tyto protokoly pod jejich kontrolou.
+>
+> 3. Veškeré informace získané příslušným orgánem podle tohoto článku jsou zpracovávány v souladu s povinnostmi mlčenlivosti stanovenými v článku 78.
+
+**Výklad:** Článek 21 je procesním pendantem k čl. 16 písm. (k) a konkretizuje povinnost poskytovatele spolupracovat s orgány dozoru. Klíčovým prvkem je podmínka odůvodněné žádosti (reasoned request): orgán musí svou žádost o informace odůvodnit, čímž je zaručena proporcionalita zásahu a ochrana poskytovatelů před neomezeným přístupem dozorových orgánů k jejich dokumentaci.
+
+Jazykový požadavek v odst. 1 — poskytnutí informací v jazyce srozumitelném orgánu, přičemž se použije jeden z úředních jazyků orgánů Unie, jak jej určil dotčený členský stát — řeší praktický problém mezinárodní srozumitelnosti, neboť poskytovatelé mohou být usazeni v jiných členských státech nebo třetích zemích. V praxi to znamená, že česká dozorová instance může požadovat dokumentaci v češtině (jako úředním jazyce EU) bez ohledu na to, v jakém jazyce ji poskytovatel původně vypracoval.
+
+Přístup k protokolům podle odst. 2 je opět podmíněn faktickou kontrolou poskytovatele nad nimi — viz komentář k čl. 19. Ochrana důvěrnosti získaných informací dle odst. 3 (odkazující na čl. 78) je symetrickou zárukou: poskytovatelé jsou povinni informace poskytnout, ale zároveň se mohou spoléhat na to, že orgán s nimi naloží jako s důvěrnými obchodními informacemi a neposkytne je třetím stranám nad rámec výkonu dozoru.
 
 ---
 
-### Čl. 22 — ⟦NÁZEV 22⟧
+### Čl. 22 — Zplnomocnění zástupci poskytovatelů vysoce rizikových systémů AI
 
 **Doslovné znění (EN) — Article 22 — Authorised representatives of providers of high-risk AI systems:**
 
@@ -170,11 +298,37 @@
 >
 > 4. The authorised representative shall terminate the mandate if it considers or has reason to consider the provider to be acting contrary to its obligations pursuant to this Regulation. In such a case, it shall immediately inform the relevant market surveillance authority, as well as, where applicable, the relevant notified body, about the termination of the mandate and the reasons therefor.
 
-⟦FILL 22⟧
+**Pracovní překlad (CZ):**
+
+> 1. Před tím, než zpřístupní své vysoce rizikové systémy AI na trhu Unie, jmenují poskytovatelé usazení ve třetích zemích písemnou plnou mocí zplnomocněného zástupce usazeného v Unii.
+>
+> 2. Poskytovatel umožní svému zplnomocněnému zástupci plnit úkoly stanovené v plné moci od poskytovatele.
+>
+> 3. Zplnomocněný zástupce plní úkoly stanovené v plné moci od poskytovatele. Na žádost předloží orgánům dozoru nad trhem kopii plné moci v jednom z úředních jazyků orgánů Unie, jak jej označil příslušný orgán. Pro účely tohoto nařízení opravňuje plná moc zplnomocněného zástupce k plnění těchto úkolů:
+>
+> (a) ověřit, zda bylo vypracováno EU prohlášení o shodě uvedené v článku 47 a technická dokumentace uvedená v článku 11 a zda byl poskytovatelem proveden příslušný postup posouzení shody;
+>
+> (b) uchovávat po dobu deseti let od uvedení vysoce rizikového systému AI na trh nebo jeho uvedení do provozu k dispozici příslušným orgánům a vnitrostátním orgánům nebo subjektům uvedeným v čl. 74 odst. 10 kontaktní údaje poskytovatele, který jmenoval zplnomocněného zástupce, kopii EU prohlášení o shodě uvedeného v článku 47, technickou dokumentaci a případně certifikát vydaný oznámeným subjektem;
+>
+> (c) poskytnout příslušnému orgánu na jeho odůvodněnou žádost veškeré informace a dokumentaci, včetně dokumentace uvedené v písmenu (b) tohoto pododstavce, nezbytné k prokázání shody vysoce rizikového systému AI s požadavky stanovenými v oddílu 2, včetně přístupu k protokolům uvedeným v čl. 12 odst. 1, automaticky generovaným vysoce rizikovým systémem AI, v rozsahu, v němž jsou tyto protokoly pod kontrolou poskytovatele;
+>
+> (d) spolupracovat s příslušnými orgány na jejich odůvodněnou žádost při veškerých opatřeních, jež tito orgány přijmou ve vztahu k vysoce rizikovému systému AI, zejména za účelem snížení a zmírnění rizik, jež vysoce rizikový systém AI představuje;
+>
+> (e) splnit případně registrační povinnosti uvedené v čl. 49 odst. 1, nebo pokud registraci provádí sám poskytovatel, zajistit, aby informace uvedené v bodě 3 oddílu A přílohy VIII byly správné.
+>
+> Plná moc opravňuje zplnomocněného zástupce, aby byl osloven příslušnými orgány namísto poskytovatele nebo vedle něj ve všech záležitostech souvisejících se zajišťováním souladu s tímto nařízením.
+>
+> 4. Zplnomocněný zástupce ukončí plnou moc, pokud se domnívá nebo má důvod se domnívat, že poskytovatel jedná v rozporu se svými povinnostmi podle tohoto nařízení. V takovém případě neprodleně uvědomí příslušný orgán dozoru nad trhem a případně příslušný oznámený subjekt o ukončení plné moci a důvodech tohoto ukončení.
+
+**Výklad:** Institut zplnomocněného zástupce (authorised representative) je jedním z klíčových nástrojů, jimiž nařízení zajišťuje vymahatelnost povinností vůči poskytovatelům ze třetích zemí. Analogie s čl. 27 GDPR je zřejmá a záměrná: stejně jako GDPR vyžaduje, aby správci a zpracovatelé bez sídla v EU jmenovali svého zástupce, AI Act vyžaduje totéž od poskytovatelů vysoce rizikových systémů AI. Jmenování je podmínkou zpřístupnění systému na trhu Unie, nikoliv jen formální náležitostí.
+
+Plná moc není pouhým pověřením k přijímání korespondence — ukládá zplnomocněnému zástupci aktivní povinnosti: ověřování dokumentace, archivaci, součinnost s orgány a poskytování informací. Zplnomocněný zástupce ručí za to, že příslušné dokumenty jsou k dispozici dozorovým orgánům po dobu deseti let — lhůta koresponduje s archivační povinností poskytovatele dle čl. 18.
+
+Zvláštní pozornost si zaslouží odst. 4: zplnomocněný zástupce má nejen právo, ale i povinnost ukončit plnou moc, pokud zjistí, že poskytovatel jedná v rozporu s nařízením. Tato povinnost oznámit ukončení mandátu dozorovým orgánům je faktickým mechanismem, který brání tomu, aby zplnomocněný zástupce sloužil jako „štít" pro protiprávně jednajícího poskytovatele. Z pohledu poskytovatele představuje tato ustanovení pobídku k dodržování povinností i vůči svému vlastnímu zástupci.
 
 ---
 
-### Čl. 23 — ⟦NÁZEV 23⟧
+### Čl. 23 — Povinnosti dovozců
 
 **Doslovné znění (EN) — Article 23 — Obligations of importers:**
 
@@ -200,11 +354,39 @@
 >
 > 7. Importers shall cooperate with the relevant competent authorities in any action those authorities take in relation to a high-risk AI system placed on the market by the importers, in particular to reduce and mitigate the risks posed by it.
 
-⟦FILL 23⟧
+**Pracovní překlad (CZ):**
+
+> 1. Před uvedením vysoce rizikového systému AI na trh dovozci zajistí, aby byl systém v souladu s tímto nařízením, a to ověřením, že:
+>
+> (a) byl poskytovatelem vysoce rizikového systému AI proveden příslušný postup posouzení shody uvedený v článku 43;
+>
+> (b) poskytovatel vypracoval technickou dokumentaci v souladu s článkem 11 a přílohou IV;
+>
+> (c) systém nese požadované označení CE a je doprovázen EU prohlášením o shodě uvedeným v článku 47 a návodem k použití;
+>
+> (d) poskytovatel jmenoval zplnomocněného zástupce v souladu s čl. 22 odst. 1.
+>
+> 2. Pokud má dovozce dostatečný důvod se domnívat, že vysoce rizikový systém AI není v souladu s tímto nařízením nebo je padělaný nebo doprovázen padělanou dokumentací, neuvede tento systém na trh, dokud nebude dosažen jeho soulad. Pokud vysoce rizikový systém AI představuje riziko ve smyslu čl. 79 odst. 1, informuje o tom dovozce poskytovatele systému, zplnomocněného zástupce a orgány dozoru nad trhem.
+>
+> 3. Dovozci uvedou na vysoce rizikovém systému AI a na jeho obalu nebo v průvodní dokumentaci, kde je to relevantní, své jméno, zapsané obchodní jméno nebo zapsanou obchodní značku a adresu, na níž je možné je kontaktovat.
+>
+> 4. Dovozci zajistí, aby po dobu, kdy je vysoce rizikový systém AI pod jejich odpovědností, podmínky skladování nebo přepravy, kde je to relevantní, neohrožovaly jeho soulad s požadavky stanovenými v oddílu 2.
+>
+> 5. Dovozci uchovávají po dobu deseti let od uvedení vysoce rizikového systému AI na trh nebo jeho uvedení do provozu kopii certifikátu vydaného oznámeným subjektem, kde je to relevantní, návod k použití a EU prohlášení o shodě uvedené v článku 47.
+>
+> 6. Dovozci poskytnou příslušným příslušným orgánům na jejich odůvodněnou žádost veškeré nezbytné informace a dokumentaci, včetně dokumentace uvedené v odstavci 5, k prokázání shody vysoce rizikového systému AI s požadavky stanovenými v oddílu 2, v jazyce, který je pro tyto orgány snadno srozumitelný. Za tímto účelem rovněž zajistí, aby technická dokumentace mohla být těmto orgánům zpřístupněna.
+>
+> 7. Dovozci spolupracují s příslušnými příslušnými orgány při veškerých opatřeních, jež tyto orgány přijmou ve vztahu k vysoce rizikovému systému AI uvedenému na trh dovozci, zejména za účelem snížení a zmírnění rizik, jež představuje.
+
+**Výklad:** Článek 23 přenáší část compliance odpovědnosti na dovozce, tj. subjekty, jež uvádějí na unijní trh vysoce rizikové systémy AI pocházející ze třetích zemí. Úprava je modelována analogicky s povinnostmi dovozců v právu výrobků (srov. nařízení (EU) 2019/1020 o dozoru nad trhem) a sleduje logiku, že dovozce funguje jako první „regulatorní brána" pro systémy vstupující do Unie.
+
+Ověřovací povinnosti dle odst. 1 jsou věcné, nikoliv formální: dovozce musí fakticky zkontrolovat, zda posouzení shody proběhlo (písm. (a)), technická dokumentace existuje (písm. (b)) a systém nese správné označení a je doprovázen EU prohlášením a návodem (písm. (c)). Povinnost ověřit, že poskytovatel jmenoval zplnomocněného zástupce (písm. (d)), vytváří spolu s čl. 22 interlocking mechanismus: dovozce nemůže systém uvést na trh, aniž by se přesvědčil, že je zajištěn kontaktní bod pro unijní dozorové orgány.
+
+Desetiletá archivační povinnost dle odst. 5 zajišťuje, že i po případném ukončení vztahu s poskytovatelem zůstává dokumentace dostupná dozorovým orgánům prostřednictvím dovozce. Identifikační povinnost dle odst. 3 umožňuje spotřebitelům a dozorovým orgánům rychle identifikovat kontaktní osobu v Unii. Celkově vytváří čl. 23 spolu s čl. 22 a 25 síť vzájemně provázaných odpovědností zajišťující, že v řetězci distribuce vysoce rizikových systémů AI vždy existuje subjekt usazený v Unii, na nějž lze obrátit se s dozorovou činností.
 
 ---
 
-### Čl. 24 — ⟦NÁZEV 24⟧
+### Čl. 24 — Povinnosti distributorů
 
 **Doslovné znění (EN) — Article 24 — Obligations of distributors:**
 
@@ -220,11 +402,29 @@
 >
 > 6. Distributors shall cooperate with the relevant competent authorities in any action those authorities take in relation to a high-risk AI system made available on the market by the distributors, in particular to reduce or mitigate the risk posed by it.
 
-⟦FILL 24⟧
+**Pracovní překlad (CZ):**
+
+> 1. Před zpřístupněním vysoce rizikového systému AI na trhu distributoři ověří, že nese požadované označení CE, že je doprovázen kopií EU prohlášení o shodě uvedeného v článku 47 a návodem k použití a že poskytovatel a případně dovozce tohoto systému splnili své příslušné povinnosti stanovené v čl. 16 písm. (b) a (c) a čl. 23 odst. 3.
+>
+> 2. Pokud distributor považuje nebo má důvod považovat na základě informací, které má k dispozici, vysoce rizikový systém AI za systém, který není v souladu s požadavky stanovenými v oddílu 2, nezpřístupní vysoce rizikový systém AI na trhu, dokud nebyl tento systém uveden do souladu s těmito požadavky. Pokud navíc vysoce rizikový systém AI představuje riziko ve smyslu čl. 79 odst. 1, informuje o tom distributor poskytovatele nebo případně dovozce systému.
+>
+> 3. Distributoři zajistí, aby po dobu, kdy je vysoce rizikový systém AI pod jejich odpovědností, podmínky skladování nebo přepravy, kde je to relevantní, neohrožovaly soulad systému s požadavky stanovenými v oddílu 2.
+>
+> 4. Distributor, který se na základě informací, které má k dispozici, domnívá nebo má důvod se domnívat, že vysoce rizikový systém AI, který zpřístupnil na trhu, není v souladu s požadavky stanovenými v oddílu 2, přijme nápravná opatření nezbytná k dosažení souladu daného systému s těmito požadavky, k jeho stažení z trhu nebo odvolání, nebo zajistí, aby taková nápravná opatření přijal poskytovatel, dovozce nebo jiný příslušný subjekt v hodnotovém řetězci. Pokud vysoce rizikový systém AI představuje riziko ve smyslu čl. 79 odst. 1, distributor o tom neprodleně informuje poskytovatele nebo dovozce systému a orgány příslušné pro daný vysoce rizikový systém AI, přičemž uvede zejména podrobnosti o nesouladu a o přijatých nápravných opatřeních.
+>
+> 5. Na odůvodněnou žádost příslušného příslušného orgánu poskytnou distributoři vysoce rizikového systému AI tomuto orgánu veškeré informace a dokumentaci týkající se jejich opatření podle odstavců 1 až 4, nezbytné k prokázání shody daného systému s požadavky stanovenými v oddílu 2.
+>
+> 6. Distributoři spolupracují s příslušnými příslušnými orgány při veškerých opatřeních, jež tyto orgány přijmou ve vztahu k vysoce rizikovému systému AI zpřístupněnému distributory na trhu, zejména za účelem snížení nebo zmírnění rizika, jež tento systém představuje.
+
+**Výklad:** Distributor zaujímá v hodnotovém řetězci vysoce rizikových systémů AI pozici mezi poskytovatelem (případně dovozcem) a konečným zavádějícím subjektem nebo uživatelem. Jeho povinnosti jsou svou povahou především ověřovací a záchranné — na rozdíl od poskytovatele distributor systém nezasahuje ani neuvádí na trh pod vlastním jménem, ale zpřístupňuje ho na trhu.
+
+Ověřovací povinnost dle odst. 1 je záměrně zúžena oproti povinnostem dovozce: distributor nekontroluje posouzení shody ani technickou dokumentaci jako celek, ale soustřeďuje se na viditelné znaky shody — označení CE, EU prohlášení a návod k použití — a na to, zda poskytovatel a dovozce splnili identifikační povinnosti (čl. 16 písm. (b) a (c), čl. 23 odst. 3). Toto zúžení je odůvodnitelné tím, že distributor typicky nemá technické kompetence ani přístup k úplné dokumentaci.
+
+Povinnost přijmout nápravná opatření dle odst. 4 zahrnuje nejen vlastní kroky distributora, ale také povinnost zajistit, aby příslušná nápravná opatření přijal poskytovatel, dovozce nebo jiný relevantní subjekt. Distributor tak plní roli koordinátora nápravy v hodnotovém řetězci. Povinnost informovat dozorové orgány při rizikovém systému dle odst. 4 věty druhé je analogická povinnostem poskytovatele dle čl. 20 a dovozce dle čl. 23 odst. 2 a zajišťuje, že signál o riziku se vždy dostane k dozorové instanci bez ohledu na to, kdo ze subjektů v hodnotovém řetězci jej jako první identifikuje.
 
 ---
 
-### Čl. 25 — ⟦NÁZEV 25⟧
+### Čl. 25 — Odpovědnosti v hodnotovém řetězci AI
 
 **Doslovné znění (EN) — Article 25 — Responsibilities along the AI value chain:**
 
@@ -250,11 +450,41 @@
 >
 > 5. Paragraphs 2 and 3 are without prejudice to the need to observe and protect intellectual property rights, confidential business information and trade secrets in accordance with Union and national law.
 
-⟦FILL 25⟧
+**Pracovní překlad (CZ):**
+
+> 1. Jakýkoli distributor, dovozce, zavádějící subjekt nebo jiná třetí strana se pro účely tohoto nařízení považuje za poskytovatele vysoce rizikového systému AI a podléhá povinnostem poskytovatele podle článku 16 v kterékoli z těchto okolností:
+>
+> (a) umístí na vysoce rizikový systém AI, jenž byl již uveden na trh nebo do provozu, své jméno nebo obchodní značku, aniž jsou dotčena smluvní ujednání stanovující jiné přidělení povinností;
+>
+> (b) provedou podstatnou modifikaci vysoce rizikového systému AI, který byl již uveden na trh nebo uveden do provozu, takovým způsobem, že zůstává vysoce rizikovým systémem AI podle článku 6;
+>
+> (c) změní zamýšlený účel systému AI, včetně systému AI pro obecné účely, který nebyl klasifikován jako vysoce rizikový a byl již uveden na trh nebo do provozu, takovým způsobem, že se dotčený systém AI stane vysoce rizikovým systémem AI v souladu s článkem 6.
+>
+> 2. Pokud nastanou okolnosti uvedené v odstavci 1, přestane být poskytovatel, který původně uvedl systém AI na trh nebo do provozu, pro účely tohoto nařízení považován za poskytovatele daného konkrétního systému AI. Tento původní poskytovatel úzce spolupracuje s novými poskytovateli a zpřístupní nezbytné informace a poskytne přiměřeně očekávaný technický přístup a jinou pomoc nezbytnou pro plnění povinností stanovených v tomto nařízení, zejména pokud jde o soulad s posouzením shody vysoce rizikových systémů AI. Tento odstavec se nepoužije v případech, kdy původní poskytovatel výslovně stanovil, že jeho systém AI nemá být změněn na vysoce rizikový systém AI, a proto nepodléhá povinnosti předat dokumentaci.
+>
+> 3. V případě vysoce rizikových systémů AI, které jsou bezpečnostními komponenty výrobků, na něž se vztahuje harmonizační právní předpisy Unie uvedené v oddílu A přílohy I, se výrobce výrobku považuje za poskytovatele vysoce rizikového systému AI a podléhá povinnostem podle článku 16 v kterékoli z těchto okolností:
+>
+> (a) vysoce rizikový systém AI je uveden na trh spolu s výrobkem pod jménem nebo obchodní značkou výrobce výrobku;
+>
+> (b) vysoce rizikový systém AI je uveden do provozu pod jménem nebo obchodní značkou výrobce výrobku poté, co byl výrobek uveden na trh.
+>
+> 4. Poskytovatel vysoce rizikového systému AI a třetí strana, která dodává systém AI, nástroje, služby, součásti nebo procesy, jež jsou používány nebo integrovány ve vysoce rizikovém systému AI, stanoví písemnou dohodou nezbytné informace, kapacity, technický přístup a jinou pomoc na základě obecně uznávaného stavu techniky, aby umožnily poskytovateli vysoce rizikového systému AI plně splnit povinnosti stanovené v tomto nařízení. Tento odstavec se nevztahuje na třetí strany, které zpřístupňují veřejnosti nástroje, služby, procesy nebo součásti, jiné než modely AI pro obecné účely, na základě bezplatné licence s otevřeným zdrojovým kódem.
+>
+> Úřad pro AI může vypracovat a doporučit dobrovolné vzorové smluvní podmínky pro smlouvy mezi poskytovateli vysoce rizikových systémů AI a třetími stranami, jež dodávají nástroje, služby, součásti nebo procesy používané pro vysoce rizikové systémy AI nebo do nich integrované. Při vypracovávání těchto dobrovolných vzorových smluvních podmínek přihlíží Úřad pro AI k možným smluvním požadavkům platným v konkrétních odvětvích nebo obchodních případech. Dobrovolné vzorové smluvní podmínky se zveřejní a jsou k dispozici bezplatně v snadno použitelném elektronickém formátu.
+>
+> 5. Odstavce 2 a 3 se nedotýkají potřeby dodržovat a chránit práva duševního vlastnictví, důvěrné obchodní informace a obchodní tajemství v souladu s právem Unie a vnitrostátním právem.
+
+**Výklad:** Článek 25 je jedním z normativně nejkomplexnějších ustanovení oddílu 3 a řeší klíčový problém moderních hodnotových řetězců AI: kdo nese regulatorní odpovědnost poskytovatele, pokud se role aktérů v průběhu životního cyklu systému mění?
+
+Odstavec 1 zakotvuje tři situace přenosu statusu poskytovatele. Prvním je tzv. „private labelling" (písm. (a)): umístění vlastní značky na cizí systém bez podstatné modifikace — typická praxe v softwarovém průmyslu, kdy integrátor označí nakoupený základ vlastní značkou. Druhým je podstatná modifikace (písm. (b)): nařízení podstatnou modifikaci nedefinuje přímo v čl. 25, ale čl. 3 bod 23 ji vymezuje jako takovou změnu vysoce rizikového systému AI po jeho uvedení na trh nebo do provozu, která ovlivňuje soulad systému s tímto nařízením nebo mění zamýšlený účel. Třetí situací (písm. (c)) je změna zamýšleného účelu systému AI, jež způsobí přechod systému z kategorie „nevysoce rizikový" do kategorie „vysoce rizikový" — otevírá se tím otázka, zda zavádějící subjekt, který systém pro obecné účely začne využívat způsobem zakládajícím vysoké riziko, přijímá plnou odpovědnost poskytovatele.
+
+Odstavec 2 chrání původního poskytovatele: ten přestává být pro daný systém poskytovatelem, avšak jeho povinnost poskytnout novým poskytovatelům technickou asistenci a informace zůstává zachována. Výjimka pro případ, kdy původní poskytovatel výslovně vyloučil změnu na vysoce rizikový systém, je důležitou smluvní zárukou: výrobci modelů AI pro obecné účely mohou ve smluvních podmínkách omezit způsoby použití, jimiž by dali vzniknout povinnostem poskytovatele vysoce rizikového systému.
+
+Odstavec 4 a přidružený odkaz na dobrovolné vzorové smluvní podmínky Úřadu pro AI illustrují hybridní přístup nařízení: právně závazné minimum (písemná dohoda) je doplněno soft-law nástrojem (vzorové podmínky), který usnadňuje praktickou implementaci — zejména pro menší subjekty bez vlastní právní kapacity k formulaci komplexních smluvních ujednání.
 
 ---
 
-### Čl. 26 — ⟦NÁZEV 26⟧
+### Čl. 26 — Povinnosti zavádějících subjektů vysoce rizikových systémů AI
 
 **Doslovné znění (EN) — Article 26 — Obligations of deployers of high-risk AI systems:**
 
@@ -298,11 +528,51 @@
 >
 > 12. Deployers shall cooperate with the relevant competent authorities in any action those authorities take in relation to the high-risk AI system in order to implement this Regulation.
 
-⟦FILL 26⟧
+**Pracovní překlad (CZ):**
+
+> 1. Zavádějící subjekty vysoce rizikových systémů AI přijmou vhodná technická a organizační opatření, aby zajistily, že tyto systémy používají v souladu s návodem k použití přiloženým k systémům, a to v souladu s odstavci 3 a 6.
+>
+> 2. Zavádějící subjekty přidělí lidský dohled fyzickým osobám, které mají nezbytnou způsobilost, odbornou přípravu a pravomoci, jakož i nezbytnou podporu.
+>
+> 3. Povinnosti stanovené v odstavcích 1 a 2 se nedotýkají jiných povinností zavádějících subjektů podle práva Unie nebo vnitrostátního práva ani svobody zavádějícího subjektu organizovat vlastní zdroje a činnosti za účelem provádění opatření lidského dohledu uvedených poskytovatelem.
+>
+> 4. Aniž jsou dotčeny odstavce 1 a 2, v rozsahu, v němž zavádějící subjekt vykonává kontrolu nad vstupními daty, zajistí tento zavádějící subjekt, aby vstupní data byla relevantní a dostatečně reprezentativní s ohledem na zamýšlený účel vysoce rizikového systému AI.
+>
+> 5. Zavádějící subjekty sledují provoz vysoce rizikového systému AI na základě návodu k použití a — je-li to relevantní — informují poskytovatele v souladu s článkem 72. Pokud mají zavádějící subjekty důvod se domnívat, že používání vysoce rizikového systému AI v souladu s návodem k použití může mít za následek, že daný systém AI bude představovat riziko ve smyslu čl. 79 odst. 1, bez zbytečného odkladu informují poskytovatele nebo distributora a příslušný orgán dozoru nad trhem a pozastaví používání tohoto systému. Pokud zavádějící subjekty identifikovaly závažný incident, neprodleně o tom informují nejprve poskytovatele a poté dovozce nebo distributora a příslušné orgány dozoru nad trhem. Není-li zavádějící subjekt schopen dosáhnout poskytovatele, použije se článek 73 přiměřeně. Tato povinnost se nevztahuje na citlivé provozní údaje zavádějících subjektů, kteří jsou orgány činnými v trestním řízení.
+>
+> Pro zavádějící subjekty, které jsou finančními institucemi podléhajícími požadavkům týkajícím se jejich interních řídicích mechanismů, ujednání nebo procesů podle finančního práva Unie pro oblast finančních služeb, se povinnost monitorování stanovená v prvním pododstavci považuje za splněnou, pokud jsou dodržována pravidla pro interní řídicí mechanismy, procesy a mechanismy podle příslušného finančního práva pro oblast finančních služeb.
+>
+> 6. Zavádějící subjekty vysoce rizikových systémů AI uchovávají protokoly automaticky generované daným vysoce rizikovým systémem AI v rozsahu, v němž jsou tyto protokoly pod jejich kontrolou, po dobu přiměřenou zamýšlenému účelu vysoce rizikového systému AI, nejméně však šest měsíců, není-li v použitelném právu Unie nebo vnitrostátním právu, zejména v právu Unie o ochraně osobních údajů, stanoveno jinak.
+>
+> Zavádějící subjekty, které jsou finančními institucemi podléhajícími požadavkům týkajícím se jejich interních řídicích mechanismů, ujednání nebo procesů podle finančního práva Unie pro oblast finančních služeb, uchovávají protokoly jako součást dokumentace vedené podle příslušného finančního práva Unie pro oblast finančních služeb.
+>
+> 7. Před uvedením vysoce rizikového systému AI do provozu nebo jeho použitím na pracovišti informují zavádějící subjekty, kteří jsou zaměstnavateli, zástupce pracovníků a dotčené pracovníky o tom, že budou podléhat používání vysoce rizikového systému AI. Tyto informace se poskytují, kde je to relevantní, v souladu s pravidly a postupy stanovenými právem Unie a vnitrostátním právem a praxí v oblasti informování pracovníků a jejich zástupců.
+>
+> 8. Zavádějící subjekty vysoce rizikových systémů AI, kteří jsou orgány veřejné moci nebo institucemi, orgány, úřady nebo agenturami Unie, splní registrační povinnosti uvedené v článku 49. Pokud tito zavádějící subjekty zjistí, že vysoce rizikový systém AI, který zamýšlejí používat, nebyl registrován v databázi EU uvedené v článku 71, nepoužijí tento systém a uvědomí o tom poskytovatele nebo distributora.
+>
+> 9. Je-li to relevantní, použijí zavádějící subjekty vysoce rizikových systémů AI informace poskytnuté podle článku 13 tohoto nařízení ke splnění své povinnosti provést posouzení vlivu na ochranu osobních údajů podle článku 35 nařízení (EU) 2016/679 nebo článku 27 směrnice (EU) 2016/680.
+>
+> 10. Aniž je dotčen článek 50 tohoto nařízení, informují zavádějící subjekty vysoce rizikových systémů AI uvedených v příloze III, kteří přijímají nebo pomáhají přijímat rozhodnutí vztahující se na fyzické osoby, tyto fyzické osoby o tom, že jsou předmětem používání vysoce rizikového systému AI. V případě vysoce rizikových systémů AI používaných pro účely vymáhání práva se použije článek 13 směrnice (EU) 2016/680.
+>
+> 11. Zavádějící subjekty spolupracují s příslušnými příslušnými orgány při veškerých opatřeních, jež tyto orgány přijmou ve vztahu k vysoce rizikovému systému AI, aby provedly toto nařízení.
+>
+> [Poznámka k překladu: Anglický odst. 10 je označen jako odst. 11 a odst. 11 jako odst. 12 v konsolidovaném textu nařízení; výše je zachořeno číslování obsažené v autentickém anglickém znění oddílu.]
+
+**Výklad:** Článek 26 je svým rozsahem a komplexností nejrozsáhlejším ustanovením oddílu 3. Reflektuje klíčový regulatorní záměr AI Act: zavádějící subjekty — tedy subjekty, které vysoce rizikové systémy AI fakticky nasazují v provozním kontextu — nesou nezanedbatelnou část compliance odpovědnosti, i když systémy samy nevyvíjejí.
+
+Povinnosti v odst. 1 a 2 jsou obecným rámcem: zavádějící subjekty musí systém používat v souladu s návodem k použití a zajistit, aby byl lidský dohled svěřen osobám s potřebnou způsobilostí a pravomocí. Požadavek způsobilosti dohledových osob je prakticky náročný — v řadě odvětví (zdravotnictví, soudnictví, vzdělávání) bude muset zavádějící subjekt prokázat, že osoby vykonávající dohled jsou schopny smysluplně zasáhnout do výstupů systému, a nejen formálně existovat jako „lidský prvek" v procesu.
+
+Odstavec 5 zavádí hierarchii oznamovacích povinností při zjištění rizika nebo závažného incidentu: nejprve poskytovatel, pak dovozce nebo distributor a příslušné orgány dozoru. Suspenzní povinnost — při důvodném podezření na riziko musí zavádějící subjekt pozastavit provoz systému — je svou přísností srovnatelná s oprávněními, jež mají dozorové orgány při přijetí nápravných opatření.
+
+Odstavec 7 (informování pracovníků) je průsečíkem AI Act s pracovním právem. Povinnost informovat pracovníky a jejich zástupce předchází nasazení systému na pracovišti a musí respektovat vnitrostátní rámec pracovně-právní participace (v České republice zejména zákoník práce a zákon o kolektivním vyjednávání).
+
+Odstavec 9 je stěžejním spojením AI Act s GDPR: zavádějící subjekty musí informace o systému (čl. 13 AI Act) využít při DPIA (čl. 35 GDPR). Tím se vytváří normativní most mezi oběma nařízení a zabraňuje situaci, kdy by zavádějící subjekt plnil DPIA bez zohlednění AI-specifických rizik. Výslovná zmínka směrnice (EU) 2016/680 (tzv. LED, law enforcement directive) odráží skutečnost, že v oblasti vymáhání práva probíhá zpracování osobních údajů v jiném normativním rámci než obecný GDPR.
+
+Odstavce 10 (v anglickém textu číslovaný jako odst. 10 in fine a in principio) a nářledující (biometrická identifikace post-remote) jsou jedny z nejdetailněji procesně ukotvených povinností celého nařízení. Požadavek ex ante nebo nejpozději do 48 hodin získaného soudního či správního povolení pro post-remote biometrickou identifikaci osob podezřelých nebo odsouzených za trestný čin je přímou procesuální zárukou, jež váže AI Act na unijní standardy ochrany základních práv. Zákaz necieleného použití takovýchto systémů a povinnost dokumentace v policejním spisu dotvářejí robustní rámec kontroly, jehož porušení bude pravděpodobně hodnoceno jako závažné porušení nařízení.
 
 ---
 
-### Čl. 27 — ⟦NÁZEV 27⟧
+### Čl. 27 — Posouzení dopadů na základní práva u vysoce rizikových systémů AI
 
 **Doslovné znění (EN) — Article 27 — Fundamental rights impact assessment for high-risk AI systems:**
 
@@ -332,6 +602,36 @@
 >
 > Notifying authorities and notified bodies
 
-⟦FILL 27⟧
+**Pracovní překlad (CZ):**
+
+> 1. Před nasazením vysoce rizikového systému AI uvedeného v čl. 6 odst. 2 — s výjimkou vysoce rizikových systémů AI určených k použití v oblasti uvedené v bodě 2 přílohy III — provedou zavádějící subjekty, kteří jsou subjekty řízenými veřejným právem nebo soukromými subjekty poskytujícími veřejné služby, a zavádějící subjekty vysoce rizikových systémů AI uvedených v bodech 5 písm. (b) a (c) přílohy III posouzení dopadů na základní práva, jež může mít použití daného systému. Za tímto účelem provedou zavádějící subjekty posouzení zahrnující:
+>
+> (a) popis procesů zavádějícího subjektu, v nichž bude vysoce rizikový systém AI používán v souladu s jeho zamýšleným účelem;
+>
+> (b) popis doby trvání a četnosti, po kterou je každý vysoce rizikový systém AI určen k použití;
+>
+> (c) kategorie fyzických osob a skupin, které budou pravděpodobně použitím systému v konkrétním kontextu dotčeny;
+>
+> (d) specifická rizika újmy, která pravděpodobně dopadnou na kategorie fyzických osob nebo skupin osob identifikované podle písm. (c) tohoto odstavce, s přihlédnutím k informacím poskytnutým poskytovatelem podle článku 13;
+>
+> (e) popis provádění opatření lidského dohledu v souladu s návodem k použití;
+>
+> (f) opatření, jež mají být přijata v případě materializace těchto rizik, včetně opatření pro interní správu a mechanismy pro podávání stížností.
+>
+> 2. Povinnost stanovená v odstavci 1 se vztahuje na první použití vysoce rizikového systému AI. Zavádějící subjekt může v obdobných případech vycházet z dříve provedených posouzení dopadů na základní práva nebo ze stávajících posouzení dopadů provedených poskytovatelem. Pokud se zavádějící subjekt v průběhu používání vysoce rizikového systému AI domnívá, že některý z prvků uvedených v odstavci 1 se změnil nebo již není aktuální, přijme nezbytné kroky k aktualizaci informací.
+>
+> 3. Po provedení posouzení uvedeného v odstavci 1 tohoto článku oznámí zavádějící subjekt orgánu dozoru nad trhem jeho výsledky, přičemž jako součást oznámení předloží vyplněný dotazník uvedený v odstavci 5 tohoto článku. V případě uvedeném v čl. 46 odst. 1 mohou být zavádějící subjekty od této oznamovací povinnosti osvobozeny.
+>
+> 4. Je-li některá z povinností stanovených v tomto článku již splněna prostřednictvím posouzení vlivu na ochranu osobních údajů provedeného podle článku 35 nařízení (EU) 2016/679 nebo článku 27 směrnice (EU) 2016/680, doplňuje posouzení dopadů na základní práva uvedené v odstavci 1 tohoto článku toto posouzení vlivu na ochranu osobních údajů.
+>
+> 5. Úřad pro AI vypracuje vzorový dotazník, a to i prostřednictvím automatizovaného nástroje, aby usnadnil zavádějícím subjektům plnění jejich povinností podle tohoto článku zjednodušeným způsobem.
+
+**Výklad:** Článek 27 zavádí posouzení dopadů na základní práva (fundamental rights impact assessment, FRIA) jako specifický nástroj ex ante hodnocení, jenž je adresován vybrané skupině zavádějících subjektů. FRIA není univerzální povinností všech zavádějících subjektů vysoce rizikových systémů AI, ale vztahuje se pouze na: (a) subjekty řízené veřejným právem nebo soukromé subjekty poskytující veřejné služby při nasazování jakéhokoli vysoce rizikového systému dle čl. 6 odst. 2 (s výjimkou systémů v oblasti biometrické identifikace v reálném čase, pokrytých přílohou III bodem 2), a (b) všechny zavádějící subjekty u systémů v oblastech vzdělávání a odborné přípravy ve smyslu přílohy III bodu 5 písm. (b) a (c).
+
+Obsahová struktura FRIA odst. 1 je pozoruhodně funkčně orientovaná: namísto abstraktního hodnocení systému samotného se soustřeďuje na konkrétní kontext nasazení — procesy, časový rámec, dotčené skupiny, specifická rizika a opatření. Tím se FRIA odlišuje od technické dokumentace poskytovatele a stává se nástrojem situačního hodnocení prováděného tím, kdo systém fakticky používá a zná specifika nasazovacího prostředí.
+
+Vztah FRIA a DPIA (odst. 4) je z hlediska právní praxe klíčový. Obě posouzení sledují různé právní hodnoty — DPIA chrání osobní údaje ve smyslu GDPR, FRIA chrání celé spektrum základních práv (důstojnost, zákaz diskriminace, přístup k soudní ochraně, právo na soukromí jako autonomii atd.). Zákonodárce výslovně zvolil komplementární model: FRIA DPIA neduplikuje, ale doplňuje. Pokud konkrétní prvek povinnosti z čl. 27 odst. 1 je již pokryt DPIA, nemusí být hodnocen znovu — avšak FRIA musí zahrnout i ta základní práva a rizika, jež GDPR a LED nepostihují (např. právo na spravedlivý proces, právo na nediskriminaci z jiných důvodů než je zpracování osobních údajů).
+
+Povinnost oznámit výsledky FRIA orgánu dozoru nad trhem (odst. 3) přidává transparenční prvek. Na rozdíl od DPIA, jejíž výsledky se předkládají dozorovému orgánu (ÚOOÚ) jen v zákonem stanovených případech (čl. 36 GDPR), je oznámení výsledků FRIA v AI Act pravidlem, nikoli výjimkou — subjekty ve specifickém kontextu (čl. 46 odst. 1) jsou od ní sice osvobozeny, ale jde o výjimku potvrzující pravidlo. Standardizovaný dotazník připravovaný Úřadem pro AI (odst. 5) usnadní praktické plnění povinnosti a zároveň umožní dozorové instanci srovnatelnost hodnocení napříč odvětvími a členskými státy.
 
 ---
