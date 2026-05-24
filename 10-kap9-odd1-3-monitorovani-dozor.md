@@ -1,6 +1,10 @@
 # Kapitola IX, oddíly 1–3 — Monitorování po uvedení na trh a dozor nad trhem (čl. 72–84)
 
-⟦INTRO⟧
+Kapitola IX nařízení (EU) 2024/1689 (dále jen „AI Act" nebo „nařízení") uzavírá věcné jádro regulačního rámce a zakotvuje trojici navazujících mechanismů zajišťujících, aby vysoce rizikové systémy AI i po svém uvedení na trh zůstávaly v souladu s požadavky nařízení. Oddíl 1 (čl. 72) ukládá poskytovatelům povinnost aktivně a soustavně sledovat fungování systémů AI po celou dobu jejich životnosti prostřednictvím plánu monitorování po uvedení na trh, který tvoří součást technické dokumentace dle přílohy IV. Oddíl 2 (čl. 73) zavádí povinnost neprodleného hlášení závažných incidentů orgánům dozoru nad trhem, přičemž lhůty se liší podle závažnosti incidentu — od obecné lhůty 15 dnů až po okamžité hlášení při úmrtí nebo plošném porušení. Systém hlášení navazuje na rámec nařízení (EU) 2019/1020 o dozoru nad trhem a doplňuje jej o specifika spojená s riziky systémů AI pro zdraví, bezpečnost a základní práva.
+
+Oddíl 3 (čl. 74–84) tvoří vymáhací páteř nařízení. Nařízení (EU) 2019/1020 se použije na systémy AI jako celek, přičemž AI Act jej doplňuje o sektorově specifická pravidla pro určení příslušného orgánu dozoru nad trhem (finanční instituce, orgány činné v trestním řízení, orgány ochrany dat). Zvláštní pozornost je věnována systémům AI postaveným na modelech obecného účelu — zde přebírá část dozorové působnosti Úřad pro AI. Čl. 77 explicitně přiznává přístup k dokumentaci i orgánům zajišťujícím ochranu základních práv, čímž propojuje dozor nad trhem s agendou ochrany lidských práv. Ustanovení o důvěrnosti (čl. 78) vyvažuje transparentnost vymáhání s ochranou obchodního tajemství a citlivých operativních dat orgánů veřejné moci.
+
+Závěr oddílu 3 (čl. 79–84) upravuje vícestupňový eskalační mechanismus: postup na vnitrostátní úrovni (čl. 79), postup při nesprávné klasifikaci systému (čl. 80), ochranný postup Unie (čl. 81), systémy ve shodě, jež přesto představují riziko (čl. 82), formální nesoulad (čl. 83) a podpůrné struktury testování AI na úrovni Unie (čl. 84). Tento eskalační žebříček odráží princip subsidiarity: primárně jednají vnitrostátní orgány, Komise vstupuje do věci tehdy, pokud hrozí roztříštěnost vnitřního trhu nebo je ohrožena jednotnost unijního práva.
 
 ---
 
@@ -8,7 +12,7 @@
 
 **Oddíl 1 — Monitorování po uvedení na trh**
 
-### Čl. 72 — ⟦NÁZEV 72⟧
+### Čl. 72 — Monitorování po uvedení na trh poskytovateli a plán monitorování
 
 **Doslovné znění (EN) — Article 72 — Post-market monitoring by providers and post-market monitoring plan for high-risk AI systems:**
 
@@ -26,13 +30,31 @@
 >
 > Sharing of information on serious incidents
 
-⟦FILL 72⟧
+**Pracovní překlad (CZ):**
+
+> 1. Poskytovatelé zavedou a zdokumentují systém monitorování po uvedení na trh způsobem přiměřeným povaze technologií AI a rizikům spojeným s vysoce rizikovým systémem AI.
+>
+> 2. Systém monitorování po uvedení na trh aktivně a systematicky shromažďuje, dokumentuje a analyzuje relevantní data, která mohou být poskytována provozovateli nebo která mohou být shromážděna z jiných zdrojů, o fungování vysoce rizikových systémů AI po celou dobu jejich životnosti, a která poskytovateli umožňují hodnotit průběžný soulad systémů AI s požadavky stanovenými v kapitole III, oddílu 2. Pokud je to relevantní, monitorování po uvedení na trh zahrnuje analýzu interakce s jinými systémy AI. Tato povinnost se nevztahuje na citlivá operativní data provozovatelů, kteří jsou orgány činnými v trestním řízení.
+>
+> 3. Systém monitorování po uvedení na trh vychází z plánu monitorování po uvedení na trh. Plán monitorování po uvedení na trh je součástí technické dokumentace uvedené v příloze IV. Komise přijme prováděcí akt, kterým do 2. února 2026 stanoví podrobná ustanovení obsahující vzor plánu monitorování po uvedení na trh a seznam prvků, které mají být do plánu zahrnuty. Tento prováděcí akt se přijme v souladu s přezkumným postupem uvedeným v článku 98 odst. 2.
+>
+> 4. U vysoce rizikových systémů AI, na něž se vztahuje harmonizační právní předpis Unie uvedený v oddílu A přílohy I a u nichž je systém a plán monitorování po uvedení na trh již zaveden na základě tohoto právního předpisu, mají poskytovatelé za účelem zajištění konzistentnosti, předcházení duplicitám a minimalizace dodatečné zátěže možnost integrovat nezbytné prvky popsané v odstavcích 1, 2 a 3, a to pomocí vzoru uvedeného v odstavci 3, do systémů a plánů již existujících na základě tohoto právního předpisu, pokud je tím dosaženo rovnocenné úrovně ochrany.
+>
+> První pododstavec tohoto odstavce se použije rovněž na vysoce rizikové systémy AI uvedené v bodě 5 přílohy III, které jsou uváděny na trh nebo do provozu finančními institucemi podléhajícími požadavkům unijního práva finančních služeb týkajícím se jejich vnitřního řízení, ujednání nebo postupů.
+
+**Výklad:** Článek 72 zakotvuje jednu ze stěžejních povinností poskytovatele vysoce rizikového systému AI — průběžné monitorování po celou dobu životnosti systému. Pojem „životnost" systému AI je v kontextu AI Act klíčový: zatímco u klasického výrobku životnost zpravidla odpovídá fyzickému opotřebení, systém AI se může v průběhu provozu vyvíjet prostřednictvím průběžného učení, aktualizací modelů nebo měnícího se datového prostředí. Systém monitorování proto nesmí být statickým dokumentem, ale živým procesem reakce na skutečné fungování systému.
+
+Odstavec 2 výslovně upřednostňuje sběr dat od provozovatelů (deployers), což odráží architekturu AI Act: zatímco poskytovatel systém navrhuje a uvádí na trh, provozovatel jej začleňuje do konkrétního kontextu použití, kde se projevují skutečné výkonnostní charakteristiky a případná selhání. Výjimka pro citlivá operativní data orgánů činných v trestním řízení reflektuje citlivost policejních operací a souladí s omezeními uvaleným na tyto orgány i v jiných kontextech unijního práva (srov. směrnici 2016/680/EU).
+
+Požadavek na plán monitorování (odstavec 3) jako součást technické dokumentace dle přílohy IV propojuje ex ante certifikační rámec s ex post sledováním. Prováděcí akt Komise obsahující vzor plánu přinese do února 2026 standardizaci, která usnadní jak audit ze strany oznámených subjektů a orgánů dozoru nad trhem, tak i vzájemné srovnávání přístupů v různých sektorech.
+
+Odstavec 4 vyjadřuje princip „jednorázového splnění" (one-stop-shop): poskytovatelé, kteří již v sektorové harmonizační legislativě (např. nařízení (EU) 2017/745 o zdravotnických prostředcích nebo sektorová letecká regulace) plní srovnatelné monitorovací povinnosti, mohou tyto systémy integrovat, místo aby budovali paralelní administrativní infrastrukturu. Podmínkou je dosažení rovnocenné úrovně ochrany — posouzení rovnocennosti leží na bedrech poskytovatele a může být předmětem přezkumu orgánem dozoru nad trhem. Rozšíření na finanční instituce (druhý pododstavec odst. 4) reflektuje skutečnost, že finanční regulace (zejm. EBA/ESMA guidelines a sektorové předpisy k operačnímu riziku a vnitřnímu řízení) již obdobné povinnosti sledování algoritmů zakotvuje.
 
 ---
 
 **Oddíl 2 — Sdílení informací o závažných incidentech**
 
-### Čl. 73 — ⟦NÁZEV 73⟧
+### Čl. 73 — Hlášení závažných incidentů
 
 **Doslovné znění (EN) — Article 73 — Reporting of serious incidents:**
 
@@ -66,13 +88,49 @@
 >
 > Enforcement
 
-⟦FILL 73⟧
+**Pracovní překlad (CZ):**
+
+> 1. Poskytovatelé vysoce rizikových systémů AI uvedených na trh Unie nahlásí jakýkoli závažný incident orgánům dozoru nad trhem členského státu, v němž k incidentu došlo.
+>
+> 2. Hlášení uvedené v odstavci 1 se podá bezprostředně poté, co poskytovatel zjistí příčinnou souvislost mezi systémem AI a závažným incidentem nebo rozumnou pravděpodobnost takové souvislosti, a v každém případě nejpozději do 15 dnů poté, co se poskytovatel, nebo je-li to relevantní, provozovatel, o závažném incidentu dozví.
+>
+> Lhůta pro podání hlášení uvedená v prvním pododstavci zohlední závažnost závažného incidentu.
+>
+> 3. Bez ohledu na odstavec 2 tohoto článku se v případě plošného porušení nebo závažného incidentu ve smyslu čl. 3 bodu 49 písm. b) hlášení uvedené v odstavci 1 tohoto článku podá bezprostředně, a nejpozději do dvou dnů poté, co se poskytovatel, nebo je-li to relevantní, provozovatel, o tomto incidentu dozví.
+>
+> 4. Bez ohledu na odstavec 2 se v případě smrti osoby hlášení podá bezprostředně poté, co poskytovatel nebo provozovatel zjistí, nebo jakmile pojme podezření, na příčinnou souvislost mezi vysoce rizikovým systémem AI a závažným incidentem, nejpozději však do 10 dnů ode dne, kdy se poskytovatel, nebo je-li to relevantní, provozovatel, o závažném incidentu dozví.
+>
+> 5. Je-li to nezbytné k zajištění včasného hlášení, může poskytovatel, nebo je-li to relevantní, provozovatel, podat nejprve neúplné počáteční hlášení, za nímž následuje úplné hlášení.
+>
+> 6. Po nahlášení závažného incidentu podle odstavce 1 poskytovatel bez prodlení provede nezbytná šetření v souvislosti se závažným incidentem a dotčeným systémem AI. Šetření zahrnuje posouzení rizika spojeného s incidentem a nápravné opatření.
+>
+> Poskytovatel spolupracuje s příslušnými orgány, a je-li to relevantní, s dotčeným oznámeným subjektem, při šetřeních uvedených v prvním pododstavci, a neprovádí žádná šetření, která zahrnují změnu dotčeného systému AI způsobem, jenž by mohl ovlivnit jakékoli následné posouzení příčin incidentu, aniž by o takovém záměru předem informoval příslušné orgány.
+>
+> 7. Příslušný orgán dozoru nad trhem, který obdrží oznámení týkající se závažného incidentu uvedeného v čl. 3 bodě 49 písm. c), informuje vnitrostátní veřejné orgány nebo subjekty uvedené v čl. 77 odst. 1. Komise vypracuje zvláštní pokyny usnadňující dodržování povinností stanovených v odstavci 1 tohoto článku. Tyto pokyny budou vydány do 2. srpna 2025 a budou pravidelně přehodnocovány.
+>
+> 8. Orgán dozoru nad trhem přijme vhodná opatření podle článku 19 nařízení (EU) 2019/1020 do sedmi dnů ode dne přijetí oznámení uvedeného v odstavci 1 tohoto článku a postupuje podle oznamovacích postupů stanovených v tomto nařízení.
+>
+> 9. U vysoce rizikových systémů AI uvedených v příloze III, které jsou uváděny na trh nebo do provozu poskytovateli podléhajícími unijním legislativním nástrojům zavádějícím oznamovací povinnosti rovnocenné povinnostem stanoveným v tomto nařízení, se oznamovací povinnost vztahující se na závažné incidenty omezuje na případy uvedené v čl. 3 bodě 49 písm. c).
+>
+> 10. U vysoce rizikových systémů AI, které jsou bezpečnostními součástmi zařízení nebo jsou samy zařízeními, na něž se vztahují nařízení (EU) 2017/745 a (EU) 2017/746, se oznamovací povinnost vztahující se na závažné incidenty omezuje na případy uvedené v čl. 3 bodě 49 písm. c) tohoto nařízení a hlášení se podává vnitrostátnímu příslušnému orgánu určenému za tímto účelem členským státem, na jehož území k incidentu došlo.
+>
+> 11. Vnitrostátní příslušné orgány bezprostředně informují Komisi o každém závažném incidentu, bez ohledu na to, zda v dané věci podnikly kroky, v souladu s článkem 20 nařízení (EU) 2019/1020.
+
+**Výklad:** Článek 73 zavádí povinný systém hlášení závažných incidentů, který strukturálně navazuje na vigilanční systémy zavedené v jiných sektorových regulacích — zejm. nařízení (EU) 2017/745 o zdravotnických prostředcích a systém hlášení v leteckém právu — a propojuje jej s obecným rámcem nařízení (EU) 2019/1020 o dozoru nad trhem.
+
+Klíčovým konceptem je definice závažného incidentu dle čl. 3 bodu 49 nařízení: zahrnuje smrt, závažnou újmu na zdraví, vážné narušení kritické infrastruktury nebo majetkovou újmu překračující stanovenou prahovou hodnotu. Rozlišení tří lhůtových režimů (15 dnů / 2 dny pro plošné porušení / 10 dnů při úmrtí) odráží různou naléhavost reakce orgánů veřejné moci a je inspirováno analogickými režimy v právu zdravotnických prostředků, kde platí rychlejší lhůty pro life-threatening events.
+
+Systém umožňuje podání neúplného počátečního hlášení (odstavec 5), čímž prakticky překonává dilema mezi rychlostí a úplností informace — poskytovatel nesmí čekat na dokončení vnitřního šetření, pokud tím riskuje překročení lhůty. Současně odstavec 6 ukládá povinnost provést šetření a přijmout nápravná opatření, přičemž před informováním příslušných orgánů nesmí poskytovatel provádět změny systému AI, jež by mohly ovlivnit příčinné šetření — jde o analogii k zachování důkazního stavu.
+
+Odstavce 9 a 10 zavádějí princip „jednorázového hlášení" pro sektory s vlastní vigilancí (zdravotnické prostředky, finanční sektor), čímž se omezuje administrativní duplicita. Toto zúžení oznamovací povinnosti pouze na čl. 3 bod 49 písm. c) — tedy na incidenty spočívající v narušení fungování sítí a informačních systémů — je principiálně správné, byť vymezení hranic mezi různými vigilančními režimy může v praxi působit výkladové obtíže, zejm. u zdravotnických prostředků s funkcemi AI.
+
+Povinnost orgánu dozoru nad trhem přijmout opatření do 7 dnů (odstavec 8) a okamžitě informovat Komisi (odstavec 11) zajišťuje průtok informací napříč systémem a umožňuje včasnou koordinaci v případě, kdy tentýž nebo obdobný systém AI působí ve více členských státech.
 
 ---
 
 **Oddíl 3 — Vymáhání**
 
-### Čl. 74 — ⟦NÁZEV 74⟧
+### Čl. 74 — Dozor nad trhem a kontrola systémů AI na trhu Unie
 
 **Doslovné znění (EN) — Article 74 — Market surveillance and control of AI systems in the Union market:**
 
@@ -116,11 +174,61 @@
 >
 > 14. Any information or documentation obtained by market surveillance authorities shall be treated in accordance with the confidentiality obligations set out in Article 78.
 
-⟦FILL 74⟧
+**Pracovní překlad (CZ):**
+
+> 1. Na systémy AI, na které se vztahuje toto nařízení, se použije nařízení (EU) 2019/1020. Pro účely účinného vymáhání tohoto nařízení platí:
+>
+> (a) jakýkoli odkaz na hospodářský subjekt v nařízení (EU) 2019/1020 se chápe jako odkaz zahrnující všechny subjekty identifikované v čl. 2 odst. 1 tohoto nařízení;
+>
+> (b) jakýkoli odkaz na výrobek v nařízení (EU) 2019/1020 se chápe jako odkaz zahrnující všechny systémy AI, které spadají do oblasti působnosti tohoto nařízení.
+>
+> 2. V rámci svých povinností podávat zprávy podle čl. 34 odst. 4 nařízení (EU) 2019/1020 podávají orgány dozoru nad trhem Komisi a příslušným vnitrostátním orgánům pro hospodářskou soutěž každoročně zprávy o veškerých informacích zjištěných v průběhu dozorových činností, které by mohly být potenciálně relevantní pro uplatňování unijního práva v oblasti pravidel hospodářské soutěže. Rovněž každoročně podávají Komisi zprávy o používání zakázaných praktik, k nimž v daném roce došlo, a o přijatých opatřeních.
+>
+> 3. V případě vysoce rizikových systémů AI souvisejících s výrobky, na něž se vztahuje harmonizační právní předpis Unie uvedený v oddílu A přílohy I, je orgánem dozoru nad trhem pro účely tohoto nařízení orgán příslušný pro dozor nad trhem určený na základě těchto právních aktů.
+>
+> Odchylně od prvního pododstavce mohou členské státy za vhodných okolností určit jiný příslušný orgán jako orgán dozoru nad trhem za předpokladu, že zajistí koordinaci s příslušnými sektorovými orgány dozoru nad trhem odpovědnými za vymáhání harmonizačních právních předpisů Unie uvedených v příloze I.
+>
+> 4. Postupy uvedené v článcích 79 až 83 tohoto nařízení se nepoužijí na systémy AI související s výrobky, na něž se vztahuje harmonizační právní předpis Unie uvedený v oddílu A přílohy I, pokud tyto právní akty již stanoví postupy zajišťující rovnocennou úroveň ochrany se stejným cílem. V takových případech se místo toho použijí příslušné sektorové postupy.
+>
+> 5. Aniž jsou dotčeny pravomoci orgánů dozoru nad trhem podle článku 14 nařízení (EU) 2019/1020, mohou orgány dozoru nad trhem pro účely zajištění účinného vymáhání tohoto nařízení uplatňovat pravomoci uvedené v čl. 14 odst. 4 písm. d) a j) tohoto nařízení na dálku, je-li to vhodné.
+>
+> 6. U vysoce rizikových systémů AI uvedených na trh, uvedených do provozu nebo používaných finančními institucemi regulovanými unijním právem finančních služeb je orgánem dozoru nad trhem pro účely tohoto nařízení příslušný vnitrostátní orgán odpovědný za finanční dohled nad těmito institucemi podle tohoto práva, pokud je uvedení na trh, uvedení do provozu nebo používání systému AI v přímé souvislosti s poskytováním těchto finančních služeb.
+>
+> 7. Odchylně od odstavce 6 může za vhodných okolností a za předpokladu zajištění koordinace členský stát určit jako orgán dozoru nad trhem pro účely tohoto nařízení jiný příslušný orgán.
+>
+> Vnitrostátní orgány dozoru nad trhem dohlížející na regulované úvěrové instituce regulované podle směrnice 2013/36/EU, které se účastní jednotného mechanismu dohledu zřízeného nařízením (EU) č. 1024/2013, by měly bezodkladně informovat Evropskou centrální banku o veškerých informacích zjištěných v průběhu svých dozorových činností, které by mohly být potenciálně relevantní pro úkoly obezřetnostního dohledu Evropské centrální banky stanovené v tomto nařízení.
+>
+> 8. V případě vysoce rizikových systémů AI uvedených v bodě 1 přílohy III tohoto nařízení, pokud jsou tyto systémy používány pro účely vymáhání práva, správy hranic a justice a demokracie, a v případě vysoce rizikových systémů AI uvedených v bodech 6, 7 a 8 přílohy III tohoto nařízení, určí členské státy jako orgány dozoru nad trhem pro účely tohoto nařízení buď příslušné orgány dozoru nad ochranou osobních údajů podle nařízení (EU) 2016/679 nebo směrnice (EU) 2016/680, nebo jiný orgán určený za stejných podmínek, jaké jsou stanoveny v článcích 41 až 44 směrnice (EU) 2016/680. Dozorové činnosti nad trhem žádným způsobem neovlivní nezávislost soudních orgánů ani jiným způsobem nezasáhnou do jejich činnosti při výkonu jejich soudní funkce.
+>
+> 9. Pokud instituce, orgány, úřady nebo agentury Unie spadají do oblasti působnosti tohoto nařízení, jedná jako jejich orgán dozoru nad trhem evropský inspektor ochrany údajů, s výjimkou případů týkajících se Soudního dvora Evropské unie jednajícího v jeho soudní funkci.
+>
+> 10. Členské státy usnadňují koordinaci mezi orgány dozoru nad trhem určenými podle tohoto nařízení a dalšími příslušnými vnitrostátními orgány nebo subjekty, které dohlížejí na uplatňování harmonizačních právních předpisů Unie uvedených v příloze I nebo jiných předpisů Unie, jež by mohly být relevantní pro vysoce rizikové systémy AI uvedené v příloze III.
+>
+> 11. Orgány dozoru nad trhem a Komise mohou navrhovat společné činnosti, včetně společných šetření, které provádějí orgány dozoru nad trhem nebo orgány dozoru nad trhem společně s Komisí, jejichž cílem je podpora souladu s tímto nařízením, odhalování nesouladu, zvyšování informovanosti nebo poskytování pokynů ve vztahu k tomuto nařízení s ohledem na konkrétní kategorie vysoce rizikových systémů AI, u nichž bylo zjištěno, že představují závažné riziko ve dvou nebo více členských státech, v souladu s článkem 9 nařízení (EU) 2019/1020. Úřad pro AI poskytuje koordinační podporu pro společná šetření.
+>
+> 12. Aniž jsou dotčeny pravomoci stanovené nařízením (EU) 2019/1020, a je-li to relevantní a omezeno na to, co je nezbytné pro plnění jejich úkolů, je orgánům dozoru nad trhem poskytnut poskytovateli plný přístup k dokumentaci a datovým souborům pro trénování, ověřování a testování použitým pro vývoj vysoce rizikových systémů AI, včetně přístupu prostřednictvím rozhraní pro programování aplikací (API) nebo jiných příslušných technických prostředků a nástrojů umožňujících vzdálený přístup, a to tam, kde je to vhodné a s výhradou bezpečnostních záruk.
+>
+> 13. Orgánům dozoru nad trhem je na základě odůvodněné žádosti udělen přístup ke zdrojovému kódu vysoce rizikového systému AI, avšak pouze tehdy, jsou-li splněny obě tyto podmínky:
+>
+> (a) přístup ke zdrojovému kódu je nezbytný pro posouzení souladu vysoce rizikového systému AI s požadavky stanovenými v kapitole III, oddílu 2; a
+>
+> (b) testovací nebo auditní postupy a ověření na základě dat a dokumentace poskytnutých poskytovatelem byly vyčerpány nebo se ukázaly jako nedostatečné.
+>
+> 14. Veškeré informace nebo dokumentace získané orgány dozoru nad trhem se nakládá v souladu s povinnostmi zachovávání důvěrnosti stanovenými v článku 78.
+
+**Výklad:** Článek 74 je klíčovým organizačním ustanovením, které zakotví institucionální architekturu dozoru nad trhem pro systémy AI. Základním přístupem je horizontální použití nařízení (EU) 2019/1020, přičemž AI Act jej doplňuje o sektorově specifická pravidla tam, kde zvláštní povaha systémů AI nebo sektorová regulace vyžaduje odlišný přístup.
+
+Odstavec 1 provádí tzv. horizontální adaptaci: pojmy „hospodářský subjekt" a „výrobek" z nařízení 2019/1020 se interpretují rozšiřujícím způsobem tak, aby zahrnovaly celý okruh subjektů a systémů AI podle AI Act. Tato technika legislativní integrace je metodologicky čistá, neboť zachovává existující procesní pravidla nařízení 2019/1020 (povinnosti spolupráce, výměna informací prostřednictvím systému ICSMS, RAPEX/Safety Gate) a vyhýbá se jejich duplicitní úpravě.
+
+Pravidla pro určení příslušného orgánu dozoru (odstavce 3, 6, 8) odrážejí komplexní sektorovou strukturu EU: pro výrobky podléhající harmonizační legislativě (příloha I oddíl A) zůstává příslušný existující sektorový orgán; pro finanční instituce je to příslušný orgán finančního dohledu; pro systémy AI v oblasti vymáhání práva, správy hranic a soudnictví jsou to orgány ochrany osobních údajů nebo jim analogické orgány. Tato volba vychází z principu, že orgány s nejbližší expertízou k danému sektoru nebo k chráněným hodnotám (ochrana dat, základní práva) jsou nejlépe vybaveny i pro dozor nad systémy AI v tomto sektoru.
+
+Zvláštní postavení má odkaz na ECB v odstavci 7: orgány dozoru nad trhem dohlížející na úvěrové instituce v rámci SSM by měly informovat ECB o poznatcích relevantních pro obezřetnostní dohled. Tato povinnost má doporučující charakter (modal „should" vs. „shall"), což odráží institucionální citlivost vztahu mezi prudenciálním dohledem a dohledem nad výrobky.
+
+Rozsáhlá přístupová práva v odstavcích 12 a 13 — včetně přístupu ke zdrojovému kódu, tréninkovým datům a validačním datovým souborům — jsou z pohledu vymáhání zásadní: bez přístupu k těmto prvkům by byl dozor nad systémy AI čistě formální. Podmínky pro přístup ke zdrojovému kódu (odstavec 13) jsou nastaveny přísně subsidiarně: tento přístup nastupuje teprve tehdy, kdy ostatní prostředky nestačí, čímž je respektováno obchodní tajemství poskytovatele a zároveň zajištěna efektivita dozoru v krajních případech. Veškeré takto získané informace podléhají povinnosti důvěrnosti dle článku 78.
 
 ---
 
-### Čl. 75 — ⟦NÁZEV 75⟧
+### Čl. 75 — Vzájemná pomoc, dozor nad trhem a kontrola systémů AI obecného účelu
 
 **Doslovné znění (EN) — Article 75 — Mutual assistance, market surveillance and control of general-purpose AI systems:**
 
@@ -130,11 +238,25 @@
 >
 > 3. Where a market surveillance authority is unable to conclude its investigation of the high-risk AI system because of its inability to access certain information related to the general-purpose AI model despite having made all appropriate efforts to obtain that information, it may submit a reasoned request to the AI Office, by which access to that information shall be enforced. In that case, the AI Office shall supply to the applicant authority without delay, and in any event within 30 days, any information that the AI Office considers to be relevant in order to establish whether a high-risk AI system is non-compliant. Market surveillance authorities shall safeguard the confidentiality of the information that they obtain in accordance with Article 78 of this Regulation. The procedure provided for in Chapter VI of Regulation (EU) 2019/1020 shall apply mutatis mutandis.
 
-⟦FILL 75⟧
+**Pracovní překlad (CZ):**
+
+> 1. Pokud je systém AI postaven na modelu AI obecného účelu a model i systém jsou vyvinuty týmž poskytovatelem, má Úřad pro AI pravomoci monitorovat a dohlížet na dodržování povinností tohoto systému AI stanovených tímto nařízením. Za účelem plnění svých monitorovacích a dohledových úkolů disponuje Úřad pro AI veškerými pravomocemi orgánu dozoru nad trhem, jež jsou stanoveny v tomto oddílu a v nařízení (EU) 2019/1020.
+>
+> 2. Pokud mají příslušné orgány dozoru nad trhem dostatečný důvod se domnívat, že systémy AI obecného účelu, které mohou být nasazovány přímo provozovateli alespoň pro jeden účel klasifikovaný jako vysoce rizikový podle tohoto nařízení, nejsou v souladu s požadavky stanovenými v tomto nařízení, spolupracují s Úřadem pro AI při provádění hodnocení souladu a informují o tom výbor a ostatní orgány dozoru nad trhem.
+>
+> 3. Pokud orgán dozoru nad trhem nemůže uzavřít své šetření vysoce rizikového systému AI z důvodu nemožnosti přístupu k určitým informacím týkajícím se modelu AI obecného účelu, přestože vynaložil veškeré přiměřené úsilí k získání těchto informací, může podat Úřadu pro AI odůvodněnou žádost, na jejímž základě je přístup k těmto informacím vynucen. V takovém případě Úřad pro AI poskytne žádajícímu orgánu bez prodlení, a v každém případě do 30 dnů, veškeré informace, které Úřad pro AI považuje za relevantní pro zjištění, zda vysoce rizikový systém AI není v souladu s tímto nařízením. Orgány dozoru nad trhem zachovají důvěrnost informací, které takto získají, v souladu s článkem 78 tohoto nařízení. Postup stanovený v kapitole VI nařízení (EU) 2019/1020 se použije přiměřeně.
+
+**Výklad:** Článek 75 řeší specifický problém vertikální integrace: v případě, kdy tentýž poskytovatel vyvíjí jak model AI obecného účelu (GPAI model), tak vysoce rizikový systém AI na jeho základě postavený, by mohlo dojít k „dozorové mezeře" — orgány dozoru nad trhem mají přímou pravomoc vůči poskytovateli systému AI, ale informace o základním modelu mohou být nedostupné. Článek 75 tuto mezeru uzavírá dvěma mechanismy.
+
+Zaprvé, odstavec 1 přiznává Úřadu pro AI přímou dozorovou pravomoc vůči integrovanému poskytovateli, včetně plné sady pravomocí orgánu dozoru nad trhem. Tím se Úřad pro AI stává de facto sektorovým dozorcem pro velké poskytovatele GPAI modelů, kteří sami provozují i systémy AI na jejich základě — typicky velké technologické společnosti s vertikálně integrovaným portfoliem AI produktů.
+
+Zadruhé, odstavec 3 zavádí mechanismus vzájemné pomoci sui generis: pokud orgán dozoru nad trhem nemůže sám získat přístup k informacím o základním modelu, může požádat Úřad pro AI o zprostředkování. Úřad pro AI musí odpovědět do 30 dnů, přičemž se na postup přiměřeně použije kapitola VI nařízení 2019/1020 (vzájemná pomoc mezi orgány dozoru). Tato kaskádová spolupráce je nezbytná proto, že modely GPAI jsou regulovány kapitolou V AI Act — tedy odlišným právním rámcem — a jejich provozovatelé (zpravidla sídlící v jednom nebo dvou členských státech) jsou pod přímým dohledem Úřadu pro AI, nikoli vnitrostátních orgánů.
+
+Odstavec 2 zachycuje scénář, kdy systém AI obecného účelu je „víceúčelový" — lze jej použít i pro vysoce rizikové použití, přestože byl označen jako GPAI model. V takovém případě orgány dozoru nad trhem a Úřad pro AI koordinují posouzení souladu, což odráží propustnost hranic mezi kategoriemi GPAI modelů a systémů AI v reálném nasazení.
 
 ---
 
-### Čl. 76 — ⟦NÁZEV 76⟧
+### Čl. 76 — Dohled orgánů dozoru nad trhem nad testováním v reálných podmínkách
 
 **Doslovné znění (EN) — Article 76 — Supervision of testing in real world conditions by market surveillance authorities:**
 
@@ -152,11 +274,31 @@
 >
 > 5. Where applicable, where a market surveillance authority has taken a decision referred to in paragraph 3, it shall communicate the grounds therefor to the market surveillance authorities of other Member States in which the AI system has been tested in accordance with the testing plan.
 
-⟦FILL 76⟧
+**Pracovní překlad (CZ):**
+
+> 1. Orgány dozoru nad trhem jsou příslušné a disponují pravomocemi k zajištění toho, aby testování v reálných podmínkách bylo v souladu s tímto nařízením.
+>
+> 2. Pokud se testování v reálných podmínkách provádí u systémů AI, jež jsou pod dozorem v regulačním sandboxu AI podle článku 58, ověřují orgány dozoru nad trhem v rámci svého dohledového úkolu pro regulační sandbox AI soulad s článkem 60. Tyto orgány mohou v případě potřeby odchylně od podmínek stanovených v čl. 60 odst. 4 písm. f) a g) umožnit, aby testování v reálných podmínkách prováděl poskytovatel nebo potenciální poskytovatel.
+>
+> 3. Pokud byl orgán dozoru nad trhem potenciálním poskytovatelem, poskytovatelem nebo třetí stranou informován o závažném incidentu nebo má jiné důvody domnívat se, že podmínky stanovené v článcích 60 a 61 nejsou splněny, může na svém území přijmout některé z těchto rozhodnutí, dle potřeby:
+>
+> (a) pozastavit nebo ukončit testování v reálných podmínkách;
+>
+> (b) požadovat, aby poskytovatel nebo potenciální poskytovatel a provozovatel nebo potenciální provozovatel upravili jakýkoli aspekt testování v reálných podmínkách.
+>
+> 4. Pokud orgán dozoru nad trhem přijal rozhodnutí uvedené v odstavci 3 tohoto článku nebo vznesl námitku ve smyslu čl. 60 odst. 4 písm. b), musí rozhodnutí nebo námitka uvést důvody a způsob, jakým může poskytovatel nebo potenciální poskytovatel rozhodnutí nebo námitku napadnout.
+>
+> 5. Je-li to relevantní, pokud orgán dozoru nad trhem přijal rozhodnutí uvedené v odstavci 3, sdělí důvody tohoto rozhodnutí orgánům dozoru nad trhem jiných členských států, v nichž byl systém AI testován v souladu s plánem testování.
+
+**Výklad:** Článek 76 vyplňuje dozorovou mezeru při testování v reálných podmínkách (real-world testing), jež je upravenou v článcích 60 a 61 AI Act. Testování v reálných podmínkách — tedy testování systémů AI v reálném prostředí, nikoli v laboratorních nebo sandboxových podmínkách — přináší specifická rizika, neboť dotýká se skutečných osob a jejich zájmů.
+
+Odstavec 1 přiznává orgánům dozoru nad trhem obecnou příslušnost a pravomoci bez dalšího upřesnění, přičemž odkazuje na všechny pravomoci dostupné dle nařízení 2019/1020. Odstavec 2 pak řeší specifický případ testování v rámci regulačních sandboxů dle článku 58: zde plní orgány dozoru nad trhem dvojí roli — jsou součástí governance sandboxu (spolupráce při provozování sandboxu) a zároveň si zachovávají nezávislou dozorovou funkci. Možnost odchýlit se od podmínek čl. 60 odst. 4 písm. f) a g) — tedy podmínek týkajících se souhlasu subjektů testování a informování o ukončení testování — je zárukou flexibility v sandboxovém prostředí, kde je standardní regulační rámec vědomě relaxován.
+
+Zásadní je pravomoc zastavit nebo modifikovat testování (odstavec 3): jde o ex post pravomoc reakce na zjištěné závažné incidenty nebo na nesplnění podmínek. Povinnost uvést důvody a poučení o opravných prostředcích (odstavec 4) zajišťuje základní procesní záruky pro poskytovatele a provozovatele. Sdílení rozhodnutí s orgány jiných členských států (odstavec 5) odráží skutečnost, že testování v reálných podmínkách může probíhat přeshraničně a rozhodnutí jednoho orgánu by mohlo mít dopad na testování v jiných státech.
 
 ---
 
-### Čl. 77 — ⟦NÁZEV 77⟧
+### Čl. 77 — Pravomoci orgánů chránících základní práva
 
 **Doslovné znění (EN) — Article 77 — Powers of authorities protecting fundamental rights:**
 
@@ -168,11 +310,27 @@
 >
 > 4. Any information or documentation obtained by the national public authorities or bodies referred to in paragraph 1 of this Article pursuant to this Article shall be treated in accordance with the confidentiality obligations set out in Article 78.
 
-⟦FILL 77⟧
+**Pracovní překlad (CZ):**
+
+> 1. Vnitrostátní veřejné orgány nebo subjekty, které dohlížejí na dodržování povinností nebo vymáhají plnění povinností vyplývajících z unijního práva na ochranu základních práv, včetně práva na nediskriminaci, v souvislosti s používáním vysoce rizikových systémů AI uvedených v příloze III, mají pravomoc vyžádat a získat přístup k veškeré dokumentaci vytvořené nebo uchovávané podle tohoto nařízení v přístupném jazyce a formátu, pokud je přístup k této dokumentaci nezbytný k účinnému plnění jejich mandátu v mezích jejich pravomoci. Příslušný veřejný orgán nebo subjekt informuje orgán dozoru nad trhem daného členského státu o každé takové žádosti.
+>
+> 2. Do 2. listopadu 2024 každý členský stát identifikuje veřejné orgány nebo subjekty uvedené v odstavci 1 a zveřejní jejich seznam. Členské státy oznámí seznam Komisi a ostatním členským státům a udržují jej aktuální.
+>
+> 3. Pokud dokumentace uvedená v odstavci 1 nestačí k tomu, aby bylo možné zjistit, zda došlo k porušení povinností vyplývajících z unijního práva na ochranu základních práv, může veřejný orgán nebo subjekt uvedený v odstavci 1 podat orgánu dozoru nad trhem odůvodněnou žádost o zajištění testování vysoce rizikového systému AI technickými prostředky. Orgán dozoru nad trhem zajistí provedení testování za úzké spolupráce žádajícího veřejného orgánu nebo subjektu v přiměřené lhůtě po obdržení žádosti.
+>
+> 4. S veškerými informacemi nebo dokumentací, které vnitrostátní veřejné orgány nebo subjekty uvedené v odstavci 1 tohoto článku získají v souladu s tímto článkem, se nakládá v souladu s povinnostmi zachovávání důvěrnosti stanovenými v článku 78.
+
+**Výklad:** Článek 77 představuje inovativní průnik dvou horizontálních regulačních rovin: dozoru nad trhem a ochrany základních práv. Standardní nařízení o dozoru nad trhem (2019/1020) pracuje s logikou ochrany bezpečnosti výrobků; AI Act ji rozšiřuje o dimenzi ochrany základních práv (právo na nediskriminaci, ochrana soukromí, právo na spravedlivý proces atd.), která má v tradičním rámci produktové regulace zcela nové místo.
+
+Odstavec 1 přiznává orgánům ochrany základních práv — jako jsou vnitrostátní lidskoprávní instituce (NHRI), orgány pro rovné zacházení nebo specializované inspekční orgány — právo přístupu k dokumentaci vedené poskytovatelem dle AI Act. Tím se tato dokumentace (zejm. technická dokumentace, záznamy o testování, posouzení shody) stává nástrojem i pro lidskoprávní dohled, nikoli pouze pro dozor nad trhem. Podmínka přístupného jazyka a formátu navazuje na obecné principy přístupnosti veřejné správy.
+
+Povinnost identifikovat a zveřejnit seznam těchto orgánů (odstavec 2) byla stanovena s lhůtou do 2. listopadu 2024, tj. krátce po vstupu nařízení v platnost (1. srpna 2024). Tato lhůta reflektuje naléhavost vytvoření institucionálního rámce pro ochranu základních práv v kontextu AI systémů ještě před tím, než se povinnosti pro vysoce rizikové systémy AI plně uplatní (2. srpna 2026).
+
+Zvláštní procesní mechanismus v odstavci 3 — právo požádat orgán dozoru nad trhem o technické testování systému AI — překonává technologickou asymetrii: orgány ochrany základních práv typicky nemají kapacity k technickému testování AI systémů, ale orgán dozoru nad trhem ano. Tato kooperativní struktura zajišťuje, že lidskoprávní hledisko je promítnuto i do technického hodnocení, bez nutnosti duplikovat specializované technické kapacity. Povinnost důvěrnosti (odstavec 4) zajišťuje, že citlivé technické informace poskytovatele nezůstanou bez ochrany ani při lidskoprávním šetření.
 
 ---
 
-### Čl. 78 — ⟦NÁZEV 78⟧
+### Čl. 78 — Důvěrnost
 
 **Doslovné znění (EN) — Article 78 — Confidentiality:**
 
@@ -198,11 +356,43 @@
 >
 > 5. The Commission and Member States may exchange, where necessary and in accordance with relevant provisions of international and trade agreements, confidential information with regulatory authorities of third countries with which they have concluded bilateral or multilateral confidentiality arrangements guaranteeing an adequate level of confidentiality.
 
-⟦FILL 78⟧
+**Pracovní překlad (CZ):**
+
+> 1. Komise, orgány dozoru nad trhem, oznámené subjekty a jakékoli jiné fyzické nebo právnické osoby zapojené do uplatňování tohoto nařízení jsou povinny v souladu s unijním nebo vnitrostátním právem zachovávat mlčenlivost o informacích a údajích získaných při plnění svých úkolů a výkonu svých činností, a to způsobem, který zajišťuje ochranu zejména:
+>
+> (a) práv duševního vlastnictví a důvěrných obchodních informací nebo obchodního tajemství fyzické nebo právnické osoby, včetně zdrojového kódu, s výjimkou případů uvedených v článku 5 směrnice Evropského parlamentu a Rady (EU) 2016/943 (57);
+>
+> (b) účinného provádění tohoto nařízení, zejména pro účely kontrol, šetření nebo auditů;
+>
+> (c) zájmů veřejné a národní bezpečnosti;
+>
+> (d) vedení trestního nebo správního řízení;
+>
+> (e) informací klasifikovaných podle unijního nebo vnitrostátního práva.
+>
+> 2. Orgány zapojené do uplatňování tohoto nařízení podle odstavce 1 vyžadují pouze údaje, které jsou nezbytně nutné pro posouzení rizika spojeného se systémy AI a pro výkon jejich pravomocí v souladu s tímto nařízením a nařízením (EU) 2019/1020. Zavedou přiměřená a účinná opatření v oblasti kybernetické bezpečnosti s cílem chránit bezpečnost a důvěrnost získaných informací a údajů a vymažou shromážděné údaje, jakmile již nejsou potřebné pro účel, za nímž byly získány, a to v souladu s příslušným unijním nebo vnitrostátním právem.
+>
+> 3. Aniž jsou dotčeny odstavce 1 a 2, informace vyměňované důvěrně mezi vnitrostátními příslušnými orgány nebo mezi vnitrostátními příslušnými orgány a Komisí nesmějí být zveřejněny bez předchozí konzultace s původním vnitrostátním příslušným orgánem a provozovatelem, pokud jde o vysoce rizikové systémy AI uvedené v bodech 1, 6 nebo 7 přílohy III, které používají orgány činné v trestním řízení, správy hranic, přistěhovalectví nebo azylu, a pokud by toto zveřejnění ohrozilo zájmy veřejné a národní bezpečnosti. Tato výměna informací se nevztahuje na citlivá operativní data v rámci činností orgánů činných v trestním řízení, správy hranic, přistěhovalectví nebo azylu.
+>
+> Pokud jsou orgány činné v trestním řízení, přistěhovalectví nebo azylu poskytovateli vysoce rizikových systémů AI uvedených v bodech 1, 6 nebo 7 přílohy III, zůstává technická dokumentace uvedená v příloze IV v prostorách těchto orgánů. Tyto orgány zajistí, aby orgány dozoru nad trhem uvedené v čl. 74 odst. 8 a 9, pokud je to relevantní, mohly na žádost neprodleně přistoupit k dokumentaci nebo získat její kopii. Přístup k této dokumentaci nebo jakékoli její kopii je umožněn pouze pracovníkům orgánu dozoru nad trhem s příslušnou úrovní bezpečnostní prověrky.
+>
+> 4. Odstavce 1, 2 a 3 se nedotýkají práv nebo povinností Komise, členských států a jejich příslušných orgánů ani oznámených subjektů, pokud jde o výměnu informací a šíření varování, a to ani v rámci přeshraniční spolupráce, ani povinnosti dotčených stran poskytovat informace podle trestního práva členských států.
+>
+> 5. Komise a členské státy mohou v nezbytném rozsahu a v souladu s příslušnými ustanoveními mezinárodních obchodních dohod a dohod vyměňovat důvěrné informace s regulačními orgány třetích zemí, s nimiž uzavřely dvoustranná nebo mnohostranná ujednání o mlčenlivosti zaručující přiměřenou úroveň důvěrnosti.
+
+**Výklad:** Článek 78 zakotvuje komplexní rámec ochrany důvěrnosti v kontextu vymáhání AI Act. Jde o nezbytnou protiváhu rozsáhlých přístupových práv orgánů dozoru dle čl. 74 odst. 12 a 13: bez záruky důvěrnosti by poskytovatelé odmítali součinnost z obavy před zveřejněním obchodního tajemství nebo zdrojového kódu.
+
+Výčet chráněných zájmů v odstavci 1 je strukturálně analogický obdobným ustanovením v sektorové regulaci (srov. čl. 17 nařízení 2019/1020 nebo relevantní ustanovení nařízení (EU) 2016/679 o GDPR). Výslovný odkaz na směrnici (EU) 2016/943 o obchodním tajemství v písm. a) je důležitý: tato směrnice stanoví konkrétní výjimky (zejm. pro účely odhalování pochybení), v jejichž rámci smí být obchodní tajemství zpřístupněno — tím se zabraňuje absolutizaci ochrany obchodního tajemství na úkor veřejného zájmu.
+
+Odstavec 2 zavádí princip minimalizace dat pro orgány dozoru: mohou požadovat pouze údaje nezbytně nutné pro výkon jejich zákonných pravomocí, jsou povinny přijmout adekvátní kybernetická opatření a nepotřebné údaje vymazat. Tato povinnost je analogická principu minimalizace dat zakotvenému v čl. 5 odst. 1 písm. c) GDPR, přičemž její zakotvení v AI Act zajišťuje, že se uplatní i mimo přísně osobní sféru.
+
+Odstavec 3 obsahuje specifické pravidlo pro citlivé operativní informace orgánů vymáhání práva a migračních orgánů — tedy kontextu, kde veřejný zájem na bezpečnosti přebíjí jinak obvyklou transparentnost vymáhání. Povinnost zachovat technickou dokumentaci v prostorách těchto orgánů (druhý pododstavec) je kompromisem: orgány dozoru nad trhem dostanou přístup, ale dokumentace neopustí prostory provozovatele bez bezpečnostní prověrky personálu. Tím je zachována jak kontrolní funkce dozoru, tak bezpečnostní imperativ.
+
+Odstavec 5 o mezinárodní výměně důvěrných informací reflektuje globální charakter trhu se systémy AI: koordinace s regulačními orgány třetích zemí (USA, UK, Japonsko, Kanada atd.) je prakticky nezbytná pro efektivní vymáhání, přičemž podmínkou je adekvátní úroveň důvěrnosti — obdoba standardu „adekvátní ochrany" z práva ochrany osobních údajů.
 
 ---
 
-### Čl. 79 — ⟦NÁZEV 79⟧
+### Čl. 79 — Postup na vnitrostátní úrovni u systémů AI představujících riziko
 
 **Doslovné znění (EN) — Article 79 — Procedure at national level for dealing with AI systems presenting a risk:**
 
@@ -236,11 +426,49 @@
 >
 > 9. The market surveillance authorities shall ensure that appropriate restrictive measures are taken in respect of the product or the AI system concerned, such as withdrawal of the product or the AI system from their market, without undue delay.
 
-⟦FILL 79⟧
+**Pracovní překlad (CZ):**
+
+> 1. Systémy AI představující riziko se rozumějí „výrobkem představujícím riziko" ve smyslu čl. 3 bodu 19 nařízení (EU) 2019/1020, pokud představují riziko pro zdraví nebo bezpečnost osob nebo pro jejich základní práva.
+>
+> 2. Pokud má orgán dozoru nad trhem členského státu dostatečný důvod se domnívat, že systém AI představuje riziko ve smyslu odstavce 1 tohoto článku, provede hodnocení dotčeného systému AI z hlediska jeho souladu se všemi požadavky a povinnostmi stanovenými v tomto nařízení. Zvláštní pozornost je věnována systémům AI, jež představují riziko pro zranitelné skupiny. Jsou-li identifikována rizika pro základní práva, orgán dozoru nad trhem rovněž informuje příslušné vnitrostátní veřejné orgány nebo subjekty uvedené v čl. 77 odst. 1 a plně s nimi spolupracuje. Příslušní hospodářské subjekty spolupracují podle potřeby s orgánem dozoru nad trhem a s ostatními vnitrostátními veřejnými orgány nebo subjekty uvedenými v čl. 77 odst. 1.
+>
+> Pokud orgán dozoru nad trhem, nebo je-li to relevantní, orgán dozoru nad trhem ve spolupráci s vnitrostátním veřejným orgánem uvedeným v čl. 77 odst. 1, v průběhu tohoto hodnocení zjistí, že systém AI nesplňuje požadavky a povinnosti stanovené v tomto nařízení, bez zbytečného odkladu požaduje po příslušném hospodářském subjektu přijetí veškerých vhodných nápravných opatření k dosažení souladu systému AI s tímto nařízením, stažení systému AI z trhu nebo jeho odvolání ve lhůtě, kterou orgán dozoru nad trhem může stanovit, a v každém případě ve lhůtě kratší z 15 pracovních dnů nebo lhůty stanovené v příslušném harmonizačním právním předpisu Unie.
+>
+> Orgán dozoru nad trhem odpovídajícím způsobem informuje příslušný oznámený subjekt. Na opatření uvedená v druhém pododstavci tohoto odstavce se použije článek 18 nařízení (EU) 2019/1020.
+>
+> 3. Pokud orgán dozoru nad trhem dospěje k závěru, že nesoulad není omezen na jeho vnitrostátní území, bez zbytečného odkladu informuje Komisi a ostatní členské státy o výsledcích hodnocení a o opatřeních, která požadoval po hospodářském subjektu přijmout.
+>
+> 4. Hospodářský subjekt zajistí přijetí veškerých vhodných nápravných opatření ve vztahu ke všem dotčeným systémům AI, které zpřístupnil na trhu Unie.
+>
+> 5. Pokud hospodářský subjekt přijmu systému AI nepřijme v lhůtě uvedené v odstavci 2 přiměřená nápravná opatření, orgán dozoru nad trhem přijme veškerá vhodná dočasná opatření k zákazu nebo omezení dostupnosti systému AI na vnitrostátním trhu nebo jeho uvedení do provozu, ke stažení výrobku nebo samostatného systému AI z tohoto trhu nebo k jeho odvolání. Tento orgán bez zbytečného odkladu oznámí tato opatření Komisi a ostatním členským státům.
+>
+> 6. Oznámení uvedené v odstavci 5 obsahuje veškeré dostupné podrobnosti, zejména informace nezbytné pro identifikaci nevyhovujícího systému AI, původ systému AI a dodavatelský řetězec, povahu tvrzeného nesouladu a výše uvedeného rizika, povahu a dobu trvání přijatých vnitrostátních opatření a argumenty předložené příslušným hospodářským subjektem. Orgány dozoru nad trhem zejména uvedou, zda nesoulad spočívá v jednom nebo více z těchto důvodů:
+>
+> (a) nesoulad se zákazem praktik AI uvedených v článku 5;
+>
+> (b) nesplnění požadavků kladených na vysoce rizikový systém AI stanovených v kapitole III, oddílu 2;
+>
+> (c) nedostatky v harmonizovaných normách nebo společných specifikacích uvedených v článcích 40 a 41, ze kterých plyne domněnka shody;
+>
+> (d) nesoulad s článkem 50.
+>
+> 7. Orgány dozoru nad trhem jiné než orgán dozoru nad trhem členského státu, který zahájil postup, bez zbytečného odkladu informují Komisi a ostatní členské státy o veškerých přijatých opatřeních a o veškerých dalších informacích, jež mají k dispozici a jež se týkají nesouladu dotčeného systému AI, a v případě nesouhlasu s oznámeným vnitrostátním opatřením sdělí své námitky.
+>
+> 8. Pokud do tří měsíců od obdržení oznámení uvedeného v odstavci 5 tohoto článku žádný orgán dozoru nad trhem členského státu ani Komise nevznesou námitky vůči dočasnému opatření přijatému orgánem dozoru nad trhem jiného členského státu, považuje se toto opatření za odůvodněné. To je bez předsudku k procesním právům dotčeného hospodářského subjektu v souladu s článkem 18 nařízení (EU) 2019/1020. Tříměsíční lhůta uvedená v tomto odstavci se zkracuje na 30 dnů v případě nesouladu se zákazem praktik AI uvedených v článku 5 tohoto nařízení.
+>
+> 9. Orgány dozoru nad trhem zajistí přijetí vhodných omezujících opatření ve vztahu k dotčenému výrobku nebo systému AI, jako je stažení výrobku nebo systému AI z jejich trhu, bez zbytečného odkladu.
+
+**Výklad:** Článek 79 upravuje vnitrostátní fázi eskalačního mechanismu pro systémy AI, jež představují riziko, a strukturálně navazuje na čl. 19–20 nařízení (EU) 2019/1020 a na vzor zavedený harmonizační produktovou legislativou (NLF — New Legislative Framework).
+
+Prvním klíčovým konceptem je rozšíření pojmu „výrobek představující riziko" z nařízení 2019/1020 o rizika pro základní práva — typicky nepokrytá tradičním produktovým právem, zaměřeným primárně na zdravotní a bezpečnostní rizika. Tato integrace je systémovým rozhodnutím, jež propojuje dozor nad trhem s agendou základních práv. Prakticky to znamená, že orgán dozoru nad trhem musí při hodnocení rizika zvažovat nejen fyzická rizika (újma na zdraví, bezpečnost), ale i rizika diskriminace, narušení soukromí nebo práva na spravedlivý proces.
+
+Lhůta 15 pracovních dnů pro přijetí nápravných opatření hospodářským subjektem (odstavec 2) je relativně krátká a nutí poskytovatele k rychlé reakci. Zkrácení lhůty na 30 dnů pro přezkum vnitrostátních opatření u zakázaných praktik dle článku 5 (odstavec 8) odráží vyšší naléhavost: zakázané praktiky AI (manipulace, biometrická kategorizace, sociální skóring) představují závažnější zásah do základních práv.
+
+Systém tichého souhlasu v odstavci 8 — opatření je považováno za odůvodněné, nevznesou-li ostatní orgány námitky do 3 měsíců — je standardním mechanismem harmonizačního práva a zabraňuje patovým situacím, kdy by nejistota ohledně legality vnitrostátního opatření bránila účinnému vymáhání. Povinnost informovat Komisi a ostatní státy (odstavce 3, 5) zajišťuje koordinaci a brání roztříštěnosti trhu v případech, kdy nesoulad přesahuje vnitrostátní hranice.
 
 ---
 
-### Čl. 80 — ⟦NÁZEV 80⟧
+### Čl. 80 — Postup u systémů AI klasifikovaných poskytovatelem jako nevysoce rizikové dle přílohy III
 
 **Doslovné znění (EN) — Article 80 — Procedure for dealing with AI systems classified by the provider as non-high-risk in application of Annex III:**
 
@@ -260,11 +488,35 @@
 >
 > 8. In exercising their power to monitor the application of this Article, and in accordance with Article 11 of Regulation (EU) 2019/1020, market surveillance authorities may perform appropriate checks, taking into account in particular information stored in the EU database referred to in Article 71 of this Regulation.
 
-⟦FILL 80⟧
+**Pracovní překlad (CZ):**
+
+> 1. Pokud má orgán dozoru nad trhem dostatečný důvod se domnívat, že systém AI, který poskytovatel klasifikoval jako nevysoce rizikový podle čl. 6 odst. 3, je ve skutečnosti vysoce rizikový, provede orgán dozoru nad trhem hodnocení dotčeného systému AI z hlediska jeho klasifikace jako vysoce rizikového systému AI na základě podmínek stanovených v čl. 6 odst. 3 a pokynů Komise.
+>
+> 2. Pokud orgán dozoru nad trhem v průběhu tohoto hodnocení zjistí, že dotčený systém AI je vysoce rizikový, bez zbytečného odkladu požaduje po příslušném poskytovateli přijetí veškerých nezbytných opatření k dosažení souladu systému AI s požadavky a povinnostmi stanovenými v tomto nařízení, jakož i přijetí vhodných nápravných opatření ve lhůtě, kterou orgán dozoru nad trhem může stanovit.
+>
+> 3. Pokud orgán dozoru nad trhem dospěje k závěru, že používání dotčeného systému AI není omezeno na jeho vnitrostátní území, bez zbytečného odkladu informuje Komisi a ostatní členské státy o výsledcích hodnocení a o opatřeních, která požadoval po poskytovateli přijmout.
+>
+> 4. Poskytovatel zajistí přijetí veškerých nezbytných opatření k dosažení souladu systému AI s požadavky a povinnostmi stanovenými v tomto nařízení. Pokud poskytovatel dotčeného systému AI nedosáhne souladu tohoto systému AI s těmito požadavky a povinnostmi ve lhůtě uvedené v odstavci 2 tohoto článku, podléhá pokutám v souladu s článkem 99.
+>
+> 5. Poskytovatel zajistí přijetí veškerých vhodných nápravných opatření ve vztahu ke všem dotčeným systémům AI, které zpřístupnil na trhu Unie.
+>
+> 6. Pokud poskytovatel dotčeného systému AI nepřijme v lhůtě uvedené v odstavci 2 tohoto článku přiměřená nápravná opatření, použije se čl. 79 odst. 5 až 9.
+>
+> 7. Pokud orgán dozoru nad trhem v průběhu hodnocení podle odstavce 1 tohoto článku zjistí, že poskytovatel záměrně nesprávně klasifikoval systém AI jako nevysoce rizikový s cílem obejít použití požadavků kapitoly III, oddílu 2, podléhá poskytovatel pokutám v souladu s článkem 99.
+>
+> 8. Při výkonu svých pravomocí sledovat uplatňování tohoto článku a v souladu s článkem 11 nařízení (EU) 2019/1020 mohou orgány dozoru nad trhem provádět vhodné kontroly, přičemž zohlední zejména informace uložené v databázi EU uvedené v článku 71 tohoto nařízení.
+
+**Výklad:** Článek 80 řeší specifický případ zneužití klasifikačního systému AI Act: situaci, kdy poskytovatel kvalifikuje systém AI jako nevysoce rizikový dle čl. 6 odst. 3, přičemž orgán dozoru nad trhem má oprávněné pochybnosti o správnosti takové klasifikace. Jde o vymáhací mechanismus pro tzv. „downgrading" — úmyslné nebo neúmyslné podklasifikování systému AI s cílem vyhnout se přísnějším požadavkům kapitoly III, oddílu 2.
+
+Výchozím referenčním rámcem pro hodnocení jsou podmínky čl. 6 odst. 3 a pokyny Komise. Tento odkaz na neformální akt (pokyny Komise) je procesně zajímavý: pokyny jsou typicky soft law a nemají právně závazný charakter, přesto jsou zde zahrnuty jako standard pro posouzení klasifikace. To dává Komisi značný vliv na praxi klasifikace systémů AI bez nutnosti přijímat formálně závazné prováděcí akty.
+
+Sankční dimenze je zdůrazněna v odstavci 4 (pokuta za nesplnění nápravných opatření) a zejm. v odstavci 7 (pokuta za záměrné nesprávné klasifikování). Záměrné obcházení klasifikačních požadavků je tak sankčně odlišeno od pouhé chybné klasifikace — jde o jednu z mála explicitních referencí na mens rea v textu AI Act, kde je záměr prvkem skutkové podstaty sankcionovaného chování.
+
+Odkaz na databázi EU dle článku 71 (odstavec 8) je prakticky důležitý: databáze EU, do níž se registrují vysoce rizikové systémy AI, slouží orgánům dozoru nad trhem jako výchozí informační zdroj pro identifikaci systémů, jež mohly být nesprávně klasifikovány (tj. chybí v databázi, přestože by tam být měly). Tím databáze plní detekční, nikoli pouze evidenční funkci.
 
 ---
 
-### Čl. 81 — ⟦NÁZEV 81⟧
+### Čl. 81 — Ochranný postup Unie
 
 **Doslovné znění (EN) — Article 81 — Union safeguard procedure:**
 
@@ -274,11 +526,25 @@
 >
 > 3. Where the national measure is considered justified and the non-compliance of the AI system is attributed to shortcomings in the harmonised standards or common specifications referred to in Articles 40 and 41 of this Regulation, the Commission shall apply the procedure provided for in Article 11 of Regulation (EU) No 1025/2012.
 
-⟦FILL 81⟧
+**Pracovní překlad (CZ):**
+
+> 1. Pokud do tří měsíců od obdržení oznámení uvedeného v čl. 79 odst. 5, nebo do 30 dnů v případě nesouladu se zákazem praktik AI uvedených v článku 5, orgán dozoru nad trhem členského státu vznese námitky vůči opatření přijatému jiným orgánem dozoru nad trhem, nebo pokud Komise považuje toto opatření za rozporné s unijním právem, zahájí Komise bez zbytečného odkladu konzultace s orgánem dozoru nad trhem příslušného členského státu a hospodářskými subjekty a vyhodnotí vnitrostátní opatření. Na základě výsledků tohoto hodnocení rozhodne Komise do šesti měsíců, nebo do 60 dnů v případě nesouladu se zákazem praktik AI uvedených v článku 5, počínaje oznámením uvedeným v čl. 79 odst. 5, zda je vnitrostátní opatření odůvodněné, a oznámí své rozhodnutí orgánu dozoru nad trhem dotčeného členského státu. Komise rovněž informuje o svém rozhodnutí všechny ostatní orgány dozoru nad trhem.
+>
+> 2. Pokud Komise považuje opatření přijaté příslušným členským státem za odůvodněné, zajistí všechny členské státy přijetí vhodných omezujících opatření ve vztahu k dotčenému systému AI, jako je požadavek stažení systému AI z jejich trhu bez zbytečného odkladu, a o tom informují Komisi. Pokud Komise považuje vnitrostátní opatření za neodůvodněné, dotčený členský stát toto opatření zruší a o tom informuje Komisi.
+>
+> 3. Je-li vnitrostátní opatření považováno za odůvodněné a nesoulad systému AI je připisován nedostatkům v harmonizovaných normách nebo společných specifikacích uvedených v článcích 40 a 41 tohoto nařízení, použije Komise postup stanovený v článku 11 nařízení (EU) č. 1025/2012.
+
+**Výklad:** Článek 81 zakotvuje ochranný postup Unie (Union safeguard procedure), jenž je třetím a nejvyšším stupněm eskalačního mechanismu: nastupuje tehdy, pokud je vnitrostátní opatření podle čl. 79 zpochybněno jiným členským státem nebo Komisí. Jde o standardní nástroj harmonizačního práva (srov. čl. 35–38 nařízení (EU) 2019/1020), přizpůsobený specifikám AI Act.
+
+Ústřední rolí Komise v tomto postupu je arbitrážní: konzultuje strany, hodnotí vnitrostátní opatření a vydá do 6 měsíců závazné rozhodnutí o jeho odůvodněnosti. Zkrácení lhůty na 60 dnů pro případy zakázaných praktik AI (článek 5) opět odráží zvláštní naléhavost těchto situací — manipulace s lidským chováním, biometrická kategorizace nebo sociální skóring jsou natolik závažným zásahem do základních práv, že si vyžadují rychlejší reakci na unijní úrovni.
+
+Pokud Komise shledá vnitrostátní opatření odůvodněným (odstavec 2), vzniká povinnost všem členským státům přijmout analogická omezující opatření — jde o mechanismus „povinné koordinace" zabraňující tomu, aby nesoulad systému AI byl tolerován v jiných státech i po jeho konstatování na úrovni Unie. Naopak, je-li opatření shledáno neodůvodněným, musí je dotčený stát zrušit, čímž je zachována integrita vnitřního trhu.
+
+Odstavec 3 řeší případ, kdy je nesoulad systému AI zapříčiněn nedostatky v harmonizovaných normách nebo společných specifikacích. V takovém případě se použije postup dle nařízení (EU) č. 1025/2012 (nařízení o evropské normalizaci), jímž lze normalizačním orgánům (CEN/CENELEC, ETSI) uložit revizi nebo stažení příslušné normy. Tento mechanismus je klíčový pro zajištění kvality normalizačního rámce AI Actu v dlouhodobém horizontu.
 
 ---
 
-### Čl. 82 — ⟦NÁZEV 82⟧
+### Čl. 82 — Systémy AI ve shodě, které přesto představují riziko
 
 **Doslovné znění (EN) — Article 82 — Compliant AI systems which present a risk:**
 
@@ -292,11 +558,29 @@
 >
 > 5. The Commission shall immediately communicate its decision to the Member States concerned and to the relevant operators. It shall also inform the other Member States.
 
-⟦FILL 82⟧
+**Pracovní překlad (CZ):**
+
+> 1. Pokud orgán dozoru nad trhem členského státu po provedení hodnocení podle článku 79 a po konzultaci s příslušným vnitrostátním veřejným orgánem uvedeným v čl. 77 odst. 1 zjistí, že přestože vysoce rizikový systém AI vyhovuje tomuto nařízení, přesto představuje riziko pro zdraví nebo bezpečnost osob, pro základní práva nebo jiné aspekty ochrany veřejného zájmu, požaduje po příslušném hospodářském subjektu přijetí veškerých vhodných opatření, aby dotčený systém AI při uvádění na trh nebo do provozu toto riziko bez zbytečného odkladu již nepředstavoval, a to ve lhůtě, kterou může stanovit.
+>
+> 2. Poskytovatel nebo jiný příslušný hospodářský subjekt zajistí přijetí nápravných opatření ve vztahu ke všem dotčeným systémům AI, které zpřístupnil na trhu Unie, ve lhůtě stanovené orgánem dozoru nad trhem členského státu uvedeného v odstavci 1.
+>
+> 3. Členské státy neprodleně informují Komisi a ostatní členské státy o zjištění podle odstavce 1. Tyto informace zahrnují veškeré dostupné podrobnosti, zejména údaje nezbytné pro identifikaci dotčeného systému AI, původ a dodavatelský řetězec systému AI, povahu dotčeného rizika a povahu a dobu trvání přijatých vnitrostátních opatření.
+>
+> 4. Komise bez zbytečného odkladu zahájí konzultace s dotčenými členskými státy a příslušnými hospodářskými subjekty a vyhodnotí přijatá vnitrostátní opatření. Na základě výsledků tohoto hodnocení Komise rozhodne, zda je opatření odůvodněné, a v případě potřeby navrhne jiná vhodná opatření.
+>
+> 5. Komise svá rozhodnutí neprodleně sdělí dotčeným členským státům a příslušným hospodářským subjektům. Rovněž informuje ostatní členské státy.
+
+**Výklad:** Článek 82 upravuje paradoxní, avšak prakticky důležitou situaci: systém AI splňuje všechny požadavky AI Act (je tedy ve formální shodě a má platnou certifikaci), přesto v reálném provozu představuje riziko pro zdraví, bezpečnost, základní práva nebo veřejný zájem. Tímto ustanovením AI Act překračuje tradiční hranici produktového práva, kde formální shoda s harmonizovanými normami zpravidla zakládá nezyvratitelnou domněnku bezpečnosti.
+
+Tento přístup je analogií čl. 29 nařízení 2019/1020, který rovněž umožňuje opatření vůči výrobkům ve shodě, pokud přesto ohrožují zdraví nebo bezpečnost. AI Act tento mechanismus rozšiřuje o základní práva a jiné aspekty veřejného zájmu, čímž reflektuje specifiku systémů AI: i plně shodný systém AI může v konkrétním kontextu nasazení generovat diskriminační výsledky, posilovat systémové předsudky nebo zasahovat do soukromí způsoby, jež tvůrci požadavků nepředvídali.
+
+Podmínkou aktivace čl. 82 je povinná konzultace s orgány ochrany základních práv dle čl. 77 odst. 1: jde o procesní záruky, že hodnocení rizika pro základní práva je prováděno orgánem s příslušnou expertízou, nikoli pouze technicky zaměřeným orgánem dozoru nad trhem. Rozhodovací role Komise (odstavce 4 a 5) je zde nastavena pružněji než v čl. 81 — Komise nerozhoduje o odůvodněnosti vnitrostátního opatření s pevnou lhůtou, ale vyhodnotí je a v případě potřeby „navrhne jiná vhodná opatření", čímž si zachovává širší diskreci pro systémová řešení (např. revizi harmonizovaných norem nebo pokynů).
+
+Článek 82 je tak základem pro adaptivní regulaci: pokud praxe ukáže, že stanovené požadavky jsou nedostatečné pro určitý typ rizik, může Komise prostřednictvím tohoto mechanismu iniciovat systémové změny, aniž by musela čekat na formální revizi nařízení.
 
 ---
 
-### Čl. 83 — ⟦NÁZEV 83⟧
+### Čl. 83 — Formální nesoulad
 
 **Doslovné znění (EN) — Article 83 — Formal non-compliance:**
 
@@ -318,11 +602,37 @@
 >
 > 2. Where the non-compliance referred to in paragraph 1 persists, the market surveillance authority of the Member State concerned shall take appropriate and proportionate measures to restrict or prohibit the high-risk AI system being made available on the market or to ensure that it is recalled or withdrawn from the market without delay.
 
-⟦FILL 83⟧
+**Pracovní překlad (CZ):**
+
+> 1. Pokud orgán dozoru nad trhem členského státu učiní některé z níže uvedených zjištění, požaduje po příslušném poskytovateli, aby ukončil dotčený nesoulad ve lhůtě, kterou může stanovit:
+>
+> (a) označení CE bylo připojeno v rozporu s článkem 48;
+>
+> (b) označení CE nebylo připojeno;
+>
+> (c) EU prohlášení o shodě uvedené v článku 47 nebylo vypracováno;
+>
+> (d) EU prohlášení o shodě uvedené v článku 47 nebylo vypracováno správně;
+>
+> (e) registrace v databázi EU uvedené v článku 71 nebyla provedena;
+>
+> (f) nebyl jmenován zplnomocněný zástupce, pokud je to relevantní;
+>
+> (g) technická dokumentace není k dispozici.
+>
+> 2. Přetrvává-li nesoulad uvedený v odstavci 1, orgán dozoru nad trhem dotčeného členského státu přijme vhodná a přiměřená opatření k omezení nebo zákazu dostupnosti vysoce rizikového systému AI na trhu nebo k zajištění jeho odvolání nebo stažení z trhu bez prodlení.
+
+**Výklad:** Článek 83 zavádí zjednodušený postup pro případy formálního nesouladu — tedy situací, kdy porušení povinností je procesní nebo administrativní povahy, nikoli věcné (nesoulad se substantivními bezpečnostními nebo výkonnostními požadavky). Jde o analogii „formal non-compliance" procedur zavedených v jiných harmonizačních nařízeních (srov. čl. 46 nařízení (EU) 2017/745).
+
+Výčet případů formálního nesouladu v odstavci 1 pokrývá klíčové administrativní povinnosti poskytovatele: označení CE, EU prohlášení o shodě, registrace v databázi EU (čl. 71), jmenování zplnomocněného zástupce a dostupnost technické dokumentace. Tyto povinnosti jsou svou povahou formální — jejich nesplnění nevypovídá samo o sobě o věcném nebezpečí systému AI, ale ztěžuje nebo znemožňuje orgánům dozoru nad trhem ověřit soulad systému AI se substantivními požadavky.
+
+Procesní logika článku 83 je jednodušší než u čl. 79: orgán dozoru nad trhem nezkoumá věcný soulad systému AI s bezpečnostními požadavky, ale toliko zjistí, zda jsou splněny formální povinnosti, a v případě jejich nesplnění stanoví poskytovateli lhůtu pro nápravu. Teprve přetrvává-li nesoulad i po uplynutí lhůty (odstavec 2), může orgán přikročit k restriktivním opatřením — omezení dostupnosti, stažení nebo odvolání systému AI.
+
+Absence povinnosti informovat Komisi nebo ostatní členské státy (na rozdíl od čl. 79) odráží výlučně lokální povahu formálního nesouladu: porušení registrační povinnosti v jednom státě zpravidla nemá přímé dopady na ostatní trhy. Nicméně nepřímý přesah existuje — pokud systém AI není registrován v databázi EU, orgány jiných členských států nemohou snadno ověřit jeho existenci a klasifikaci, což může bránit přeshraniční koordinaci dozoru.
 
 ---
 
-### Čl. 84 — ⟦NÁZEV 84⟧
+### Čl. 84 — Podpůrné struktury testování AI v Unii
 
 **Doslovné znění (EN) — Article 84 — Union AI testing support structures:**
 
@@ -334,6 +644,18 @@
 >
 > Remedies
 
-⟦FILL 84⟧
+**Pracovní překlad (CZ):**
+
+> 1. Komise určí jednu nebo více podpůrných struktur testování AI v Unii, které plní úkoly uvedené v čl. 21 odst. 6 nařízení (EU) 2019/1020 v oblasti AI.
+>
+> 2. Aniž jsou dotčeny úkoly uvedené v odstavci 1, poskytují podpůrné struktury testování AI v Unii rovněž nezávislé technické nebo vědecké poradenství na žádost výboru, Komise nebo orgánů dozoru nad trhem.
+
+**Výklad:** Článek 84 uzavírá oddíl 3 a celou skupinu ustanovení o vymáhání zakotvením podpůrné infrastruktury pro technické testování systémů AI na úrovni Unie. Podpůrné struktury testování AI (Union AI testing support structures) jsou intelektuálně a technologicky specializované subjekty, jež mají v rámci vymáhání AI Act plnit roli, jakou mají v rámci obecného dozoru nad trhem dle nařízení 2019/1020 orgány určené Komisí dle čl. 21 odst. 6 tohoto nařízení.
+
+Odkaz na čl. 21 odst. 6 nařízení 2019/1020 je klíčový: toto ustanovení umožňuje Komisi určit úřední laboratoře Unie pro specifické typy výrobků, jež provádějí testování na žádost orgánů dozoru nad trhem, Komise nebo jiných stran. Přenesení tohoto modelu do oblasti AI reflektuje potřebu specializované technické kapacity: testování systémů AI — zejm. hlubokých neuronových sítí, velkých jazykových modelů nebo systémů počítačového vidění — vyžaduje jiné metodiky a infrastrukturu, než testování tradičních fyzických výrobků.
+
+Druhá funkce podpůrných struktur (odstavec 2) — poskytování nezávislého technického nebo vědeckého poradenství Radě pro AI (Board), Komisi nebo orgánům dozoru nad trhem — je zásadní pro kvalitu regulačních rozhodnutí. Nezávislost poradenství je výslovně zdůrazněna, čímž jsou tyto struktury odlišeny od poradenství komerčních subjektů nebo průmyslových konzultantů.
+
+Prakticky bude klíčové, jak Komise tuto síť struktur vybuduje: zda se opře o existující výzkumné instituce (JRC — Společné výzkumné středisko, ENISA), národní technologické instituty nebo nové specializované struktury. Model podpůrných struktur testování je analogií k rolím, jaké v jiných sektorech plní např. European Food Safety Authority (EFSA) v potravinářství nebo European Medicines Agency (EMA) v lékárenství — poskytování vědecky podloženého základu pro regulační rozhodnutí v technologicky komplexní oblasti.
 
 ---
