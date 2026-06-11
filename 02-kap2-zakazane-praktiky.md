@@ -154,4 +154,43 @@ Zákaz se liší od obecné regulace nekalých obchodních praktik (směrnice 20
 
 **Odstavec 8 — souběžnost s ostatními zákazy unijního práva.** Toto ustanovení má povahu generální kolizní klauzule: čl. 5 AI Act nezrušuje ani nevylučuje jiné unijní zákazy (např. ze základních práv zakotvených v Listině, z antimonopolního práva nebo z práva na ochranu spotřebitele). Praktika zakázaná tímto článkem je zakázána *i* pokud porušuje jiný unijní právní předpis — a naopak, praktika nezakázaná tímto článkem může být zakázána jinak. Tato klauzule zabraňuje argumentaci, že vyhovění čl. 5 AI Act zakládá presumpci legality v jiných oblastech práva.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodní společnost C, a.s. (provozovatel maloobchodního řetězce, v terminologii nařízení „zavádějící subjekt“) nasadí od března 2025 v prodejnách kamerový systém s AI modulem dodaným společností P, s.r.o. (poskytovatel). Systém (i) porovnává tváře návštěvníků s referenční databází „nežádoucích osob“, kterou P zčásti naplnil plošným stahováním snímků obličejů z veřejných profilů na sociálních sítích, a (ii) průběžně vyhodnocuje výrazy tváří zaměstnanců u pokladen pro účely hodnocení výkonu směny. Zaměstnanec Z podá stížnost u ÚOOÚ a podnět orgánu dozoru nad trhem. Důkazně je třeba obstarat: technickou dokumentaci a deklarovaný účel systému, smlouvu C–P, logy o zdrojích referenčních dat (scrapování), vnitřní předpisy o hodnocení zaměstnanců a záznamy o výstupech předávaných personálnímu oddělení.
+
+**2. Právní otázka.** Naplňuje popsané nasazení zakázané praktiky podle čl. 5 odst. 1 písm. e) (rozšiřování databáze rozpoznávání tváří necíleným scrapováním) a písm. f) (odvozování emocí na pracovišti) a dopadá zákaz současně na poskytovatele P i zavádějící subjekt C?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 5 odst. 1 písm. e) a f) nařízení (EU) 2024/1689 — absolutní zákazy, jež nelze zhojit souhlasem ani technickými opatřeními; čl. 5 odst. 8 (souběh s jinými unijními zákazy).
+- *Související ustanovení téhož nařízení:* čl. 3 (definice poskytovatele, zavádějícího subjektu, biometrických údajů a systému rozpoznávání emocí), čl. 99 odst. 3 (pokuty až 35 mil. EUR nebo 7 % celosvětového obratu za porušení čl. 5), čl. 113 odst. 1 písm. a) (použitelnost od 2. 2. 2025), čl. 2 (extrateritoriální působnost).
+- *Související předpisy:* čl. 9 GDPR (biometrické údaje jako zvláštní kategorie — scrapování bez právního základu je souběžným porušením), čl. 88 GDPR a § 316 zákoníku práce (monitoring zaměstnanců).
+- *Judikatura:* rozhodovací praxe evropských dozorových úřadů ke kauze Clearview AI (pokuty francouzské CNIL, italského Garante i řeckého úřadu) — nosný závěr: plošné stahování snímků obličejů z internetu pro biometrickou identifikaci nemá právní základ podle čl. 6 a 9 GDPR; dále judikatura SDEU k testu přísné nezbytnosti zásahů do čl. 7 a 8 Listiny základních práv EU.
+
+**4. Subsumpce.** Znak „necíleného scrapování“ (písm. e) je naplněn: databáze byla rozšiřována plošným stahováním snímků bez vztahu ke konkrétním osobám; nerozhodné je, že část databáze pochází z legálních interních záznamů — zakázáno je již samotné „rozšiřování“. Znak písm. f) je u zaměstnanců naplněn: prodejna je pracovištěm, hodnocení výkonu není lékařský ani bezpečnostní důvod a mocenský nepoměr (srov. výklad výše a recitál 44) vylučuje dobrovolné podrobení. Sporné zůstává, zda systém odvozuje „emoce“, anebo jen fyziologický stav (únava, pozornost), a rozdělení odpovědnosti: zákaz dopadá samostatně na uvedení na trh (P) i na používání (C) — jde o kumulativně postižitelná jednání.
+
+**5. Řešení.** Obě funkce jsou zakázanými praktikami: C musí jejich užívání okamžitě ukončit, P je nesmí dále dodávat; nápravou je výmaz scrapovaných dat a doložení auditní stopy dozorovým orgánům. Hrozí pokuta podle čl. 99 odst. 3 AI Actu a souběžně podle čl. 83 odst. 5 GDPR (odst. 8 — kumulace režimů). Riziko alternativního výkladu: obrana, že systém měří jen „pozornost“, nikoli emoce — proto je klíčový znalecký popis skutečné funkce modelu, nikoli marketingová deklarace.
+
+**6. Varianty.** (1) Sloužila-li by analýza výrazů výlučně detekci mikrospánku řidičů skladové techniky, uplatní se bezpečnostní výjimka písm. f) a praktika zakázána není — rozhodný je skutečný, doložitelný účel. (2) Vznikla-li by referenční databáze výhradně cíleným vložením snímků konkrétních osob přistižených při krádeži z vlastních CCTV záznamů, nejde o „necílené scrapování“ dle písm. e); legalita by se pak posuzovala podle GDPR a režimu vysokorizikových systémů (kapitola III).
+
+#### G. Protiargumenty a rizika
+
+- *„Dotčené osoby byly informovány a zaměstnanci udělili souhlas.“* — Neutralizace: zákazy čl. 5 jsou konstruovány absolutně; souhlas ani transparentnost nejsou liberačním důvodem (na rozdíl od režimu GDPR) a mocenský nepoměr na pracovišti validní souhlas fakticky vylučuje.
+- *„Výstup systému jen podporuje lidské rozhodování.“* — Neutralizace: lidský mezičlánek je relevantní pouze u písm. d) (podpora lidského posouzení založeného na objektivních a ověřitelných skutečnostech), nikoli u písm. e) a f), kde je zakázáno již vytváření/rozšiřování databáze, resp. samotné odvozování emocí.
+- *„Scrapování provedl dodavatel ze třetí země mimo EU.“* — Neutralizace: čl. 5 postihuje kumulativně uvedení na trh, uvedení do provozu i používání a působnost nařízení (čl. 2) dopadá i na poskytovatele ze třetích zemí, jejichž systémy se užívají v Unii.
+- Slabá místa: k čl. 5 dosud neexistuje judikatura SDEU; hranice mezi „emocemi“ a fyziologickými stavy i rozsah výjimek u písm. g) jsou nevyjasněné — pokyny Komise k zakázaným praktikám (únor 2025) nejsou právně závazné a argumentaci je třeba opřít primárně o text a recitály.
+
+#### H. Praktický závěr
+
+Čl. 5 je uzavřený katalog absolutních zákazů s restriktivně vykládanými výjimkami, použitelný od 2. 2. 2025 a vynucovaný nejvyšší sazbou pokut (čl. 99 odst. 3). Každé zamýšlené nasazení systému AI pracujícího s chováním, zranitelností, skórováním, biometrikou nebo emocemi osob musí projít předřazeným „screeningem čl. 5“ — teprve poté má smysl klasifikace podle rizikových kategorií. Výjimku pro biometrickou identifikaci na dálku v reálném čase (písm. h) nelze v ČR využít, dokud nebude přijata vnitrostátní prováděcí úprava podle odst. 5; do té doby platí de facto absolutní zákaz.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Porovnal jsem všechny funkce systému s osmi skutkovými podstatami čl. 5 odst. 1 písm. a)–h)?
+- [ ] U písm. a) a b): je dáno znatelné oslabení informovaného rozhodnutí a hrozba „významné újmy“?
+- [ ] U písm. c): přenáší se skóre mimo původní kontext dat, nebo je důsledek neproporcionální sociálnímu chování?
+- [ ] U písm. e), g) a h): pochází biometrická databáze z cíleného a zákonného sběru; u identifikace v reálném čase existuje vnitrostátní úprava (odst. 5), předchozí povolení soudu či nezávislého orgánu (odst. 3), FRIA (čl. 27) a registrace v databázi EU (čl. 49)?
+- [ ] U písm. f): jde o pracoviště či vzdělávací zařízení a lze doložit skutečný lékařský nebo bezpečnostní účel?
+- [ ] Ověřil jsem souběžné povinnosti podle GDPR/LED — soulad s čl. 5 nezakládá presumpci legality (odst. 8)?
+
+**Typicky rozhodné důkazy / podklady:** technická dokumentace a deklarovaný účel systému, smlouva poskytovatel–zavádějící subjekt, logy zdrojů trénovacích a referenčních dat, vnitřní směrnice k nasazení, záznamy výstupů systému a navazujících rozhodnutí, DPIA/FRIA, povolení soudního či nezávislého správního orgánu (písm. h), korespondence s dozorovými orgány.
+
 ---

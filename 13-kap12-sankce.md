@@ -138,6 +138,44 @@ Kritéria pro stanovení výše pokuty (odst. 7) jsou materiálně shodná s kri
 
 Procesní záruky (odst. 10) zahrnují právo na účinný soudní přezkum a právo na řádný proces. Odstavec 9 výslovně připouští, aby pokuty ukládaly soudy namísto správních orgánů — jde o ústupek členským státům s tradičním soudním modelem správního trestání (např. systémy common law). Podmínkou je rovnocenný účinek, tedy faktická ekvivalence sankcí bez ohledu na procesní architekturu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Česká technologická společnost RecruitTech s.r.o. (45 zaměstnanců, celkový celosvětový roční obrat cca 4 mil. EUR — tedy MSP) jako provider uvádí na unijní trh systém AI pro automatizovaný předvýběr uchazečů o zaměstnání (vysokorizikový systém dle přílohy III bodu 4). Orgán dozoru nad trhem při kontrole zjistí, že: (i) systém byl uveden na trh bez systému řízení kvality, technické dokumentace a posouzení shody (porušení povinností providera podle čl. 16); (ii) konverzační rozhraní neinformuje uchazeče, že komunikují se systémem AI (porušení čl. 50); (iii) společnost v odpovědi na žádost orgánu předložila vědomě zkreslený přehled trénovacích dat. Důkazy k obstarání: kontrolní protokol, technická dokumentace (resp. doklad o její absenci), EU prohlášení o shodě, snímky uživatelského rozhraní, korespondence s orgánem, interní e-maily prokazující vědomé zkreslení, účetní závěrka k určení obratu a statusu MSP.
+
+**2. Právní otázka.** Do kterého pokutového pásma čl. 99 spadají jednotlivá porušení a jak se u MSP uplatní limitační pravidlo odst. 6, ukládá-li se pokuta za souběh více porušení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 99 odst. 4 písm. a) a g), odst. 5, odst. 6 (MSP limit) a odst. 7 (kritéria výměry) AI Actu.
+- *Související ustanovení téhož nařízení:* čl. 16 (povinnosti providerů), čl. 50 (transparentnost), čl. 5 (vymezení nejvyššího pásma dle odst. 3), čl. 96 (pokyny Komise, k nimž se při vymáhání přihlíží).
+- *Související předpisy:* vnitrostátní adaptační předpis a zákon č. 250/2016 Sb., o odpovědnosti za přestupky (procesní rámec správního trestání); čl. 83 GDPR jako interpretační vzor; čl. 50 Listiny základních práv EU (ne bis in idem).
+- *Judikatura:* SDEU, rozsudek ve věci C-807/21 Deutsche Wohnen (k čl. 83 GDPR): správní pokutu podniku lze uložit jen za zaviněné porušení, přičemž postačuje, že si podnik nemohl být nevědom protiprávnosti svého jednání; pojem „podnik" a obrat se posuzují ve smyslu čl. 101 a 102 SFEU (hospodářská jednotka). Dále SDEU, rozsudek C-117/20 bpost, k podmínkám přípustné kumulace sankčních řízení za týž skutek.
+
+**4. Subsumpce.** Porušení čl. 16 naplňuje skutkovou podstatu odst. 4 písm. a), porušení čl. 50 podstatu odst. 4 písm. g) — obě ve středním pásmu (15 mil. EUR / 3 % obratu). Zkreslené informace poskytnuté orgánu spadají pod odst. 5 (7,5 mil. EUR / 1 %). Společnost je MSP, proto se dle odst. 6 pro každou pokutu uplatní nižší z obou hranic: při obratu 4 mil. EUR činí strop 3 % = 120 000 EUR (odst. 4), resp. 1 % = 40 000 EUR (odst. 5), neboť procentní hranice je zde nižší než absolutní částka. Nesporné je postavení providera, vysokorizikovost systému a objektivní porušení; sporné zůstává, zda zkreslení informací bylo úmyslné (odst. 7 písm. i) a zda porušení čl. 16 a čl. 50 tvoří jeden skutek, či vícečinný souběh.
+
+**5. Řešení.** Orgán uloží pokutu v řízení podle vnitrostátního procesního práva (odst. 1 a 9), výměru určí podle kritérií odst. 7: krátká doba porušení, omezený počet dotčených uchazečů a dosavadní bezúhonnost působí polehčujícím směrem, vědomé zkreslení informací přitěžuje (odst. 7 písm. e) a i)). Prakticky lze očekávat pokutu v řádu desítek tisíc EUR pod MSP stropem, kombinovanou s nápravnými opatřeními (zavedení QMS, dodatečné posouzení shody, doplnění informační povinnosti dle čl. 50). Proti rozhodnutí náleží účinný soudní přezkum (odst. 10). Riziko: orgán může zkreslení informací posoudit jako samostatný skutek a uložit pokutu podle odst. 5 vedle pokuty podle odst. 4.
+
+**6. Varianty.** (i) Kdyby systém využíval manipulativní podprahové techniky nebo rozpoznávání emocí na pracovišti (čl. 5), uplatnilo by se nejvyšší pásmo odst. 3 (35 mil. EUR / 7 %) — i pro MSP s citelně vyšším stropem. (ii) Kdyby společnost porušení sama oznámila, plně spolupracovala a zjednala nápravu, odůvodňovala by kritéria odst. 7 písm. f) a h) uložení pouhého varování či jiného nefinančního opatření ve smyslu odst. 1.
+
+#### G. Protiargumenty a rizika
+
+- *Absence zavinění jako podmínky pokuty:* obviněný může namítat, že bez zavinění pokutu uložit nelze; čl. 99 zavinění výslovně nepodmiňuje (na rozdíl od čl. 101) a zohledňuje je jen při výměře (odst. 7 písm. i). Neutralizace: per analogiam Deutsche Wohnen lze požadavek zavinění dovodit, avšak u profesionála v regulovaném odvětví bude alespoň nedbalost dána téměř vždy.
+- *Ne bis in idem:* souběžná pokuta dozorového úřadu podle GDPR za totéž zpracování dat uchazečů. Neutralizace: odst. 7 písm. b) a c) přikazuje souběžné sankce zohlednit; kumulace řízení je dle judikatury bpost přípustná jen při dostatečně úzké věcné a časové koordinaci a celkové proporcionalitě úhrnu sankcí.
+- *Slabá místa:* do přijetí českého adaptačního zákona panuje nejistota o příslušném orgánu i procesním režimu; judikatura k AI Actu dosud neexistuje, výměra se proto bude opírat o analogii s praxí podle GDPR a o pokyny Komise (čl. 96).
+
+#### H. Praktický závěr
+
+Čl. 99 funguje jako rámcová sankční norma: skutkové podstaty a stropy stanoví nařízení, proceduru a příslušný orgán členský stát. Provozovatel musí každé potenciální porušení nejprve zařadit do správného pásma (odst. 3 / 4 / 5), poté vypočítat obě alternativní hranice z celosvětového obratu podniku (hospodářské jednotky) a u MSP uplatnit nižší z nich (odst. 6); konkrétní výměra se řídí katalogem odst. 7.
+
+**Checklist (advokát / správní orgán / provozovatel):**
+- [ ] Kvalifikace porušeného ustanovení a přiřazení k pásmu odst. 3, 4, nebo 5.
+- [ ] Určení „podniku" a jeho celkového celosvětového obratu za předchozí hospodářský rok; doložení statusu MSP/start-upu.
+- [ ] Výpočet obou hranic (absolutní/procentní) a volba správné z nich (vyšší; u MSP nižší).
+- [ ] Zmapování kritérií odst. 7 (závažnost, délka, spolupráce, sebeoznámení, zavinění, mitigace) a jejich důkazní podložení.
+- [ ] Prověření souběžných řízení (jiné orgány dozoru nad trhem, GDPR) — ne bis in idem.
+- [ ] Využití procesních záruk: vyjádření v řízení, opravné prostředky, soudní přezkum (odst. 10).
+
+**Typicky rozhodné důkazy / podklady:** účetní závěrka a konsolidovaný obrat skupiny, technická dokumentace a EU prohlášení o shodě, kontrolní protokoly, korespondence s orgánem dozoru, interní compliance záznamy, doklady o nápravných opatřeních a o případném sebeoznámení.
+
 ---
 
 ### Čl. 100 — Správní pokuty ukládané orgánům, institucím a jiným subjektům Unie
@@ -210,6 +248,44 @@ Kritéria pro stanovení výše pokuty (odst. 1) jsou přiměřeně modifikován
 
 Procesní záruky (odst. 4–5) — právo být vyslechnut, přístup ke spisu, plná práva na obhajobu — jsou plně srovnatelné s požadavky čl. 41 Listiny základních práv EU (právo na řádnou správu) a s obecnými procesními principy práva EU. Zvláštní zmínka o přidružení stěžovatelů k řízení (odst. 4 in fine) navazuje na tradici EIOÚ v řízeních o ochraně osobních údajů, kde je stěžovatel účastníkem se zvláštním procesním statusem. Výnos z pokut plyne do souhrnného rozpočtu Unie (odst. 6) — stejně jako v čl. 83 odst. 8 GDPR — čímž se vylučuje, aby byl EIOÚ finančně motivován k ukládání vysokých pokut.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Agentura Unie zavede do výběrových řízení na svá pracovní místa systém AI, který z videozáznamů pohovorů analyzuje mimiku a hlas uchazečů a odvozuje z nich jejich emoce (nervozitu, míru upřímnosti). Jde o rozpoznávání emocí v souvislosti s pracovištěm, tedy o praktiku zakázanou čl. 5 odst. 1 písm. f) AI Actu. Neúspěšný uchazeč podá stížnost evropskému inspektorovi ochrany údajů (EIOÚ). Agentura namítá, že šlo o pilotní projekt s omezeným počtem dotčených osob a že výstupy systému nebyly pro výběr rozhodující. Důkazy: zadávací a smluvní dokumentace k systému, interní metodika výběrových řízení, záznamy o zpracování a počtu dotčených uchazečů, vyjádření agentury, případná dřívější opatření EIOÚ vůči agentuře v téže věci.
+
+**2. Právní otázka.** Může EIOÚ uložit agentuře Unie správní pokutu podle čl. 100 odst. 2 za nasazení zakázané praktiky a jak se při výměře uplatní kritéria odst. 1, zejména roční rozpočet agentury?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 100 odst. 1 (kritéria výměry), odst. 2 (strop 1 500 000 EUR za porušení čl. 5), odst. 4–5 (procesní záruky), odst. 6 (určení výnosu, zákaz narušení fungování).
+- *Související ustanovení téhož nařízení:* čl. 5 odst. 1 písm. f) (zákaz rozpoznávání emocí na pracovišti), čl. 2 (působnost vůči orgánům Unie), čl. 99 (paralelní režim pro ostatní provozovatele jako srovnávací měřítko).
+- *Související předpisy:* nařízení (EU) 2018/1725 (dozor EIOÚ nad unijními institucemi — institucionální základ jeho příslušnosti), čl. 41 Listiny základních práv EU (právo na řádnou správu), čl. 263 SFEU (žaloba na neplatnost rozhodnutí EIOÚ).
+- *Judikatura:* ustálená judikatura SDEU k právům obhajoby v sankčních řízeních vedených unijními orgány — rozhodnutí smí být založeno jen na skutečnostech, k nimž se dotčený mohl vyjádřit, a přístup ke spisu je podmínkou zákonnosti rozhodnutí (zásady rozvinuté v soutěžních věcech, jež odst. 4 a 5 výslovně kodifikují).
+
+**4. Subsumpce.** Agentura je „agenturou Unie" v působnosti nařízení (odst. 1); analýza emocí uchazečů ve výběrovém řízení spadá pod zakázané rozpoznávání emocí na pracovišti, které pokrývá i přístup k zaměstnání; výjimka ze zdravotních či bezpečnostních důvodů zjevně naplněna není. Skutková podstata odst. 2 je tedy dána. Pilotní povaha, omezený počet dotčených a nerozhodující váha výstupů nejsou liberačními důvody — uplatní se pouze při výměře dle odst. 1 písm. a), c) a g). Sporná může být míra, v jaké agentura porušení sama oznámila (písm. f), a dosah dřívějších opatření EIOÚ v téže věci (písm. d).
+
+**5. Řešení.** EIOÚ zahájí řízení, sdělí agentuře výhrady a umožní jí vyjádřit se; stěžovatele úzce přidruží k řízení (odst. 4). Po zpřístupnění spisu (odst. 5) rozhodne o pokutě do 1 500 000 EUR; při pilotním rozsahu, rychlém ukončení praktiky a spolupráci lze očekávat výměru při dolní hranici, vždy však tak, aby pokuta nenarušila účinné fungování agentury (odst. 6). Výnos plyne do souhrnného rozpočtu Unie. Agentura se může bránit žalobou na neplatnost u Tribunálu (čl. 263 SFEU). Praktické kroky agentury: okamžité ukončení praktiky, výmaz výstupů, informování dotčených uchazečů a doložení mitigace (odst. 1 písm. c)).
+
+**6. Varianty.** (i) Kdyby systém nebyl zakázanou praktikou, nýbrž vysokorizikovým systémem nasazeným bez lidského dohledu či monitoringu, šlo by o nesoulad s „jinými" požadavky se stropem 750 000 EUR podle odst. 3. (ii) Kdyby agentura porušení sama oznámila EIOÚ, praktiku ihned zastavila a vyhověla dřívějším opatřením, kritéria odst. 1 písm. d) a f) by odůvodňovala upuštění od pokuty nebo její symbolickou výši.
+
+#### G. Protiargumenty a rizika
+
+- *Cirkularita sankce:* pokuta placená z rozpočtu Unie do rozpočtu Unie postrádá reálný odrazující účinek. Neutralizace: sankce působí především reputačně a skrze odpovědnost vedení instituce; odst. 6 zároveň vědomě tlumí represivní funkci zákazem narušení fungování sankcionovaného subjektu — primárním cílem je náprava, nikoli odčerpání prostředků.
+- *Kompetenční námitka:* EIOÚ je primárně orgánem ochrany osobních údajů, nikoli obecným regulátorem AI; u systémů bez vazby na osobní údaje lze namítat překročení jeho odborného mandátu. Neutralizace: čl. 100 zakládá výslovnou sankční pravomoc bez omezení na zpracování osobních údajů; koordinaci s Úřadem pro AI je třeba řešit výkladem, nikoli popřením pravomoci.
+- *Slabá místa:* čl. 100 neupravuje promlčení ani podrobný procesní postup (na rozdíl od prováděcích aktů předvídaných v čl. 101 odst. 6); chybí judikatura k sankcionování unijních institucí v režimu AI Actu, výměra je proto obtížně predikovatelná.
+
+#### H. Praktický závěr
+
+Čl. 100 podrobuje orgány, instituce, úřady a agentury Unie sankčnímu režimu zrcadlícímu čl. 99, avšak s podstatně nižšími stropy (1,5 mil. / 0,75 mil. EUR), s kritériem ročního rozpočtu namísto obratu a s plnými právy obhajoby před EIOÚ. Unijní subjekty se nemohou dovolávat své veřejnoprávní povahy; rozhodující je prevence — inventura nasazených systémů AI a důsledné vyloučení praktik čl. 5.
+
+**Checklist (unijní orgán / EIOÚ / stěžovatel):**
+- [ ] Inventura systémů AI v organizaci a jejich klasifikace (zakázané / vysokorizikové / ostatní).
+- [ ] Prověření, že žádný systém nenaplňuje praktiky čl. 5 (zejm. rozpoznávání emocí na pracovišti, biometrická kategorizace).
+- [ ] Dokumentace technických a organizačních opatření (odst. 1 písm. b)).
+- [ ] Při zjištění porušení: okamžitá mitigace, oznámení EIOÚ, spolupráce a plnění dříve uložených opatření (odst. 1 písm. c), d), f)).
+- [ ] V řízení: vyjádření k výhradám, žádost o přístup ke spisu, ochrana osobních údajů a obchodního tajemství třetích osob.
+- [ ] Zvážení žaloby na neplatnost rozhodnutí o pokutě (čl. 263 SFEU).
+
+**Typicky rozhodné důkazy / podklady:** dokumentace k pořízení a nasazení systému, záznamy o zpracování a počtu dotčených osob, interní směrnice a metodiky, korespondence s EIOÚ, doklady o mitigaci a ukončení praktiky, rozpočtové podklady agentury (odst. 1 písm. g)).
+
 ---
 
 ### Čl. 101 — Pokuty pro poskytovatele obecných modelů AI
@@ -271,5 +347,43 @@ Výše pokuty (až 3 % celkového celosvětového ročního obratu nebo 15 000 0
 Procesní záruky jsou dvoustupňové: za prvé právo být vyslechnut k předběžným zjištěním Komise (odst. 2), za druhé přezkum Soudního dvora s neomezenou jurisdikcí (odst. 5). Neomezená jurisdikce (unlimited jurisdiction, pleine juridiction, unbegrenzte Nachprüfungsbefugnis) znamená, že SDEU může pokutu nejen zrušit pro nezákonnost, ale může ji také snížit nebo — k návrhu Komise nebo ex officio — zvýšit; jde o výjimku z obecně kasačního charakteru soudního přezkumu aktů EU. Tato konstrukce je převzata doslova z unijního soutěžního práva (čl. 31 nařízení č. 1/2003) a potvrzuje, že zákonodárce chápe vymáhání pravidel pro GPAI modely jako regulaci srovnatelnou systémovým významem s ochranou hospodářské soutěže.
 
 Prováděcí akty podle odst. 6, přijímané přezkumným postupem (examination procedure, čl. 5 nařízení č. 182/2011), upraví procesní pravidla řízení v podrobnostech — lhůty, přístup ke spisu, zastoupení, jednací jazyk. Do jejich přijetí se bude pravděpodobně subsidiárně vycházet z obecných procesních zásad unijního správního práva a z analogie s prováděcím nařízením k soutěžnímu právu. Informování Rady (Rady AI, odst. 4) zajišťuje koordinaci s dohledovým systémem AI Actu pro případ, kdy uložení pokuty může mít systémový dopad na trh s obecnými modely AI.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Globální poskytovatel obecného modelu AI se systémovým rizikem (celosvětový roční obrat 30 mld. EUR) obdrží od Komise žádost o informace podle čl. 91 (dokumentace trénovacích dat a výsledků hodnocení modelu). Odpoví neúplně a část údajů o zdrojích dat vědomě zkreslí; následně odmítne umožnit přístup k modelu za účelem hodnocení podle čl. 92 a nesplní opatření ke zmírnění systémových rizik vyžádané podle čl. 93. Komise zahájí řízení podle čl. 101. Důkazy: žádosti Komise a odpovědi poskytovatele, technická dokumentace modelu, záznamy o (ne)zpřístupnění modelu, interní komunikace poskytovatele, údaje o obratu skupiny, případné závazky přijaté v rámci kodexu praxe (čl. 56).
+
+**2. Právní otázka.** Jsou naplněny podmínky pro uložení pokuty Komisí podle čl. 101 odst. 1 — zejména subjektivní stránka (úmysl či nedbalost) — a jak se stanoví výše pokuty u poskytovatele s vysokým obratem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 101 odst. 1 písm. b), c) a d) (skutkové podstaty), odst. 2 (právo být vyslechnut), odst. 5 (neomezená jurisdikce SDEU), odst. 6 (prováděcí akty k řízení).
+- *Související ustanovení téhož nařízení:* čl. 91 (žádosti o informace), čl. 92 (hodnocení modelu), čl. 93 (opatření), čl. 55–56 (povinnosti poskytovatelů GPAI se systémovým rizikem, kodexy praxe), čl. 99 odst. 5 (paralelní podstata ve vnitrostátním režimu).
+- *Související předpisy:* nařízení (ES) č. 1/2003, čl. 23 a 31 (předobraz sankčního mechanismu ze soutěžního práva), čl. 261 SFEU (základ svěření neomezené jurisdikce).
+- *Judikatura:* ustálená judikatura SDEU k pokutám v soutěžním právu: nedbalost postačuje, jestliže si podnik nemohl být nevědom protiprávní povahy svého jednání; k neomezené jurisdikci rozsudky SDEU ve věcech KME a Chalkor — unijní soud musí provést úplný přezkum právních i skutkových otázek a vlastní posouzení přiměřenosti pokuty, nikoli pouze kontrolu zjevného excesu Komise.
+
+**4. Subsumpce.** Poskytovatel je providerem obecného modelu AI se systémovým rizikem, tedy adresátem pravomoci Komise. Neúplné a zkreslené odpovědi na žádost podle čl. 91 naplňují odst. 1 písm. b); odepření přístupu k modelu pro hodnocení podle čl. 92 písm. d); nesplnění vyžádaného opatření podle čl. 93 písm. c). Subjektivní stránka: poskytovatel znal obsah žádostí i rozsah svých povinností a byl opakovaně vyzván — přinejmenším nedbalost je prokazatelná, u vědomého zkreslení úmysl. Sporný zůstává rozsah neurčité podstaty písm. a) („příslušná ustanovení") — zde však není třeba ji aktivovat, postačí specifické podstaty písm. b)–d) — a otázka, zda se tři podstaty sankcionují jedinou úhrnnou pokutou, či samostatně.
+
+**5. Řešení.** Komise sdělí poskytovateli předběžná zjištění a poskytne mu příležitost vyjádřit se (odst. 2). Strop pokuty činí vyšší z hodnot 15 mil. EUR a 3 % celosvětového obratu — zde 900 mil. EUR; konkrétní výměra musí respektovat zásady proporcionality a přiměřenosti, povahu, závažnost a délku porušení a zohlednit případné závazky podle čl. 93 odst. 3 či z kodexu praxe (odst. 1 in fine). Reálně lze očekávat pokutu výrazně pod stropem, avšak citelnou vzhledem k obstrukční povaze jednání; informace o ní se sdělí Radě AI (odst. 4). Poskytovatel může podat žalobu k SDEU, který v režimu neomezené jurisdikce může pokutu zrušit, snížit, ale i zvýšit (odst. 5) — to je nutno vážit při procesní strategii. Do přijetí prováděcích aktů podle odst. 6 je namístě dovolávat se obecných procesních zásad unijního práva a analogie se soutěžním řízením.
+
+**6. Varianty.** (i) Kdyby poskytovatel po sdělení předběžných zjištění model zpřístupnil, informace doplnil a přijal závazky podle čl. 93 odst. 3, Komise by k tomu musela přihlédnout — výsledkem by bylo podstatné snížení pokuty, případně upuštění od ní. (ii) Kdyby zkreslené informace byly poskytnuty nikoli Komisi, nýbrž vnitrostátnímu orgánu dohledu ve vztahu k vysokorizikovému systému téhož subjektu, uplatnil by se režim čl. 99 odst. 5 (strop 7,5 mil. EUR / 1 %) a příslušný by byl vnitrostátní orgán, nikoli Komise.
+
+#### G. Protiargumenty a rizika
+
+- *Neurčitost podstaty písm. a):* postih za „porušení příslušných ustanovení tohoto nařízení" lze napadat pro rozpor se zásadou určitosti trestních norem (čl. 49 Listiny základních práv EU). Neutralizace: okruh povinností dostatečně konkretizuje výklad ve spojení s kapitolou V (čl. 53–55); v pochybnostech se Komise opře o specifické podstaty písm. b)–d).
+- *Souběh s režimem čl. 99:* tentýž subjekt může být zároveň providerem vysokorizikového systému postihovaným vnitrostátně — hrozí dvojí postih za týž skutek. Neutralizace: oddělení skutků (model vs. konkrétní systém; adresát informací Komise vs. vnitrostátní orgán) a korektiv ne bis in idem (čl. 50 Listiny EU).
+- *Slabá místa:* řízení v podrobnostech (lhůty, přístup ke spisu, jednací jazyk) teprve konkretizují prováděcí akty podle odst. 6 — do jejich přijetí panuje procesní nejistota; text odst. 1 obsahuje zjevné legislativní nedostatky („The Commission shall also into account"), které je nutno překlenout teleologickým výkladem; možnost zvýšení pokuty soudem (reformatio in peius v rámci neomezené jurisdikce) komplikuje rozhodování o podání žaloby.
+
+#### H. Praktický závěr
+
+Čl. 101 centralizuje vymáhání povinností poskytovatelů obecných modelů AI u Komise podle vzoru soutěžního práva: podmínkou pokuty je zavinění (úmysl či nedbalost), strop činí vyšší z hodnot 3 % celosvětového obratu / 15 mil. EUR a soudní přezkum probíhá v režimu neomezené jurisdikce SDEU. Pro poskytovatele je klíčová řádná, úplná a doložitelná komunikace s Komisí — informační a obstrukční delikty (písm. b)–d)) budou v praxi nejsnáze prokazatelné.
+
+**Checklist (poskytovatel GPAI / advokát / Komise):**
+- [ ] Evidence všech žádostí Komise podle čl. 91 a kontrola úplnosti a správnosti odpovědí před odesláním.
+- [ ] Protokolace zpřístupnění modelu k hodnocení podle čl. 92 (rozsah, podmínky, důvěrnost).
+- [ ] Plnění opatření podle čl. 93 a dokumentace přijatých závazků (čl. 93 odst. 3).
+- [ ] Účast na kodexu praxe (čl. 56) a doložení plnění závazků jako polehčující okolnosti.
+- [ ] V řízení: vyjádření k předběžným zjištěním, uplatnění práv obhajoby, posouzení rizika zvýšení pokuty soudem před podáním žaloby.
+- [ ] Sledování prováděcích aktů podle odst. 6 (procesní pravidla řízení před Komisí).
+
+**Typicky rozhodné důkazy / podklady:** korespondence s Komisí a Úřadem pro AI, technická dokumentace modelu a záznamy o hodnoceních, doklady o celosvětovém obratu skupiny, interní komunikace k vyřizování žádostí, závazky z kodexů praxe a podle čl. 93 odst. 3.
 
 ---

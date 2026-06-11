@@ -60,6 +60,42 @@ Odst. 2 strukturuje obsah nařízení do sedmi tematických celků. Tato struktu
 
 Výčet v odst. 2 není taxativní v tom smyslu, že by vylučoval ostatní pravidla obsažená v nařízení, ale označuje jeho hlavní regulatorní osy. Propojení s Listinou základních práv EU — výslovně zmíněnou v odst. 1 — signalizuje, že AI Act je chápán jako instrument ochrany základních práv, nikoli jen jako technické harmonizační nařízení. Tato charakteristika má důsledky pro výklad: při pochybnostech o rozsahu povinností je třeba přihlížet k cílům ochrany práv zakotvených v Listině (recitál 9).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ministerstvo práce a sociálních věcí připraví návrh zákona, který by všem zaměstnavatelům v ČR zakázal používat AI systémy k předvýběru uchazečů o zaměstnání bez předchozího povolení inspekce práce — nad rámec požadavků AI Actu. Asociace poskytovatelů HR technologií (poskytovatelé ve smyslu čl. 3 bodu 3) namítá, že návrh zasahuje do oblasti plně harmonizované nařízením, jehož účelem je dle čl. 1 odst. 1 právě zlepšení fungování vnitřního trhu. Právně významné skutečnosti: AI systémy pro nábor jsou vysoce rizikové (příloha III bod 4) a jejich uvádění na trh i používání upravuje AI Act harmonizovaně (čl. 1 odst. 2 písm. a) a c)). Důkazy: text návrhu, srovnávací tabulka překryvu s požadavky kapitoly III AI Actu, notifikační dokumentace, stanovisko Komise.
+
+**2. Právní otázka.** Brání harmonizační povaha AI Actu vyjádřená v čl. 1 odst. 2 členskému státu, aby pro uvádění na trh a používání AI systémů stanovil dodatečné vnitrostátní požadavky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 1 AI Actu — dvojí souřadný cíl (vnitřní trh + vysoká ochrana základních práv) a výčet sedmi harmonizovaných regulatorních os.
+- *Související ustanovení téhož předpisu:* čl. 2 odst. 11 (výslovná výjimka pro pravidla příznivější pro pracovníky), čl. 6 a příloha III (klasifikace vysoce rizikových systémů), recitály 1, 2 a 9.
+- *Související předpisy:* čl. 114 SFEU (kompetenční titul — sbližování předpisů pro vnitřní trh); paralela s GDPR, jež se o čl. 114 SFEU opírá rovněž.
+- *Judikatura:* SDEU k mezím a účinkům harmonizace dle čl. 114 SFEU — z rozsudku C-376/98 Německo v. Parlament a Rada (Tobacco Advertising) plyne, že harmonizační opatření musí skutečně zlepšovat podmínky vnitřního trhu; z ustálené judikatury dále plyne, že v plně harmonizované oblasti nesmí členský stát přijímat odchylná pravidla, ledaže to harmonizační akt výslovně připouští.
+
+**4. Subsumpce.** Návrh dopadá na používání AI systémů, tedy na oblast výslovně pokrytou čl. 1 odst. 2 písm. a) a c) ve spojení s kapitolou III; podmínka zásahu do harmonizované oblasti je splněna. Sporné je, zda se uplatní výjimka čl. 2 odst. 11: návrh materiálně chrání uchazeče a zaměstnance v pracovním kontextu, takže může jít o pravidlo „příznivější pro pracovníky", které nařízení výslovně dovoluje.
+
+**5. Řešení.** Obecné vnitrostátní zpřísnění požadavků na AI systémy v harmonizované oblasti je nepřípustné (přednost a přímá použitelnost nařízení). Je-li však opatření konstruováno úzce jako ochrana práv pracovníků při používání AI zaměstnavateli, kryje je výjimka čl. 2 odst. 11. Návrh by proto měl být formulován jako povinnosti zaměstnavatelů vůči zaměstnancům a uchazečům, nikoli jako obecná regulace uvádění systémů na trh. Procesně: notifikace Komisi (směrnice (EU) 2015/1535) a konzultace souladu s Úřadem pro AI.
+
+**6. Varianty.** (a) Reguloval-li by návrh AI výhradně pro účely národní bezpečnosti, AI Act se vůbec nepoužije (čl. 2 odst. 3) a členský stát má volnost. (b) Šlo-li by jen o určení dozorových orgánů a procesních pravidel, nejde o odchylku od harmonizace, ale o dovolené vnitrostátní provedení nařízení.
+
+#### G. Protiargumenty a rizika
+
+- *„AI Act je jen minimální standard ochrany práv."* Neutralizace: znění čl. 1 odst. 2 („harmonised rules") i recitály 1 a 2 deklarují plnou harmonizaci uvádění na trh a používání; výjimky (zejm. čl. 2 odst. 11) jsou výslovné — a contrario jiný prostor pro odchylky není.
+- *„Cíl ochrany základních práv v čl. 1 odst. 1 opravňuje státy k přísnější ochraně."* Neutralizace: ochrana práv je cílem samotného nařízení, jež právě sjednocením pravidel brání fragmentaci vnitřního trhu; vyšší vnitrostátní ochrana je možná jen tam, kde ji nařízení výslovně připouští.
+- Slabé místo: k AI Actu dosud neexistuje judikatura SDEU; míru „úplnosti" harmonizace u jednotlivých institutů bude nutno dovodit až z řízení o předběžných otázkách.
+
+#### H. Praktický závěr
+
+Čl. 1 slouží především jako interpretační směrnice: při pochybnostech o rozsahu povinností je třeba nařízení vykládat ve světle dvojího cíle (fungování vnitřního trhu + vysoká ochrana práv dle Listiny) a přístupu založeného na riziku. Odchylná vnitrostátní pravidla v harmonizované oblasti jsou přípustná jen na základě výslovné výjimky.
+
+**Checklist (advokát / správní orgán / normotvůrce):**
+- [ ] Spadá posuzovaná otázka do některé ze sedmi regulatorních os čl. 1 odst. 2?
+- [ ] Existuje výslovná výjimka umožňující vnitrostátní odchylku (zejm. čl. 2 odst. 11)?
+- [ ] Je zvolený výklad v souladu s dvojím cílem čl. 1 odst. 1 a recitálem 9 (ochrana práv dle Listiny)?
+- [ ] Byla zvažovaná národní úprava notifikována Komisi?
+
+**Typicky rozhodné důkazy / podklady:** text vnitrostátního opatření, mapování překryvů s požadavky AI Actu, notifikační korespondence s Komisí, stanoviska Úřadu pro AI.
+
 ---
 
 ### Čl. 2 — Oblast působnosti
@@ -175,6 +211,43 @@ Výčet v odst. 2 není taxativní v tom smyslu, že by vylučoval ostatní prav
 **Odst. 8** vylučuje výzkumnou, testovací a vývojovou činnost *před* uvedením na trh nebo do provozu, avšak výslovně z výjimky vyjímá testování v reálných podmínkách (real-world testing), které podléhá zvláštnímu režimu čl. 57 a čl. 60. Tento přístup reaguje na reálnou potřebu testovat AI systémy mimo laboratorní prostředí bez předčasné aplikace plných povinností, ale zároveň zajišťuje ochranu účastníků testování.
 
 **Odst. 12** obsahuje výjimku pro open-source AI systémy. Systémy vydané pod svobodnými nebo otevřenými licencemi nespadají pod nařízení, *pokud* nejsou uváděny na trh ani do provozu jako vysoce rizikové nebo nevyvolávají povinnosti dle čl. 5 nebo 50 (zákazy a pravidla pro transparentnost). Recitál 47 upřesňuje, že výjimka se vztahuje na zpřístupňování vah modelů a zdrojového kódu k dalšímu rozvoji, nikoli na komerční nasazení.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost usazená výhradně v USA vyvinula a pod vlastní značkou provozuje cloudový AI systém pro hodnocení úvěruschopnosti fyzických osob. Systém běží na serverech v USA a v Unii není nijak inzerován. Česká banka si však na základě smlouvy nechává k žádostem svých klientů zasílat skóringové výstupy a používá je při rozhodování o úvěrech. Americká společnost namítá, že AI Act se na ni nevztahuje, protože systém v Unii neuvádí na trh ani do provozu. Právně významné skutečnosti: kdo systém vyvinul a pod čí značkou je poskytován; kde jsou jednotliví aktéři usazeni; kde se výstup systému reálně používá. Důkazy: smlouva o poskytování služby, technická dokumentace a popis datových toků, interní předpisy banky o použití skóre v úvěrovém procesu.
+
+**2. Právní otázka.** Vztahuje se AI Act podle čl. 2 odst. 1 písm. c) na poskytovatele usazeného ve třetí zemi, který AI systém v Unii neuvádí na trh, jestliže výstup tohoto systému je v Unii používán zavádějícím subjektem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 2 odst. 1 písm. a)–c) — osobní působnost založená jednak na usazení, jednak na místě použití výstupu (extrateritoriální klauzule).
+- *Související ustanovení téhož předpisu:* čl. 3 body 3 a 4 (poskytovatel, zavádějící subjekt), čl. 6 odst. 2 a příloha III bod 5 písm. b) (úvěrový skóring fyzických osob jako vysoce rizikový systém), čl. 22 (povinnost poskytovatele ze třetí země jmenovat zplnomocněného zástupce), čl. 26 (povinnosti zavádějícího subjektu), recitál 22 (účel extrateritoriality — zabránit obcházení nařízení).
+- *Související předpisy:* čl. 3 odst. 2 GDPR (obdobné kritérium zacílení na Unii), nařízení (EU) 2019/1020 (dohled nad trhem).
+- *Judikatura:* k AI Actu dosud žádná; k teritoriálnímu dosahu unijní regulace SDEU ve věci Google v. CNIL (C-507/17) zdůraznil, že dosah se vykládá podle cíle úpravy; široké pojetí působnosti unijní ochrany dat zastává SDEU od věci Google Spain (C-131/12) — analogicky lze argumentovat pro účinný dosah AI Actu.
+
+**4. Subsumpce.** Americká společnost systém vyvíjí a poskytuje pod vlastním názvem → je poskytovatelem (čl. 3 bod 3). Naplnění písm. a) je sporné, neboť služba je kontrahována i hostována v USA. Nesporně je však naplněno písm. c): poskytovatel ze třetí země a výstup systému (úvěrové skóre) používaný v Unii — nikoli nahodile, nýbrž na základě smlouvy s unijní bankou. Banka je současně zavádějícím subjektem usazeným v EU (písm. b)). Žádná z výjimek (odst. 3, 6, 8, 10, 12) nedopadá.
+
+**5. Řešení.** AI Act se na amerického poskytovatele použije. Protože jde o vysoce rizikový systém (příloha III bod 5 písm. b)), musí splnit požadavky kapitoly III, jmenovat zplnomocněného zástupce v Unii (čl. 22) a systém registrovat v databázi EU (čl. 71). Banka odpovídá za povinnosti zavádějícího subjektu (čl. 26) a systém nesmí používat, není-li v souladu s nařízením. Prakticky by banka měla compliance poskytovatele smluvně zajistit (dokumentace, součinnost, audit) — jinak riskuje opatření orgánu dohledu vůči sobě samé. Riziko spočívá ve faktické vymahatelnosti vůči subjektu bez unijní přítomnosti; nařízení je řeší právě institutem zplnomocněného zástupce a tlakem na unijní články řetězce.
+
+**6. Varianty.** (a) Používala-li by banka výstupy výhradně pro rozhodování o klientech své pobočky ve třetí zemi, písm. c) by naplněno nebylo a nařízení by na poskytovatele nedopadalo. (b) Šlo-li by o systém vyvinutý a používaný výhradně pro účely vědeckého výzkumu a vývoje před uvedením na trh, působnost vylučují odst. 6 a 8 — s výjimkou testování v reálných podmínkách, které zůstává regulováno (čl. 60).
+
+#### G. Protiargumenty a rizika
+
+- *„Pouhé faktické použití výstupu v Unii působnost nezakládá — recitál 22 míří na výstupy ‚určené‘ k použití v Unii."* Neutralizace: v modelové situaci je použití výstupu v Unii smluvně sjednáno a poskytovateli známo, takže i restriktivní výklad (zamýšlené použití) je naplněn; otevřená zůstává jen otázka skutečně nahodilého „přelití" výstupů do Unie.
+- *„Povinnosti nelze vůči subjektu bez unijní přítomnosti vymoci."* Neutralizace: nařízení konstruuje vymahatelnost nepřímo — přes povinného zplnomocněného zástupce (čl. 22), povinnosti unijních článků řetězce (dovozce, distributor, zavádějící subjekt) a opatření dohledu nad trhem včetně omezení dostupnosti systému.
+- Slabé místo: hranice mezi „použitím výstupu v Unii" a pouhou globální dostupností služby není judikatorně vyjasněna; do rozhodnutí SDEU zůstává argumentace napětím mezi textem čl. 2 odst. 1 písm. c) a recitálem 22 nejistá.
+
+#### H. Praktický závěr
+
+Čl. 2 je vstupní branou každé analýzy AI Actu: nejprve je třeba určit roli subjektu (poskytovatel, zavádějící subjekt, dovozce, distributor, výrobce výrobku, zplnomocněný zástupce), poté územní vazbu (usazení v EU, uvádění na trh či do provozu v EU, použití výstupu v EU) a nakonec projít katalog výjimek (národní bezpečnost a obrana, výzkum a vývoj, osobní neprofesionální použití, open-source, zvláštní režim výrobků dle přílohy I oddílu B). Souběžně vždy platí GDPR (odst. 7) a režim DSA zůstává nedotčen (odst. 5).
+
+**Checklist (advokát / compliance / správní orgán):**
+- [ ] Jaká je role subjektu v hodnotovém řetězci (čl. 2 odst. 1 ve spojení s čl. 3 body 3–8)?
+- [ ] Existuje územní vazba na Unii (usazení, uvedení na trh/do provozu, použití výstupu v Unii)?
+- [ ] Nedopadá některá výjimka (odst. 3 — bezpečnost a obrana; odst. 6 a 8 — výzkum a vývoj; odst. 10 — osobní použití; odst. 12 — open-source)?
+- [ ] Nejde o systém ve výrobku dle přílohy I oddílu B s omezeným režimem dle odst. 2?
+- [ ] Jsou souběžně plněny povinnosti dle GDPR (odst. 7), případně zachován režim odpovědnosti dle DSA (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** smluvní dokumentace a obchodní podmínky, popis architektury a datových toků, deklarovaný určený účel, doklady o místě usazení subjektů, dokumentace skutečného použití výstupů v Unii.
 
 ---
 
@@ -541,6 +614,43 @@ Výčet v odst. 2 není taxativní v tom smyslu, že by vylučoval ostatní prav
 
 **Gramotnost v oblasti AI (bod 56)** je definicí relevantní přímo pro čl. 4 — viz výklad níže.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Česká softwarová společnost dodává pojišťovně systém pro stanovení pojistného v životním a zdravotním pojištění. Systém kombinuje ručně sestavený rozhodovací strom (pevná pravidla definovaná pojistnými matematiky) s modulem strojového učení, který z historických dat predikuje rizikovost klienta. Dodavatel tvrdí, že jde o „klasický software", nikoli o systém AI; pojišťovna potřebuje postavit najisto, zda se uplatní AI Act — od toho se odvíjí klasifikace dle přílohy III bodu 5 písm. c) i rozdělení rolí (dodavatel jako poskytovatel dle bodu 3, pojišťovna jako zavádějící subjekt dle bodu 4). Důkazy: technická dokumentace architektury, popis trénování modelu, specifikace vstupů a výstupů, smlouva o dodávce.
+
+**2. Právní otázka.** Naplňuje systém kombinující pevně naprogramovaná pravidla s modulem strojového učení definiční znaky „systému AI" dle čl. 3 bodu 1, zejména znak odvozování (inference)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 3 bod 1 — znaky: strojový systém, různá míra autonomie, (fakultativní) adaptivnost, odvozování výstupů ze vstupů pro explicitní či implicitní cíle.
+- *Související ustanovení téhož předpisu:* recitál 12 (vyloučení systémů s plně determinovaným chováním), čl. 6 odst. 2 a příloha III bod 5 písm. c) (posuzování rizik a stanovení cen v životním a zdravotním pojištění), čl. 96 odst. 1 písm. f) (pokyny Komise k aplikaci definice), čl. 3 body 3, 4 a 12 (role stran a určený účel).
+- *Související předpisy:* výkladové pokyny Komise k definici systému AI z února 2025 — právně nezávazné, ale prakticky určující vodítko.
+- *Judikatura:* k definici dosud žádná; uplatní se ustálená zásada SDEU, že pojmy unijního práva se vykládají autonomně a jednotně, s ohledem na kontext a cíl úpravy.
+
+**4. Subsumpce.** Strojový systém: splněno. Autonomie: ML modul generuje predikce, aniž by člověk určoval jednotlivá rozhodovací pravidla — postačí „různá míra" autonomie. Adaptivnost: systém se za provozu dále neučí, to však nevadí — znak je formulován fakultativně („může vykazovat"). Odvozování: ML modul z trénovacích dat odvodil model a z údajů klienta generuje predikci — znak inference je splněn; samostatný ručně sestavený rozhodovací strom by naopak byl plně determinovaným systémem dle recitálu 12. Sporné je jen to, zda hybridní architektura mění závěr — nemění: rozhodující je funkce systému jako celku.
+
+**5. Řešení.** Systém je systémem AI dle čl. 3 bodu 1; vzhledem k určenému účelu (posuzování rizik a tvorba cen v životním a zdravotním pojištění) jde o vysoce rizikový systém dle přílohy III bodu 5 písm. c). Dodavatel je poskytovatelem se všemi povinnostmi kapitoly III, pojišťovna zavádějícím subjektem (čl. 26). Praktický postup: provést a zdokumentovat klasifikační analýzu (definiční znaky čl. 3 bodu 1 + příloha III), promítnout role do smlouvy (součinnost, dokumentace, hlášení incidentů). Deklarovat systém jako „ne-AI" bez doložené analýzy je nejrizikovější varianta — hrozí zpětné doměření povinností i sankce.
+
+**6. Varianty.** (a) Obsahoval-li by systém pouze ručně definovaná pravidla s plně determinovaným chováním (bez učení z dat), o systém AI by nešlo (recitál 12). (b) Predikoval-li by ML modul rizika jen pro pojištění majetku, systém by zůstal systémem AI, ale nebyl by vysoce rizikový dle přílohy III bodu 5 písm. c), jež dopadá pouze na životní a zdravotní pojištění.
+
+#### G. Protiargumenty a rizika
+
+- *„Logistická regrese či rozhodovací lesy jsou jen statistika, nikoli umělá inteligence."* Neutralizace: definice je funkcionální, nikoli technologická — rozhodující je schopnost odvozovat výstupy z dat, kterou naplňují i „jednoduché" metody strojového učení; hranicí je teprve plně determinované chování dle recitálu 12.
+- *„Systém se po nasazení neadaptuje, chybí tedy definiční znak."* Neutralizace: adaptivnost je výslovně fakultativní („may exhibit adaptiveness"); její absence definici nevylučuje.
+- Slabé místo: pokyny Komise k definici jsou právně nezávazné a hranice „plně determinovaného chování" je u složitých pravidlových systémů neostrá; autoritativní výklad podá až SDEU v řízení o předběžné otázce.
+
+#### H. Praktický závěr
+
+Definice čl. 3 jsou závazné pro celé nařízení; u sporných systémů je třeba provést formální klasifikační test podle čl. 3 bodu 1 (inference, autonomie) dříve, než se posuzuje rizikový režim. Definiční analýzu je nutno dokumentovat a opakovat při každé podstatné změně systému (srov. bod 23 — podstatná modifikace) i při změně určeného účelu (bod 12).
+
+**Checklist (poskytovatel / zavádějící subjekt / advokát):**
+- [ ] Odvozuje systém výstupy z dat (inference), nebo jde o plně determinovaná, člověkem definovaná pravidla (recitál 12)?
+- [ ] Je dána alespoň částečná autonomie provozu?
+- [ ] Je klasifikace písemně zdokumentována a aktualizována při změnách (podstatná modifikace, bod 23)?
+- [ ] Jsou správně určeny role dle bodů 3–8 (poskytovatel vs. zavádějící subjekt) a uváděcí momenty dle bodů 9–11?
+- [ ] U biometrických funkcí: jde o identifikaci (bod 35), verifikaci (bod 36), či kategorizaci (bod 40) — s odlišnými režimy?
+
+**Typicky rozhodné důkazy / podklady:** technická dokumentace architektury a trénování, popis určeného účelu (bod 12), záznam klasifikační analýzy, pokyny pro použití (bod 15).
+
 ---
 
 ### Čl. 4 — Gramotnost v oblasti AI
@@ -566,5 +676,42 @@ Povinnost je formulována jako povinnost přičinění (*best extent*), nikoli p
 Recitály 20 a 21 zdůrazňují, že gramotnost v oblasti AI je klíčovým předpokladem pro efektivní výkon práv a povinností a pro ochranu před negativními dopady AI. Povinnost čl. 4 navazuje na obecné požadavky na lidský dohled (čl. 14 pro vysoce rizikové systémy AI) — smysluplný lidský dohled lze zajistit jen tehdy, pokud osoby vykonávající dohled skutečně rozumějí tomu, co AI systém dělá, jaká jsou jeho omezení a kdy je třeba zasáhnout nebo výstup přezkoumat.
 
 Z hlediska compliance je čl. 4 signálem, že AI Act vnímá vzdělávání a osvětu jako součást systémového přístupu k bezpečné AI, nikoli jen jako měkké doporučení. Porušení povinnosti zajistit gramotnost může být zohledněno při posuzování zavinění nebo nedbalosti v případě závažného incidentu nebo při sankcích dle čl. 99 AI Actu. Organizace by proto měly nastavit systematické programy vzdělávání v oblasti AI odpovídající jejich roli a rizikovému profilu nasazovaných AI systémů.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajská nemocnice (zavádějící subjekt dle čl. 3 bodu 4) nasadí AI systém podpory diagnostiky, certifikovaný jako zdravotnický prostředek (vysoce rizikový systém dle čl. 6 odst. 1). Lékařům jej zpřístupní bez jakéhokoli školení; vnitřní předpisy o jeho používání neexistují. Služebně mladší lékař převezme chybný výstup systému bez vlastního ověření (tzv. automation bias) a pacient utrpí újmu na zdraví. Právně významné skutečnosti: úplná absence opatření k zajištění gramotnosti, vysoce rizikový kontext (zdravotnictví, zranitelní pacienti), příčinná souvislost mezi neproškoleností a nekritickým převzetím výstupu. Důkazy: vnitřní předpisy a školicí záznamy nemocnice (resp. doklad o jejich absenci), pokyny pro použití od poskytovatele (čl. 13), zdravotnická dokumentace, znalecký posudek.
+
+**2. Právní otázka.** Porušila nemocnice povinnost dle čl. 4 přijmout opatření k zajištění dostatečné úrovně gramotnosti v oblasti AI u personálu používajícího diagnostický AI systém, a jaké právní důsledky z toho plynou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 4 — povinnost přičinění poskytovatelů a zavádějících subjektů zajistit gramotnost personálu s přihlédnutím k jeho znalostem, kontextu nasazení a dotčeným osobám.
+- *Související ustanovení téhož předpisu:* čl. 3 bod 56 (definice gramotnosti v oblasti AI), čl. 26 odst. 2 (lidský dohled svěřit osobám s nezbytnou kompetencí a odbornou přípravou), čl. 14 (lidský dohled u vysoce rizikových systémů), čl. 99 odst. 1 (vnitrostátní sankce), recitály 20 a 21; použitelnost kapitoly I od 2. 2. 2025 (čl. 113 písm. a)).
+- *Související předpisy:* zákon č. 372/2011 Sb., o zdravotních službách (náležitá odborná úroveň péče, § 4 odst. 5), § 2910 a § 2924 o. z. (náhrada újmy).
+- *Judikatura:* k čl. 4 dosud žádná; analogicky judikatura NS ČR k odpovědnosti poskytovatele zdravotních služeb za organizační pochybení (nezajištění kvalifikovaného a poučeného personálu jako porušení náležité péče).
+
+**4. Subsumpce.** Nemocnice je zavádějícím subjektem; lékaři jsou osobami používajícími systém jejím jménem — osobní rozsah čl. 4 je naplněn. Povinnost je povinností přičinění („v nejlepší míře"), její měřítko se však objektivizuje kritérii v čl. 4: u vysoce rizikového diagnostického systému nasazeného vůči pacientům je požadovaná úroveň opatření vysoká (školení o limitech systému, riziku automation bias, situacích vyžadujících přezkum výstupu). Nulová opatření tomuto měřítku zjevně nevyhovují — porušení je nesporné. Sporná může být příčinná souvislost mezi neproškoleností a konkrétní újmou.
+
+**5. Řešení.** Nemocnice čl. 4 porušila; souběžně zpravidla porušuje i čl. 26 odst. 2 (lidský dohled bez nezbytné kompetence). Důsledky: opatření orgánu dohledu a sankce dle vnitrostátního sankčního režimu (čl. 99 odst. 1); v civilní rovině porušení čl. 4 důkazně podporuje závěr o organizačním pochybení a nedbalosti při náhradě újmy na zdraví. Praktické kroky: zavést diferencovaný školicí program (lékaři vs. administrativa), dokumentovat jeho absolvování, upravit vnitřními předpisy povinné ověřování výstupů a školení aktualizovat při změně systému.
+
+**6. Varianty.** (a) Provedla-li nemocnice prokazatelně školení přiměřené kontextu a lékař přesto výstup nekriticky převzal, povinnost přičinění dle čl. 4 je splněna a těžiště se přesouvá k individuálnímu selhání zdravotníka. (b) Použije-li tentýž nástroj fyzická osoba k vlastnímu laickému posouzení mimo profesní činnost, čl. 4 se neuplatní — taková osoba není zavádějícím subjektem (čl. 3 bod 4, čl. 2 odst. 10).
+
+#### G. Protiargumenty a rizika
+
+- *„Čl. 4 je nevymahatelná proklamace — čl. 99 odst. 3 až 5 na něj výslovně neodkazují."* Neutralizace: čl. 99 odst. 1 ukládá členským státům stanovit sankce i za ostatní porušení nařízení; nadto má čl. 4 silný nepřímý účinek — slouží jako měřítko nedbalosti v civilních sporech a věcně se překrývá s vymahatelným čl. 26 odst. 2.
+- *„Formulace ‚v nejlepší míře' (to their best extent) dovoluje jen symbolická opatření."* Neutralizace: jde o povinnost přičinění, jejíž obsah se objektivizuje kritérii výslovně uvedenými v čl. 4 (technické znalosti, kontext, dotčené osoby); v rizikových kontextech proto míří vysoko a úplná pasivita neobstojí nikdy.
+- Slabé místo: neexistuje závazný standard obsahu a rozsahu školení; vodítkem je jen nezávazná praxe shromažďovaná Úřadem pro AI (živý repozitář postupů gramotnosti v oblasti AI), což snižuje předvídatelnost vymáhání.
+
+#### H. Praktický závěr
+
+Čl. 4 je použitelný již od 2. 2. 2025 a dopadá na všechny poskytovatele a zavádějící subjekty bez ohledu na rizikovost nasazených systémů. V praxi vyžaduje zavést a dokumentovat program gramotnosti v oblasti AI odstupňovaný podle rolí, znalostí personálu a rizikovosti systémů; u vysoce rizikových systémů jej provázat s opatřeními lidského dohledu (čl. 14, čl. 26 odst. 2).
+
+**Checklist (poskytovatel / zavádějící subjekt / advokát):**
+- [ ] Jsou zmapovány všechny AI systémy organizace a osoby, které je provozují či používají jejím jménem?
+- [ ] Existuje školicí program diferencovaný podle technických znalostí, role a kontextu použití?
+- [ ] Zohledňuje školení zranitelné skupiny, vůči nimž je systém nasazen, a riziko automation bias?
+- [ ] Je absolvování školení dokumentováno a program aktualizován při změně systémů?
+- [ ] Jsou osoby pověřené lidským dohledem kompetentní ve smyslu čl. 26 odst. 2?
+
+**Typicky rozhodné důkazy / podklady:** školicí plány a materiály, prezenční listiny či záznamy z e-learningu, vnitřní směrnice k používání AI, pokyny poskytovatele pro použití, doklady o vyhodnocování účinnosti školení.
 
 ---
