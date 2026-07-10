@@ -175,6 +175,10 @@ Komentář k aktu o umělé inteligenci (nařízení (EU) 2024/1689). U každéh
 - [Příloha XII — Informace o transparentnosti pro poskytovatele GPAI modelů vůči navazujícím poskytovatelům podle čl. 53 odst. 1 písm. b)](15-prilohy.md)
 - [Příloha XIII — Kritéria pro určení obecných modelů AI se systémovým rizikem podle čl. 51](15-prilohy.md)
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
