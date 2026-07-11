@@ -55,6 +55,11 @@ Původní **důvodová zpráva** k předpisu je k dispozici v souboru [DUVODOVA-
 
 - [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
 
+<!-- LOCAL-VYKLADOVE-OTAZKY-LINK -->
+## Výkladové otázky a odpovědi
+
+- [VYKLADOVE-OTAZKY.md](VYKLADOVE-OTAZKY.md) — předpisově konkrétní kontrolní otázky, odpovědi, místní opora a výslovně označené mezery komentáře.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
