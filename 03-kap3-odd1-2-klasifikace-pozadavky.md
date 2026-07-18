@@ -127,6 +127,193 @@ Odkaz na registrační povinnost (čl. 49 odst. 2) tvoří důležitou pojistku:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c5344e87d3c9de787f73 generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 6 — Classification rules for high-risk AI systems
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   Irrespective of whether an AI system is placed on the market or put into service independently of the products referred to in points (a) and (b), that AI system shall be considered to be high-risk where both of the following conditions are fulfilled:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  the AI system is intended to be used as a safety component of a product, or the AI system is itself a product, covered by the Union harmonisation legislation listed in Annex I;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  the product whose safety component pursuant to point (a) is the AI system, or the AI system itself as a product, is required to undergo a third-party conformity assessment, with a view to the placing on the market or the putting into service of that product pursuant to the Union harmonisation legislation listed in Annex I.
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  2.   In addition to the high-risk AI systems referred to in paragraph 1, AI systems referred to in Annex III shall be considered to be high-risk.
+>
+>
+>
+>
+>  3.   By derogation from paragraph 2, an AI system referred to in Annex III shall not be considered to be high-risk where it does not pose a significant risk of harm to the health, safety or fundamental rights of natural persons, including by not materially influencing the outcome of decision making.
+>
+>  The first subparagraph shall apply where any of the following conditions is fulfilled:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  the AI system is intended to perform a narrow procedural task;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  the AI system is intended to improve the result of a previously completed human activity;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  the AI system is intended to detect decision-making patterns or deviations from prior decision-making patterns and is not meant to replace or influence the previously completed human assessment, without proper human review; or
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (d)
+>
+>
+>
+>  the AI system is intended to perform a preparatory task to an assessment relevant for the purposes of the use cases listed in Annex III.
+>
+>
+>
+>
+>
+>
+>  Notwithstanding the first subparagraph, an AI system referred to in Annex III shall always be considered to be high-risk where the AI system performs profiling of natural persons.
+>
+>
+>
+>
+>  4.   A provider who considers that an AI system referred to in Annex III is not high-risk shall document its assessment before that system is placed on the market or put into service. Such provider shall be subject to the registration obligation set out in Article 49(2). Upon request of national competent authorities, the provider shall provide the documentation of the assessment.
+>
+>
+>
+>
+>  5.   The Commission shall, after consulting the European Artificial Intelligence Board (the ‘Board’), and no later than 2 February 2026, provide guidelines specifying the practical implementation of this Article in line with Article 96 together with a comprehensive list of practical examples of use cases of AI systems that are high-risk and not high-risk.
+>
+>
+>
+>
+>  6.   The Commission is empowered to adopt delegated acts in accordance with Article 97 in order to amend paragraph 3, second subparagraph, of this Article by adding new conditions to those laid down therein, or by modifying them, where there is concrete and reliable evidence of the existence of AI systems that fall under the scope of Annex III, but do not pose a significant risk of harm to the health, safety or fundamental rights of natural persons.
+>
+>
+>
+>
+>  7.   The Commission shall adopt delegated acts in accordance with Article 97 in order to amend paragraph 3, second subparagraph, of this Article by deleting any of the conditions laid down therein, where there is concrete and reliable evidence that this is necessary to maintain the level of protection of health, safety and fundamental rights provided for by this Regulation.
+>
+>
+>
+>
+>  8.   Any amendment to the conditions laid down in paragraph 3, second subparagraph, adopted in accordance with paragraphs 6 and 7 of this Article shall not decrease the overall level of protection of health, safety and fundamental rights provided for by this Regulation and shall ensure consistency with the delegated acts adopted pursuant to Article 7(1), and take account of market and technological developments.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 49, Čl. 96, Čl. 97, Čl. 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c5344e87d3c9de787f73 -->
+
 ### Čl. 7 — Změny přílohy III
 
 **Doslovné znění (EN) — Article 7 — Amendments to Annex III:**
@@ -264,6 +451,346 @@ Kritérium pod písmenem (j) zakotvuje test proporcionality v přístupu k regul
 
 **Oddíl 2 — Požadavky na vysoce rizikové systémy AI**
 
+
+<!-- LEGAL-REVISION:BEGIN id=d118b03941b68bdc8193 generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 7 — Amendments to Annex III
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   The Commission is empowered to adopt delegated acts in accordance with Article 97 to amend Annex III by adding or modifying use-cases of high-risk AI systems where both of the following conditions are fulfilled:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  the AI systems are intended to be used in any of the areas listed in Annex III;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  the AI systems pose a risk of harm to health and safety, or an adverse impact on fundamental rights, and that risk is equivalent to, or greater than, the risk of harm or of adverse impact posed by the high-risk AI systems already referred to in Annex III.
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  2.   When assessing the condition under paragraph 1, point (b), the Commission shall take into account the following criteria:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  the intended purpose of the AI system;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  the extent to which an AI system has been used or is likely to be used;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  the nature and amount of the data processed and used by the AI system, in particular whether special categories of personal data are processed;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (d)
+>
+>
+>
+>  the extent to which the AI system acts autonomously and the possibility for a human to override a decision or recommendations that may lead to potential harm;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (e)
+>
+>
+>
+>  the extent to which the use of an AI system has already caused harm to health and safety, has had an adverse impact on fundamental rights or has given rise to significant concerns in relation to the likelihood of such harm or adverse impact, as demonstrated, for example, by reports or documented allegations submitted to national competent authorities or by other reports, as appropriate;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (f)
+>
+>
+>
+>  the potential extent of such harm or such adverse impact, in particular in terms of its intensity and its ability to affect multiple persons or to disproportionately affect a particular group of persons;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (g)
+>
+>
+>
+>  the extent to which persons who are potentially harmed or suffer an adverse impact are dependent on the outcome produced with an AI system, in particular because for practical or legal reasons it is not reasonably possible to opt-out from that outcome;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (h)
+>
+>
+>
+>  the extent to which there is an imbalance of power, or the persons who are potentially harmed or suffer an adverse impact are in a vulnerable position in relation to the deployer of an AI system, in particular due to status, authority, knowledge, economic or social circumstances, or age;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (i)
+>
+>
+>
+>  the extent to which the outcome produced involving an AI system is easily corrigible or reversible, taking into account the technical solutions available to correct or reverse it, whereby outcomes having an adverse impact on health, safety or fundamental rights, shall not be considered to be easily corrigible or reversible;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (j)
+>
+>
+>
+>  the magnitude and likelihood of benefit of the deployment of the AI system for individuals, groups, or society at large, including possible improvements in product safety;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (k)
+>
+>
+>
+>  the extent to which existing Union law provides for:
+>
+>
+>
+>
+>
+>
+>
+>  (i)
+>
+>
+>
+>  effective measures of redress in relation to the risks posed by an AI system, with the exclusion of claims for damages;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (ii)
+>
+>
+>
+>  effective measures to prevent or substantially minimise those risks.
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  3.   The Commission is empowered to adopt delegated acts in accordance with Article 97 to amend the list in Annex III by removing high-risk AI systems where both of the following conditions are fulfilled:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  the high-risk AI system concerned no longer poses any significant risks to fundamental rights, health or safety, taking into account the criteria listed in paragraph 2;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  the deletion does not decrease the overall level of protection of health, safety and fundamental rights under Union law.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 97
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d118b03941b68bdc8193 -->
+
 ### Čl. 8 — Shoda s požadavky
 
 **Doslovné znění (EN) — Article 8 — Compliance with the requirements:**
@@ -320,6 +847,57 @@ Odstavec 2 řeší klíčový průsečík AI aktu s odvětvovým harmonizačním
 **Typicky rozhodné důkazy / podklady:** klasifikační posouzení dle sektorového předpisu i čl. 6, integrovaná technická dokumentace, certifikáty a zprávy notifikované osoby, rešerše norem a stavu techniky, EU prohlášení o shodě.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=527c0b479bd4983de7fe generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 8 — Compliance with the requirements
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   High-risk AI systems shall comply with the requirements laid down in this Section, taking into account their intended purpose as well as the generally acknowledged state of the art on AI and AI-related technologies. The risk management system referred to in Article 9 shall be taken into account when ensuring compliance with those requirements.
+>
+>
+>
+>
+>  2.   Where a product contains an AI system, to which the requirements of this Regulation as well as requirements of the Union harmonisation legislation listed in Section A of Annex I apply, providers shall be responsible for ensuring that their product is fully compliant with all applicable requirements under applicable Union harmonisation legislation. In ensuring the compliance of high-risk AI systems referred to in paragraph 1 with the requirements set out in this Section, and in order to ensure consistency, avoid duplication and minimise additional burdens, providers shall have a choice of integrating, as appropriate, the necessary testing and reporting processes, information and documentation they provide with regard to their product into documentation and procedures that already exist and are required under the Union harmonisation legislation listed in Section A of Annex I.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=527c0b479bd4983de7fe -->
 
 ### Čl. 9 — Systém řízení rizik
 
@@ -447,6 +1025,220 @@ Odstavec 5 zavádí test přijatelnosti zbývajícího rizika (*acceptable resid
 **Typicky rozhodné důkazy / podklady:** dokumentace systému řízení rizik a jeho revizí, testovací protokoly s metrikami a prahy, zprávy postmarketingového monitorování, evidence stížností a incidentů, záznamy o nápravných opatřeních.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2a872e6ed2a93c5e0778 generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 9 — Risk management system
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   A risk management system shall be established, implemented, documented and maintained in relation to high-risk AI systems.
+>
+>
+>
+>
+>  2.   The risk management system shall be understood as a continuous iterative process planned and run throughout the entire lifecycle of a high-risk AI system, requiring regular systematic review and updating. It shall comprise the following steps:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  the identification and analysis of the known and the reasonably foreseeable risks that the high-risk AI system can pose to health, safety or fundamental rights when the high-risk AI system is used in accordance with its intended purpose;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  the estimation and evaluation of the risks that may emerge when the high-risk AI system is used in accordance with its intended purpose, and under conditions of reasonably foreseeable misuse;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  the evaluation of other risks possibly arising, based on the analysis of data gathered from the post-market monitoring system referred to in Article 72;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (d)
+>
+>
+>
+>  the adoption of appropriate and targeted risk management measures designed to address the risks identified pursuant to point (a).
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  3.   The risks referred to in this Article shall concern only those which may be reasonably mitigated or eliminated through the development or design of the high-risk AI system, or the provision of adequate technical information.
+>
+>
+>
+>
+>  4.   The risk management measures referred to in paragraph 2, point (d), shall give due consideration to the effects and possible interaction resulting from the combined application of the requirements set out in this Section, with a view to minimising risks more effectively while achieving an appropriate balance in implementing the measures to fulfil those requirements.
+>
+>
+>
+>
+>  5.   The risk management measures referred to in paragraph 2, point (d), shall be such that the relevant residual risk associated with each hazard, as well as the overall residual risk of the high-risk AI systems is judged to be acceptable.
+>
+>  In identifying the most appropriate risk management measures, the following shall be ensured:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  elimination or reduction of risks identified and evaluated pursuant to paragraph 2 in as far as technically feasible through adequate design and development of the high-risk AI system;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  where appropriate, implementation of adequate mitigation and control measures addressing risks that cannot be eliminated;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  provision of information required pursuant to Article 13 and, where appropriate, training to deployers.
+>
+>
+>
+>
+>
+>
+>  With a view to eliminating or reducing risks related to the use of the high-risk AI system, due consideration shall be given to the technical knowledge, experience, education, the training to be expected by the deployer, and the presumable context in which the system is intended to be used.
+>
+>
+>
+>
+>  6.   High-risk AI systems shall be tested for the purpose of identifying the most appropriate and targeted risk management measures. Testing shall ensure that high-risk AI systems perform consistently for their intended purpose and that they are in compliance with the requirements set out in this Section.
+>
+>
+>
+>
+>  7.   Testing procedures may include testing in real-world conditions in accordance with Article 60.
+>
+>
+>
+>
+>  8.   The testing of high-risk AI systems shall be performed, as appropriate, at any time throughout the development process, and, in any event, prior to their being placed on the market or put into service. Testing shall be carried out against prior defined metrics and probabilistic thresholds that are appropriate to the intended purpose of the high-risk AI system.
+>
+>
+>
+>
+>  9.   When implementing the risk management system as provided for in paragraphs 1 to 7, providers shall give consideration to whether in view of its intended purpose the high-risk AI system is likely to have an adverse impact on persons under the age of 18 and, as appropriate, other vulnerable groups.
+>
+>
+>
+>
+>  10.   For providers of high-risk AI systems that are subject to requirements regarding internal risk management processes under other relevant provisions of Union law, the aspects provided in paragraphs 1 to 9 may be part of, or combined with, the risk management procedures established pursuant to that law.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 72, Čl. 13, Čl. 60
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2a872e6ed2a93c5e0778 -->
 
 ### Čl. 10 — Data a jejich správa
 
@@ -581,6 +1373,316 @@ Odstavec 5 zavádí zvláštní výjimkový režim pro zpracování zvláštníc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=499c4276635091fc9dbd generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 10 — Data and data governance
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   High-risk AI systems which make use of techniques involving the training of AI models with data shall be developed on the basis of training, validation and testing data sets that meet the quality criteria referred to in paragraphs 2 to 5 whenever such data sets are used.
+>
+>
+>
+>
+>  2.   Training, validation and testing data sets shall be subject to data governance and management practices appropriate for the intended purpose of the high-risk AI system. Those practices shall concern in particular:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  the relevant design choices;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  data collection processes and the origin of data, and in the case of personal data, the original purpose of the data collection;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  relevant data-preparation processing operations, such as annotation, labelling, cleaning, updating, enrichment and aggregation;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (d)
+>
+>
+>
+>  the formulation of assumptions, in particular with respect to the information that the data are supposed to measure and represent;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (e)
+>
+>
+>
+>  an assessment of the availability, quantity and suitability of the data sets that are needed;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (f)
+>
+>
+>
+>  examination in view of possible biases that are likely to affect the health and safety of persons, have a negative impact on fundamental rights or lead to discrimination prohibited under Union law, especially where data outputs influence inputs for future operations;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (g)
+>
+>
+>
+>  appropriate measures to detect, prevent and mitigate possible biases identified according to point (f);
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (h)
+>
+>
+>
+>  the identification of relevant data gaps or shortcomings that prevent compliance with this Regulation, and how those gaps and shortcomings can be addressed.
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  3.   Training, validation and testing data sets shall be relevant, sufficiently representative, and to the best extent possible, free of errors and complete in view of the intended purpose. They shall have the appropriate statistical properties, including, where applicable, as regards the persons or groups of persons in relation to whom the high-risk AI system is intended to be used. Those characteristics of the data sets may be met at the level of individual data sets or at the level of a combination thereof.
+>
+>
+>
+>
+>  4.   Data sets shall take into account, to the extent required by the intended purpose, the characteristics or elements that are particular to the specific geographical, contextual, behavioural or functional setting within which the high-risk AI system is intended to be used.
+>
+>
+>
+>
+>  5.   To the extent that it is strictly necessary for the purpose of ensuring bias detection and correction in relation to the high-risk AI systems in accordance with paragraph (2), points (f) and (g) of this Article, the providers of such systems may exceptionally process special categories of personal data, subject to appropriate safeguards for the fundamental rights and freedoms of natural persons. In addition to the provisions set out in Regulations (EU) 2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680, all the following conditions must be met in order for such processing to occur:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  the bias detection and correction cannot be effectively fulfilled by processing other data, including synthetic or anonymised data;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  the special categories of personal data are subject to technical limitations on the re-use of the personal data, and state-of-the-art security and privacy-preserving measures, including pseudonymisation;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  the special categories of personal data are subject to measures to ensure that the personal data processed are secured, protected, subject to suitable safeguards, including strict controls and documentation of the access, to avoid misuse and ensure that only authorised persons have access to those personal data with appropriate confidentiality obligations;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (d)
+>
+>
+>
+>  the special categories of personal data are not to be transmitted, transferred or otherwise accessed by other parties;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (e)
+>
+>
+>
+>  the special categories of personal data are deleted once the bias has been corrected or the personal data has reached the end of its retention period, whichever comes first;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (f)
+>
+>
+>
+>  the records of processing activities pursuant to Regulations (EU) 2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680 include the reasons why the processing of special categories of personal data was strictly necessary to detect and correct biases, and why that objective could not be achieved by processing other data.
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  6.   For the development of high-risk AI systems not using techniques involving the training of AI models, paragraphs 2 to 5 apply only to the testing data sets.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2016/679 (výslovně uvedeno v místním znění)
+- akt EU 2016/680 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=499c4276635091fc9dbd -->
+
 ### Čl. 11 — Technická dokumentace
 
 **Doslovné znění (EN) — Article 11 — Technical documentation:**
@@ -647,6 +1749,64 @@ Technická dokumentace je nosným důkazem souladu: musí existovat před uveden
 **Typicky rozhodné důkazy / podklady:** technická dokumentace dle přílohy IV včetně historie verzí, changelogy a release notes modelu, záznam posouzení shody, doklad statusu MSP, plán předem určených změn.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=40b4c048abb7b1b197e3 generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 11 — Technical documentation
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   The technical documentation of a high-risk AI system shall be drawn up before that system is placed on the market or put into service and shall be kept up-to date.
+>
+>  The technical documentation shall be drawn up in such a way as to demonstrate that the high-risk AI system complies with the requirements set out in this Section and to provide national competent authorities and notified bodies with the necessary information in a clear and comprehensive form to assess the compliance of the AI system with those requirements. It shall contain, at a minimum, the elements set out in Annex IV. SMEs, including start-ups, may provide the elements of the technical documentation specified in Annex IV in a simplified manner. To that end, the Commission shall establish a simplified technical documentation form targeted at the needs of small and microenterprises. Where an SME, including a start-up, opts to provide the information required in Annex IV in a simplified manner, it shall use the form referred to in this paragraph. Notified bodies shall accept the form for the purposes of the conformity assessment.
+>
+>
+>
+>
+>  2.   Where a high-risk AI system related to a product covered by the Union harmonisation legislation listed in Section A of Annex I is placed on the market or put into service, a single set of technical documentation shall be drawn up containing all the information set out in paragraph 1, as well as the information required under those legal acts.
+>
+>
+>
+>
+>  3.   The Commission is empowered to adopt delegated acts in accordance with Article 97 in order to amend Annex IV, where necessary, to ensure that, in light of technical progress, the technical documentation provides all the information necessary to assess the compliance of the system with the requirements set out in this Section.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 97
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=40b4c048abb7b1b197e3 -->
 
 ### Čl. 12 — Vedení záznamů
 
@@ -738,6 +1898,176 @@ Bez automatických protokolů není sledovatelnosti a bez sledovatelnosti nelze 
 **Typicky rozhodné důkazy / podklady:** exporty protokolů a jejich metadata, technická dokumentace logovacího modulu, návod k použití, retenční směrnice, záznamy o ověření dle čl. 14 odst. 5.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e3e85cdf43f987a062fd generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 12 — Record-keeping
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   High-risk AI systems shall technically allow for the automatic recording of events (logs) over the lifetime of the system.
+>
+>
+>
+>
+>  2.   In order to ensure a level of traceability of the functioning of a high-risk AI system that is appropriate to the intended purpose of the system, logging capabilities shall enable the recording of events relevant for:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  identifying situations that may result in the high-risk AI system presenting a risk within the meaning of Article 79(1) or in a substantial modification;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  facilitating the post-market monitoring referred to in Article 72; and
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  monitoring the operation of high-risk AI systems referred to in Article 26(5).
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  3.   For high-risk AI systems referred to in point 1 (a), of Annex III, the logging capabilities shall provide, at a minimum:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  recording of the period of each use of the system (start date and time and end date and time of each use);
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  the reference database against which input data has been checked by the system;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  the input data for which the search has led to a match;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (d)
+>
+>
+>
+>  the identification of the natural persons involved in the verification of the results, as referred to in Article 14(5).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 79, Čl. 72, Čl. 26, Čl. 14
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e3e85cdf43f987a062fd -->
 
 ### Čl. 13 — Transparentnost a poskytování informací zavádějícím subjektům
 
@@ -854,6 +2184,278 @@ Požadavek na informace o vysvětlitelnosti výstupu (odst. 3 písm. b bod iv a 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d0cbf9bda6dade4dbbdb generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 13 — Transparency and provision of information to deployers
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   High-risk AI systems shall be designed and developed in such a way as to ensure that their operation is sufficiently transparent to enable deployers to interpret a system’s output and use it appropriately. An appropriate type and degree of transparency shall be ensured with a view to achieving compliance with the relevant obligations of the provider and deployer set out in Section 3.
+>
+>
+>
+>
+>  2.   High-risk AI systems shall be accompanied by instructions for use in an appropriate digital format or otherwise that include concise, complete, correct and clear information that is relevant, accessible and comprehensible to deployers.
+>
+>
+>
+>
+>  3.   The instructions for use shall contain at least the following information:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  the identity and the contact details of the provider and, where applicable, of its authorised representative;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  the characteristics, capabilities and limitations of performance of the high-risk AI system, including:
+>
+>
+>
+>
+>
+>
+>
+>  (i)
+>
+>
+>
+>  its intended purpose;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (ii)
+>
+>
+>
+>  the level of accuracy, including its metrics, robustness and cybersecurity referred to in Article 15 against which the high-risk AI system has been tested and validated and which can be expected, and any known and foreseeable circumstances that may have an impact on that expected level of accuracy, robustness and cybersecurity;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (iii)
+>
+>
+>
+>  any known or foreseeable circumstance, related to the use of the high-risk AI system in accordance with its intended purpose or under conditions of reasonably foreseeable misuse, which may lead to risks to the health and safety or fundamental rights referred to in Article 9(2);
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (iv)
+>
+>
+>
+>  where applicable, the technical capabilities and characteristics of the high-risk AI system to provide information that is relevant to explain its output;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (v)
+>
+>
+>
+>  when appropriate, its performance regarding specific persons or groups of persons on which the system is intended to be used;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (vi)
+>
+>
+>
+>  when appropriate, specifications for the input data, or any other relevant information in terms of the training, validation and testing data sets used, taking into account the intended purpose of the high-risk AI system;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (vii)
+>
+>
+>
+>  where applicable, information to enable deployers to interpret the output of the high-risk AI system and use it appropriately;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  the changes to the high-risk AI system and its performance which have been pre-determined by the provider at the moment of the initial conformity assessment, if any;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (d)
+>
+>
+>
+>  the human oversight measures referred to in Article 14, including the technical measures put in place to facilitate the interpretation of the outputs of the high-risk AI systems by the deployers;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (e)
+>
+>
+>
+>  the computational and hardware resources needed, the expected lifetime of the high-risk AI system and any necessary maintenance and care measures, including their frequency, to ensure the proper functioning of that AI system, including as regards software updates;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (f)
+>
+>
+>
+>  where relevant, a description of the mechanisms included within the high-risk AI system that allows deployers to properly collect, store and interpret the logs in accordance with Article 12.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 15, Čl. 9, Čl. 14, Čl. 12
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d0cbf9bda6dade4dbbdb -->
+
 ### Čl. 14 — Lidský dohled
 
 **Doslovné znění (EN) — Article 14 — Human oversight:**
@@ -959,6 +2561,193 @@ Zpřísněný požadavek čtyř očí — resp. požadavek ověření alespoň d
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dc7bf1ea5d7271b5f09f generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 14 — Human oversight
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   High-risk AI systems shall be designed and developed in such a way, including with appropriate human-machine interface tools, that they can be effectively overseen by natural persons during the period in which they are in use.
+>
+>
+>
+>
+>  2.   Human oversight shall aim to prevent or minimise the risks to health, safety or fundamental rights that may emerge when a high-risk AI system is used in accordance with its intended purpose or under conditions of reasonably foreseeable misuse, in particular where such risks persist despite the application of other requirements set out in this Section.
+>
+>
+>
+>
+>  3.   The oversight measures shall be commensurate with the risks, level of autonomy and context of use of the high-risk AI system, and shall be ensured through either one or both of the following types of measures:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  measures identified and built, when technically feasible, into the high-risk AI system by the provider before it is placed on the market or put into service;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  measures identified by the provider before placing the high-risk AI system on the market or putting it into service and that are appropriate to be implemented by the deployer.
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  4.   For the purpose of implementing paragraphs 1, 2 and 3, the high-risk AI system shall be provided to the deployer in such a way that natural persons to whom human oversight is assigned are enabled, as appropriate and proportionate:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  to properly understand the relevant capacities and limitations of the high-risk AI system and be able to duly monitor its operation, including in view of detecting and addressing anomalies, dysfunctions and unexpected performance;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  to remain aware of the possible tendency of automatically relying or over-relying on the output produced by a high-risk AI system (automation bias), in particular for high-risk AI systems used to provide information or recommendations for decisions to be taken by natural persons;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  to correctly interpret the high-risk AI system’s output, taking into account, for example, the interpretation tools and methods available;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (d)
+>
+>
+>
+>  to decide, in any particular situation, not to use the high-risk AI system or to otherwise disregard, override or reverse the output of the high-risk AI system;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (e)
+>
+>
+>
+>  to intervene in the operation of the high-risk AI system or interrupt the system through a ‘stop’ button or a similar procedure that allows the system to come to a halt in a safe state.
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  5.   For high-risk AI systems referred to in point 1(a) of Annex III, the measures referred to in paragraph 3 of this Article shall be such as to ensure that, in addition, no action or decision is taken by the deployer on the basis of the identification resulting from the system unless that identification has been separately verified and confirmed by at least two natural persons with the necessary competence, training and authority.
+>
+>  The requirement for a separate verification by at least two natural persons shall not apply to high-risk AI systems used for the purposes of law enforcement, migration, border control or asylum, where Union or national law considers the application of this requirement to be disproportionate.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dc7bf1ea5d7271b5f09f -->
+
 ### Čl. 15 — Přesnost, robustnost a kybernetická bezpečnost
 
 **Doslovné znění (EN) — Article 15 — Accuracy, robustness and cybersecurity:**
@@ -1051,3 +2840,76 @@ Kybernetická bezpečnost (odst. 5) představuje průsečík AI aktu s nařízen
 **Typicky rozhodné důkazy / podklady:** zprávy z testů robustnosti a penetračních testů, model hrozeb a dokumentace bezpečnostní architektury, deklarované metriky v návodu k použití, protokoly systému a forenzní analýza incidentu, hlášení dle čl. 73.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=281c374954a1e34313a5 generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 15 — Accuracy, robustness and cybersecurity
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   High-risk AI systems shall be designed and developed in such a way that they achieve an appropriate level of accuracy, robustness, and cybersecurity, and that they perform consistently in those respects throughout their lifecycle.
+>
+>
+>
+>
+>  2.   To address the technical aspects of how to measure the appropriate levels of accuracy and robustness set out in paragraph 1 and any other relevant performance metrics, the Commission shall, in cooperation with relevant stakeholders and organisations such as metrology and benchmarking authorities, encourage, as appropriate, the development of benchmarks and measurement methodologies.
+>
+>
+>
+>
+>  3.   The levels of accuracy and the relevant accuracy metrics of high-risk AI systems shall be declared in the accompanying instructions of use.
+>
+>
+>
+>
+>  4.   High-risk AI systems shall be as resilient as possible regarding errors, faults or inconsistencies that may occur within the system or the environment in which the system operates, in particular due to their interaction with natural persons or other systems. Technical and organisational measures shall be taken in this regard.
+>
+>  The robustness of high-risk AI systems may be achieved through technical redundancy solutions, which may include backup or fail-safe plans.
+>
+>  High-risk AI systems that continue to learn after being placed on the market or put into service shall be developed in such a way as to eliminate or reduce as far as possible the risk of possibly biased outputs influencing input for future operations (feedback loops), and as to ensure that any such feedback loops are duly addressed with appropriate mitigation measures.
+>
+>
+>
+>
+>  5.   High-risk AI systems shall be resilient against attempts by unauthorised third parties to alter their use, outputs or performance by exploiting system vulnerabilities.
+>
+>  The technical solutions aiming to ensure the cybersecurity of high-risk AI systems shall be appropriate to the relevant circumstances and the risks.
+>
+>  The technical solutions to address AI specific vulnerabilities shall include, where appropriate, measures to prevent, detect, respond to, resolve and control for attacks trying to manipulate the training data set (data poisoning), or pre-trained components used in training (model poisoning), inputs designed to cause the AI model to make a mistake (adversarial examples or model evasion), confidentiality attacks or model flaws.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=281c374954a1e34313a5 -->

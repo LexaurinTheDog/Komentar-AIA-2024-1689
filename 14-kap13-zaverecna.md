@@ -64,6 +64,55 @@ Třetí rovinou jsou hodnocení a přezkum (čl. 112) a harmonogram použitelnos
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=25da64183348b6c4831a generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 102 — Amendment to Regulation (EC) No 300/2008
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  In Article 4(3) of Regulation (EC) No 300/2008, the following subparagraph is added:
+>
+>
+>  ‘When adopting detailed measures related to technical specifications and procedures for approval and use of security equipment concerning Artificial Intelligence systems within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 4
+
+##### Souvisící předpisy
+
+- akt EU 2024/1689 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=25da64183348b6c4831a -->
+
 ### Čl. 103 — Změna nařízení (EU) č. 167/2013
 
 **Doslovné znění (EN) — Article 103 — Amendment to Regulation (EU) No 167/2013:**
@@ -117,6 +166,55 @@ Třetí rovinou jsou hodnocení a přezkum (čl. 112) a harmonogram použitelnos
 **Typicky rozhodné důkazy / podklady:** technická dokumentace a analýza rizik bezpečnostního prvku, popis trénovacích a testovacích dat, protokoly technické zkušebny, znění a odůvodnění přeneseného aktu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=210d8f63bad0c0f0f69a generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 103 — Amendment to Regulation (EU) No 167/2013
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  In Article 17(5) of Regulation (EU) No 167/2013, the following subparagraph is added:
+>
+>
+>  ‘When adopting delegated acts pursuant to the first subparagraph concerning artificial intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 17
+
+##### Souvisící předpisy
+
+- akt EU 2024/1689 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=210d8f63bad0c0f0f69a -->
 
 ### Čl. 104 — Změna nařízení (EU) č. 168/2013
 
@@ -172,6 +270,55 @@ Třetí rovinou jsou hodnocení a přezkum (čl. 112) a harmonogram použitelnos
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5b94443c31b2888b3e43 generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 104 — Amendment to Regulation (EU) No 168/2013
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  In Article 22(5) of Regulation (EU) No 168/2013, the following subparagraph is added:
+>
+>
+>  ‘When adopting delegated acts pursuant to the first subparagraph concerning Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 22
+
+##### Souvisící předpisy
+
+- akt EU 2024/1689 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5b94443c31b2888b3e43 -->
+
 ### Čl. 105 — Změna směrnice 2014/90/EU
 
 **Doslovné znění (EN) — Article 105 — Amendment to Directive 2014/90/EU:**
@@ -225,6 +372,57 @@ Třetí rovinou jsou hodnocení a přezkum (čl. 112) a harmonogram použitelnos
 **Typicky rozhodné důkazy / podklady:** certifikát notifikovaného subjektu (kormidelní značka), zkušební protokoly, dokumentace AI komponenty, příslušné technické specifikace a zkušební normy Komise.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fb360ade79c96128c535 generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 105 — Amendment to Directive 2014/90/EU
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  In Article 8 of Directive 2014/90/EU, the following paragraph is added:
+>
+>
+>
+>  ‘5.   For Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), when carrying out its activities pursuant to paragraph 1 and when adopting technical specifications and testing standards in accordance with paragraphs 2 and 3, the Commission shall take into account the requirements set out in Chapter III, Section 2, of that Regulation.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 8
+
+##### Souvisící předpisy
+
+- akt EU 2014/90 (výslovně uvedeno v místním znění)
+- akt EU 2024/1689 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fb360ade79c96128c535 -->
 
 ### Čl. 106 — Změna směrnice (EU) 2016/797
 
@@ -280,6 +478,57 @@ Třetí rovinou jsou hodnocení a přezkum (čl. 112) a harmonogram použitelnos
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3b4e687deb18ad5b4e0a generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 106 — Amendment to Directive (EU) 2016/797
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  In Article 5 of Directive (EU) 2016/797, the following paragraph is added:
+>
+>
+>
+>  ‘12.   When adopting delegated acts pursuant to paragraph 1 and implementing acts pursuant to paragraph 11 concerning Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 5
+
+##### Souvisící předpisy
+
+- akt EU 2016/797 (výslovně uvedeno v místním znění)
+- akt EU 2024/1689 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3b4e687deb18ad5b4e0a -->
+
 ### Čl. 107 — Změna nařízení (EU) 2018/858
 
 **Doslovné znění (EN) — Article 107 — Amendment to Regulation (EU) 2018/858:**
@@ -333,6 +582,57 @@ Pro automobilový průmysl je čl. 107 (spolu s čl. 109) klíčovou spojkou mez
 **Typicky rozhodné důkazy / podklady:** dokumentace schválení typu, validační a simulační protokoly, dokumentace trénovacích dat, texty přenesených aktů a relevantních předpisů EHK OSN.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0422014cd0b5b1f9d191 generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 107 — Amendment to Regulation (EU) 2018/858
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  In Article 5 of Regulation (EU) 2018/858 the following paragraph is added:
+>
+>
+>
+>  ‘4.   When adopting delegated acts pursuant to paragraph 3 concerning Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 5
+
+##### Souvisící předpisy
+
+- akt EU 2018/858 (výslovně uvedeno v místním znění)
+- akt EU 2024/1689 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0422014cd0b5b1f9d191 -->
 
 ### Čl. 108 — Změny nařízení (EU) 2018/1139
 
@@ -444,6 +744,181 @@ Pro automobilový průmysl je čl. 107 (spolu s čl. 109) klíčovou spojkou mez
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5acf7825a1bb2bf2e53d generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 108 — Amendments to Regulation (EU) 2018/1139
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  Regulation (EU) 2018/1139 is amended as follows:
+>
+>
+>
+>
+>
+>
+>
+>  (1)
+>
+>
+>
+>  in Article 17, the following paragraph is added:
+>
+>
+>  ‘3.   Without prejudice to paragraph 2, when adopting implementing acts pursuant to paragraph 1 concerning Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
+>
+>
+>
+>
+>  (*)  Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj).’;"
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (2)
+>
+>
+>
+>  in Article 19, the following paragraph is added:
+>
+>
+>  ‘4.   When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.’
+>
+>
+>
+> ;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (3)
+>
+>
+>
+>  in Article 43, the following paragraph is added:
+>
+>
+>  ‘4.   When adopting implementing acts pursuant to paragraph 1 concerning Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.’
+>
+>
+>
+> ;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (4)
+>
+>
+>
+>  in Article 47, the following paragraph is added:
+>
+>
+>  ‘3.   When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.’
+>
+>
+>
+> ;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (5)
+>
+>
+>
+>  in Article 57, the following subparagraph is added:
+>
+>  ‘When adopting those implementing acts concerning Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.’
+>
+> ;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (6)
+>
+>
+>
+>  in Article 58, the following paragraph is added:
+>
+>
+>  ‘3.   When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.’.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 17, Čl. 19, Čl. 43, Čl. 47, Čl. 57, Čl. 58
+
+##### Souvisící předpisy
+
+- akt EU 2018/1139 (výslovně uvedeno v místním znění)
+- akt EU 2024/1689 (výslovně uvedeno v místním znění)
+- akt EU 2018/858 (výslovně uvedeno v místním znění)
+- akt EU 2014/90 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5acf7825a1bb2bf2e53d -->
+
 ### Čl. 109 — Změna nařízení (EU) 2019/2144
 
 **Doslovné znění (EN) — Article 109 — Amendment to Regulation (EU) 2019/2144:**
@@ -497,6 +972,57 @@ Pro automobilový průmysl je čl. 107 (spolu s čl. 109) klíčovou spojkou mez
 **Typicky rozhodné důkazy / podklady:** validační studie přesnosti detekce, technická dokumentace, posouzení vlivu na ochranu osobních údajů, dokumentace schválení typu, popis datových toků.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dbcd654417ae6563ec47 generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 109 — Amendment to Regulation (EU) 2019/2144
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  In Article 11 of Regulation (EU) 2019/2144, the following paragraph is added:
+>
+>
+>
+>  ‘3.   When adopting the implementing acts pursuant to paragraph 2, concerning artificial intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 11
+
+##### Souvisící předpisy
+
+- akt EU 2019/2144 (výslovně uvedeno v místním znění)
+- akt EU 2024/1689 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dbcd654417ae6563ec47 -->
 
 ### Čl. 110 — Změna směrnice (EU) 2020/1828
 
@@ -556,6 +1082,67 @@ Pro automobilový průmysl je čl. 107 (spolu s čl. 109) klíčovou spojkou mez
 **Typicky rozhodné důkazy / podklady:** záznamy uživatelského rozhraní a komunikace chatbota, znalecká analýza algoritmu, počet a přihlášky poškozených spotřebitelů, rozhodnutí orgánu dozoru, interní dokumentace poskytovatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3ea63823ed9679e665cd generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 110 — Amendment to Directive (EU) 2020/1828
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  In Annex I to Directive (EU) 2020/1828 of the European Parliament and of the Council (58), the following point is added:
+>
+>
+>
+>
+>
+>
+>
+>  ‘(68)
+>
+>
+>
+>  Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj).’.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2020/1828 (výslovně uvedeno v místním znění)
+- akt EU 2024/1689 (výslovně uvedeno v místním znění)
+- akt EU 2018/858 (výslovně uvedeno v místním znění)
+- akt EU 2014/90 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3ea63823ed9679e665cd -->
 
 ### Čl. 111 — Systémy AI a obecné modely AI již uvedené na trh nebo do provozu
 
@@ -625,6 +1212,64 @@ Odstavec 3 stanoví lhůtu pro poskytovatele obecných modelů AI (GPAI) — do 
 **Typicky rozhodné důkazy / podklady:** předávací protokoly a smlouvy s daty nasazení, verzovací a změnová dokumentace, technický popis architektury před změnou a po ní, klasifikační posouzení, doklady o posouzení shody.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1cee49e922ea59a1ee1f generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 111 — AI systems already placed on the market or put into service and general-purpose AI models already placed on the marked
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   Without prejudice to the application of Article 5 as referred to in Article 113(3), point (a), AI systems which are components of the large-scale IT systems established by the legal acts listed in Annex X that have been placed on the market or put into service before 2 August 2027 shall be brought into compliance with this Regulation by 31 December 2030.
+>
+>  The requirements laid down in this Regulation shall be taken into account in the evaluation of each large-scale IT system established by the legal acts listed in Annex X to be undertaken as provided for in those legal acts and where those legal acts are replaced or amended.
+>
+>
+>
+>
+>  2.   Without prejudice to the application of Article 5 as referred to in Article 113(3), point (a), this Regulation shall apply to operators of high-risk AI systems, other than the systems referred to in paragraph 1 of this Article, that have been placed on the market or put into service before 2 August 2026, only if, as from that date, those systems are subject to significant changes in their designs. In any case, the providers and deployers of high-risk AI systems intended to be used by public authorities shall take the necessary steps to comply with the requirements and obligations of this Regulation by 2 August 2030.
+>
+>
+>
+>
+>  3.   Providers of general-purpose AI models that have been placed on the market before 2 August 2025 shall take the necessary steps in order to comply with the obligations laid down in this Regulation by 2 August 2027.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 5, Čl. 113
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1cee49e922ea59a1ee1f -->
 
 ### Čl. 112 — Hodnocení a přezkum
 
@@ -776,6 +1421,282 @@ Závěrečné hodnocení vymáhání v odstavci 13 (do 2. srpna 2031) uzavírá 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b955bce227df1cc54ca7 generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 112 — Evaluation and review
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   The Commission shall assess the need for amendment of the list set out in Annex III and of the list of prohibited AI practices laid down in Article 5, once a year following the entry into force of this Regulation, and until the end of the period of the delegation of power laid down in Article 97. The Commission shall submit the findings of that assessment to the European Parliament and the Council.
+>
+>
+>
+>
+>  2.   By 2 August 2028 and every four years thereafter, the Commission shall evaluate and report to the European Parliament and to the Council on the following:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  the need for amendments extending existing area headings or adding new area headings in Annex III;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  amendments to the list of AI systems requiring additional transparency measures in Article 50;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  amendments enhancing the effectiveness of the supervision and governance system.
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  3.   By 2 August 2029 and every four years thereafter, the Commission shall submit a report on the evaluation and review of this Regulation to the European Parliament and to the Council. The report shall include an assessment with regard to the structure of enforcement and the possible need for a Union agency to resolve any identified shortcomings. On the basis of the findings, that report shall, where appropriate, be accompanied by a proposal for amendment of this Regulation. The reports shall be made public.
+>
+>
+>
+>
+>  4.   The reports referred to in paragraph 2 shall pay specific attention to the following:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  the status of the financial, technical and human resources of the national competent authorities in order to effectively perform the tasks assigned to them under this Regulation;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  the state of penalties, in particular administrative fines as referred to in Article 99(1), applied by Member States for infringements of this Regulation;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  adopted harmonised standards and common specifications developed to support this Regulation;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (d)
+>
+>
+>
+>  the number of undertakings that enter the market after the entry into application of this Regulation, and how many of them are SMEs.
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  5.   By 2 August 2028, the Commission shall evaluate the functioning of the AI Office, whether the AI Office has been given sufficient powers and competences to fulfil its tasks, and whether it would be relevant and needed for the proper implementation and enforcement of this Regulation to upgrade the AI Office and its enforcement competences and to increase its resources. The Commission shall submit a report on its evaluation to the European Parliament and to the Council.
+>
+>
+>
+>
+>  6.   By 2 August 2028 and every four years thereafter, the Commission shall submit a report on the review of the progress on the development of standardisation deliverables on the energy-efficient development of general-purpose AI models, and asses the need for further measures or actions, including binding measures or actions. The report shall be submitted to the European Parliament and to the Council, and it shall be made public.
+>
+>
+>
+>
+>  7.   By 2 August 2028 and every three years thereafter, the Commission shall evaluate the impact and effectiveness of voluntary codes of conduct to foster the application of the requirements set out in Chapter III, Section 2 for AI systems other than high-risk AI systems and possibly other additional requirements for AI systems other than high-risk AI systems, including as regards environmental sustainability.
+>
+>
+>
+>
+>  8.   For the purposes of paragraphs 1 to 7, the Board, the Member States and national competent authorities shall provide the Commission with information upon its request and without undue delay.
+>
+>
+>
+>
+>  9.   In carrying out the evaluations and reviews referred to in paragraphs 1 to 7, the Commission shall take into account the positions and findings of the Board, of the European Parliament, of the Council, and of other relevant bodies or sources.
+>
+>
+>
+>
+>  10.   The Commission shall, if necessary, submit appropriate proposals to amend this Regulation, in particular taking into account developments in technology, the effect of AI systems on health and safety, and on fundamental rights, and in light of the state of progress in the information society.
+>
+>
+>
+>
+>  11.   To guide the evaluations and reviews referred to in paragraphs 1 to 7 of this Article, the AI Office shall undertake to develop an objective and participative methodology for the evaluation of risk levels based on the criteria outlined in the relevant Articles and the inclusion of new systems in:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  the list set out in Annex III, including the extension of existing area headings or the addition of new area headings in that Annex;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  the list of prohibited practices set out in Article 5; and
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  the list of AI systems requiring additional transparency measures pursuant to Article 50.
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  12.   Any amendment to this Regulation pursuant to paragraph 10, or relevant delegated or implementing acts, which concerns sectoral Union harmonisation legislation listed in Section B of Annex I shall take into account the regulatory specificities of each sector, and the existing governance, conformity assessment and enforcement mechanisms and authorities established therein.
+>
+>
+>
+>
+>  13.   By 2 August 2031, the Commission shall carry out an assessment of the enforcement of this Regulation and shall report on it to the European Parliament, the Council and the European Economic and Social Committee, taking into account the first years of application of this Regulation. On the basis of the findings, that report shall, where appropriate, be accompanied by a proposal for amendment of this Regulation with regard to the structure of enforcement and the need for a Union agency to resolve any identified shortcomings.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 5, Čl. 97, Čl. 50, Čl. 99
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b955bce227df1cc54ca7 -->
+
 ### Čl. 113 — Vstup v platnost a použitelnost
 
 **Doslovné znění (EN) — Article 113 — Entry into force and application:**
@@ -862,3 +1783,98 @@ Závěrečné hodnocení vymáhání v odstavci 13 (do 2. srpna 2031) uzavírá 
 **Typicky rozhodné důkazy / podklady:** release a smluvní dokumentace s daty dodání, klasifikační analýzy systémů, compliance roadmapa podle fází, technická dokumentace dle kap. III a V, záznamy o změnách verzí.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=41e0d48b7e8a2032429f generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 113 — Entry into force and application
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+>
+>  It shall apply from 2 August 2026.
+>
+>  However:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  Chapters I and II shall apply from 2 February 2025;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  Chapter III Section 4, Chapter V, Chapter VII and Chapter XII and Article 78 shall apply from 2 August 2025, with the exception of Article 101;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  Article 6(1) and the corresponding obligations in this Regulation shall apply from 2 August 2027.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 78, Čl. 101, Čl. 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=41e0d48b7e8a2032429f -->

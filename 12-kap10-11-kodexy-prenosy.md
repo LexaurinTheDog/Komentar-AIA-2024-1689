@@ -101,6 +101,152 @@ Odstavec 4 odráží průřezový závazek AI aktu věnovat zvláštní pozornos
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a3def2dcae6a2117f0f3 generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 95 — Codes of conduct for voluntary application of specific requirements
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   The AI Office and the Member States shall encourage and facilitate the drawing up of codes of conduct, including related governance mechanisms, intended to foster the voluntary application to AI systems, other than high-risk AI systems, of some or all of the requirements set out in Chapter III, Section 2 taking into account the available technical solutions and industry best practices allowing for the application of such requirements.
+>
+>
+>
+>
+>  2.   The AI Office and the Member States shall facilitate the drawing up of codes of conduct concerning the voluntary application, including by deployers, of specific requirements to all AI systems, on the basis of clear objectives and key performance indicators to measure the achievement of those objectives, including elements such as, but not limited to:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  applicable elements provided for in Union ethical guidelines for trustworthy AI;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  assessing and minimising the impact of AI systems on environmental sustainability, including as regards energy-efficient programming and techniques for the efficient design, training and use of AI;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  promoting AI literacy, in particular that of persons dealing with the development, operation and use of AI;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (d)
+>
+>
+>
+>  facilitating an inclusive and diverse design of AI systems, including through the establishment of inclusive and diverse development teams and the promotion of stakeholders’ participation in that process;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (e)
+>
+>
+>
+>  assessing and preventing the negative impact of AI systems on vulnerable persons or groups of vulnerable persons, including as regards accessibility for persons with a disability, as well as on gender equality.
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  3.   Codes of conduct may be drawn up by individual providers or deployers of AI systems or by organisations representing them or by both, including with the involvement of any interested stakeholders and their representative organisations, including civil society organisations and academia. Codes of conduct may cover one or more AI systems taking into account the similarity of the intended purpose of the relevant systems.
+>
+>
+>
+>
+>  4.   The AI Office and the Member States shall take into account the specific interests and needs of SMEs, including start-ups, when encouraging and facilitating the drawing up of codes of conduct.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a3def2dcae6a2117f0f3 -->
+
 ### Čl. 96 — Pokyny Komise k provádění tohoto nařízení
 
 **Doslovné znění (EN) — Article 96 — Guidelines from the Commission on the implementation of this Regulation:**
@@ -196,6 +342,163 @@ Pokyny dle čl. 96 jsou nezávazným, ale prakticky určujícím výkladovým st
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ad0689b6af0ce8302a28 generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 96 — Guidelines from the Commission on the implementation of this Regulation
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   The Commission shall develop guidelines on the practical implementation of this Regulation, and in particular on:
+>
+>
+>
+>
+>
+>
+>
+>  (a)
+>
+>
+>
+>  the application of the requirements and obligations referred to in Articles 8 to 15 and in Article 25;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (b)
+>
+>
+>
+>  the prohibited practices referred to in Article 5;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (c)
+>
+>
+>
+>  the practical implementation of the provisions related to substantial modification;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (d)
+>
+>
+>
+>  the practical implementation of transparency obligations laid down in Article 50;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (e)
+>
+>
+>
+>  detailed information on the relationship of this Regulation with the Union harmonisation legislation listed in Annex I, as well as with other relevant Union law, including as regards consistency in their enforcement;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>  (f)
+>
+>
+>
+>  the application of the definition of an AI system as set out in Article 3, point (1).
+>
+>
+>
+>
+>
+>
+>  When issuing such guidelines, the Commission shall pay particular attention to the needs of SMEs including start-ups, of local public authorities and of the sectors most likely to be affected by this Regulation.
+>
+>  The guidelines referred to in the first subparagraph of this paragraph shall take due account of the generally acknowledged state of the art on AI, as well as of relevant harmonised standards and common specifications that are referred to in Articles 40 and 41, or of those harmonised standards or technical specifications that are set out pursuant to Union harmonisation law.
+>
+>
+>
+>
+>  2.   At the request of the Member States or the AI Office, or on its own initiative, the Commission shall update guidelines previously adopted when deemed necessary.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 25, Čl. 5, Čl. 50, Čl. 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ad0689b6af0ce8302a28 -->
+
 ## Kapitola XI — Přenesení pravomoci a postup projednávání ve výboru
 
 ### Čl. 97 — Výkon přenesené pravomoci
@@ -277,6 +580,77 @@ Comité consultatif ve smyslu čl. 97 odst. 4 odkazuje na mechanismus expertníc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=28560d7c40697c55b234 generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 97 — Exercise of the delegation
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+>
+>
+>
+>
+>  2.   The power to adopt delegated acts referred to in Article 6(6) and (7), Article 7(1) and (3), Article 11(3), Article 43(5) and (6), Article 47(5), Article 51(3), Article 52(4) and Article 53(5) and (6) shall be conferred on the Commission for a period of five years from 1 August 2024. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+>
+>
+>
+>
+>  3.   The delegation of power referred to in Article 6(6) and (7), Article 7(1) and (3), Article 11(3), Article 43(5) and (6), Article 47(5), Article 51(3), Article 52(4) and Article 53(5) and (6) may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of power specified in that decision. It shall take effect the day following that of its publication in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+>
+>
+>
+>
+>  4.   Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+>
+>
+>
+>
+>  5.   As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+>
+>
+>
+>
+>  6.   Any delegated act adopted pursuant to Article 6(6) or (7), Article 7(1) or (3), Article 11(3), Article 43(5) or (6), Article 47(5), Article 51(3), Article 52(4) or Article 53(5) or (6) shall enter into force only if no objection has been expressed by either the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 6, Čl. 7, Čl. 11, Čl. 43, Čl. 47, Čl. 51, Čl. 52, Čl. 53
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=28560d7c40697c55b234 -->
+
 ### Čl. 98 — Postup projednávání ve výboru
 
 **Doslovné znění (EN) — Article 98 — Committee procedure:**
@@ -337,3 +711,53 @@ Je třeba odlišit výbor dle čl. 98 od Výboru pro AI (AI Board) dle čl. 65 a
 **Typicky rozhodné důkazy / podklady:** návrh prováděcího aktu a jeho verze, záznamy a výsledky hlasování z komitologického rejstříku, stanovisko odvolacího výboru, znění vyhlášené v Úředním věstníku.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=528b9041772082f80d35 generator=2026-07-17.4 source_sha256=ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac -->
+#### Revizní doplnění k Čl. 98 — Committee procedure
+
+> Revize: 17. 7. 2026 | Znění předpisu k: datum dokumentu místního zdroje 13. 6. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Regulations/2024/32024R1689.md`; identifikátor verze: `32024R1689`; SHA-256: `ffa9271cad3cebf4e066db29126a65d3a51783030074e7a14a34fe8e203c0cac`.
+
+##### Znění ustanovení
+
+>  1.   The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+>
+>
+>
+>
+>  2.   Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: Čl. 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=528b9041772082f80d35 -->
